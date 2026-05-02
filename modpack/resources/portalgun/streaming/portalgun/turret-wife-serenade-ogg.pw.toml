@@ -1,0 +1,8 @@
+name = "turret_wife_serenade.ogg"
+filename = "turret_wife_serenade.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/streaming/portalgun/turret_wife_serenade.ogg"
+hash-format = "sha256"
+hash = "eb299d8bb9bd19d0b88a79fa5d9d6a2b488d947bc68de69c476eb6004fd72a66"

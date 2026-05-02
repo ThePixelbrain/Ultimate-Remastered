@@ -1,0 +1,8 @@
+name = "see_mobspawner.ogg"
+filename = "see_mobspawner.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/see_mobspawner.ogg"
+hash-format = "sha256"
+hash = "c99f780254b2fa8a663400a77a64d5ae09fd7ea3cf1982f0cf291af927af049f"

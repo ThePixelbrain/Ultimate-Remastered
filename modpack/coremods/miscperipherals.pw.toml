@@ -1,0 +1,13 @@
+name = "MiscPeripherals"
+filename = "miscperipherals-3.1c.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RBasEVxx/versions/vaNZReYz/miscperipherals-3.1c.jar"
+hash-format = "sha256"
+hash = "76d6c7cc09a285f7b4855b9a187bda70cef4f16f937f1931afecf05a3ac812ce"
+
+[update]
+[update.modrinth]
+mod-id = "RBasEVxx"
+version = "vaNZReYz"

@@ -1,0 +1,8 @@
+name = "defective_bounce5.ogg"
+filename = "defective_bounce5.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_bounce5.ogg"
+hash-format = "sha256"
+hash = "24a9955fe507ad68c282d6caf4fc28e0a3fbb7578fb81440a6132d20222cd8a9"

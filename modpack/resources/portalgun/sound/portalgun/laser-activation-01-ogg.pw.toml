@@ -1,0 +1,8 @@
+name = "laser_activation_01.ogg"
+filename = "laser_activation_01.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/laser_activation_01.ogg"
+hash-format = "sha256"
+hash = "e32f710612abebdfa5eaba9e19c604c9db5975399687d8005598f72059373c10"

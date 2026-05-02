@@ -1,0 +1,8 @@
+name = "classicalmusic.ogg"
+filename = "classicalmusic.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/classicalmusic.ogg"
+hash-format = "sha256"
+hash = "7f9e55df07c63ca8380e9b08bda49ea006dc5acc0585817df2f42f371db3b0f6"

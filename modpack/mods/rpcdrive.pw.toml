@@ -1,0 +1,13 @@
+name = "rpcDrive"
+filename = "rpcDrive-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HeOdaLpF/versions/vPsLmmy2/rpcDrive-0.1.0.jar"
+hash-format = "sha256"
+hash = "9a10cebdc61244744f595ec28169d2f028d4b8398868fad15cffe4aa16e87937"
+
+[update]
+[update.modrinth]
+mod-id = "HeOdaLpF"
+version = "vPsLmmy2"

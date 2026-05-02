@@ -1,0 +1,8 @@
+name = "stabbed.ogg"
+filename = "stabbed.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/stabbed.ogg"
+hash-format = "sha256"
+hash = "41d33425317a5dd88cc6b18ca2ac5228fb29826790f1d9ef8b85da4d5df307d4"

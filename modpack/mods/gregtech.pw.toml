@@ -1,0 +1,7 @@
+name = "GregTech"
+filename = "GregTech.zip"
+
+[download]
+url = "https://github.com/GregTech6/GregTech2/releases/download/v4.6.29009/gregtechmod290i.zip"
+hash-format = "sha256"
+hash = "bab3a934e3d67f4484d4f68985cba5eaefc86b00372c353ca871765fbbe1eeec"

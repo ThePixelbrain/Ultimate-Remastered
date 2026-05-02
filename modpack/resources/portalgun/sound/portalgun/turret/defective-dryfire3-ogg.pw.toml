@@ -1,0 +1,8 @@
+name = "defective_dryfire3.ogg"
+filename = "defective_dryfire3.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_dryfire3.ogg"
+hash-format = "sha256"
+hash = "2ae9bb84c87dc4dbe2df7efaf62de072a2b7b2a16a9af3dd106043260b50f44b"

@@ -1,0 +1,8 @@
+name = "cake.ogg"
+filename = "cake.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/cake.ogg"
+hash-format = "sha256"
+hash = "871e888f95468f1f0c26deaf82e8cea3d7cf27b5d1751a759b50dfe0edc388b4"

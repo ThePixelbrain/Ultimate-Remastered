@@ -1,0 +1,13 @@
+name = "NEI- RedPower plugin"
+filename = "NEI_RedPowerPlugin 1.4.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "cb415b19bc2fda4404fcab5e4bde33f3b7091af421fca8673ebfdce1183ca5a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2233253
+project-id = 229317

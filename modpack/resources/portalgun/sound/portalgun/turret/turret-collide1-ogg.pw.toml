@@ -1,0 +1,8 @@
+name = "turret_collide1.ogg"
+filename = "turret_collide1.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_collide1.ogg"
+hash-format = "sha256"
+hash = "6b9a6c8d1899f12f2053bc1ae749c38184a01afeece9476a74c00af6d220812d"

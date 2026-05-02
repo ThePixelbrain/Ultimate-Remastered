@@ -1,0 +1,8 @@
+name = "turret_pickup_2.ogg"
+filename = "turret_pickup_2.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_pickup_2.ogg"
+hash-format = "sha256"
+hash = "db64b2ef5fb0fc965ea21251bd43d8a553b15214799454566eeecc05e4857fe1"

@@ -1,0 +1,8 @@
+name = "energy_sing_9_loop.ogg"
+filename = "energy_sing_9_loop.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/heploop/energy_sing_9_loop.ogg"
+hash-format = "sha256"
+hash = "23c8ba15dd6756700c537859681c7244932c7e6dce3cf4cd2ea5a0b2a0cae38a"

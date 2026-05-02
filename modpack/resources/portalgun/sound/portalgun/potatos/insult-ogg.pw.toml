@@ -1,0 +1,8 @@
+name = "insult.ogg"
+filename = "insult.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/insult.ogg"
+hash-format = "sha256"
+hash = "b908bbc79e6a4d8d080e30e2ede55e7aba806d13bd8cd375cd56087470d845b5"

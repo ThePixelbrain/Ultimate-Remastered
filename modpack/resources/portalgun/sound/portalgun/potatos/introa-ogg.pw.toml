@@ -1,0 +1,8 @@
+name = "introa.ogg"
+filename = "introa.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/introa.ogg"
+hash-format = "sha256"
+hash = "ff941c1ad8e22fd72532ff01cede5a36cfe808e3d1fc74d1ea181bfeec462178"

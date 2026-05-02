@@ -1,0 +1,8 @@
+name = "different_death.ogg"
+filename = "different_death.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/different_death.ogg"
+hash-format = "sha256"
+hash = "8e260e128bb948e0b76f95c805374eeef8193dd9aecf10c12f53f4c16dc27e03"

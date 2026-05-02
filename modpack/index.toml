@@ -1,0 +1,4317 @@
+hash-format = "sha256"
+
+[[files]]
+file = "coremods/PowerCrystalsCore.jar"
+hash = "56a0ec4f8d18025539269a750fdc0b1ac86b93ba1a93d7ba229c32d9e76038b2"
+
+[[files]]
+file = "coremods/RPTweaks.jar"
+hash = "b7eb2e5128c4119f0f4bf15bc87fcd6fd54a074517c28977b8d6b486295843cb"
+
+[[files]]
+file = "coremods/cc-tweaked-1.4.7-1.115.1+pr2189.jar"
+hash = "7e3f43d7346835a1c06ffce15a374883813b626432ceb7f69dfa2d63b4265aaf"
+
+[[files]]
+file = "coremods/codechickencore.pw.toml"
+hash = "6d5d7da3399d1163bf8407ac338fd594978b193fef43941a570db22a5ae5f78b"
+metafile = true
+
+[[files]]
+file = "coremods/ears.pw.toml"
+hash = "a68229742c056058a15ff279af3ede8fb9d7f58f32c9639df3aa60091dbbf2f8"
+metafile = true
+
+[[files]]
+file = "coremods/fallingfix.pw.toml"
+hash = "66dd44a72ab775e549259f2bd2113e9cd8b9fc6530f6c9e810dd76216b034968"
+metafile = true
+
+[[files]]
+file = "coremods/miscperipherals.pw.toml"
+hash = "c245ce1a64918a203c51698b53059f36fdc6863ff354484b7cea4e91fb825149"
+metafile = true
+
+[[files]]
+file = "coremods/notenoughitems.pw.toml"
+hash = "84b6660d2f03aef486c3245fe745189d4f8941b29054e76dbf9eaa572df43ff8"
+metafile = true
+
+[[files]]
+file = "mods/AdvancedMachines.zip"
+hash = "0ccd2e0177f77053f4c2b03b384c6fa7e6846dc151ede71629bea4a779b4d229"
+
+[[files]]
+file = "mods/AdvancedSolarPanel.zip"
+hash = "190a2986ccd9494db89509a1a671c7de9bd4e18ac517375ad488833ab719050e"
+
+[[files]]
+file = "mods/ChiselRetro-upsilon1.0.jar"
+hash = "91403722fbdca3899db41a8c521fd8753bdc21ed6ce8cacc964da29a59dd71ab"
+
+[[files]]
+file = "mods/CoFHCore.zip"
+hash = "a45cecc8bb559a6bd536bb7d66893caa2b9eb82ef8e3fc6676c7ed38063c99ce"
+
+[[files]]
+file = "mods/DartCraft.jar"
+hash = "66a37e9f8d4a7001166633f3e46d273cbca660b7ae6b67c5465d6e37e0214fe6"
+
+[[files]]
+file = "mods/EE3.jar"
+hash = "a047d8033e76badac909fb9a80171742dd065e1056342e3dfb5fce6488cba2c9"
+
+[[files]]
+file = "mods/ExtraBiomesXL.jar"
+hash = "46124272ed0aef136708cc19d52604380a02925680571f89f76e23fae4a2746d"
+
+[[files]]
+file = "mods/FlatBedrock.zip"
+hash = "bbd79e319f351b922a0771700c274c0cecf06844859c05701a161447ca1034fe"
+
+[[files]]
+file = "mods/GraviSuite.zip"
+hash = "2b37f3a8d43311dc5189f98906c58fe5aef629d06fea931b1b763b81aa3eedeb"
+
+[[files]]
+file = "mods/IC2.jar"
+hash = "db0dacaf4b7d4a98c62c8b60cfa6bad0af6ff28fa7572f8533fae28eb9fee513"
+
+[[files]]
+file = "mods/IC2NuclearControl.zip"
+hash = "4d4966eb7e49a1384bdc06c722c5c49b489bb8a29fe98c4859782d47b2f998b1"
+
+[[files]]
+file = "mods/IronChest.zip"
+hash = "4214d83460fdf40ff192677fd2ecc353e6ff4d71b34d49e5a95b03292d458b21"
+
+[[files]]
+file = "mods/LogisticsPipes.jar"
+hash = "5f0c4f53566cdeceb2493cdfcd0a4564755a57c7f5e6ac1c49fb7c8acacedbad"
+
+[[files]]
+file = "mods/MineFactoryReloaded.jar"
+hash = "1ebe360d30ea10592d6a7eb4871a2d6e47ea6dcdadb77c15fbf888d05d26d5bc"
+
+[[files]]
+file = "mods/ModularForceFieldSystem.zip"
+hash = "f3b00376f67f0a2313fe4ecf7de13cb3495510eafde969912f04dac1e4318a69"
+
+[[files]]
+file = "mods/ModularPowersuits.jar"
+hash = "1a0b7a4ccfa2fc76a9704798d429a36a70ab413a8e99d92bc3860d467922dfe0"
+
+[[files]]
+file = "mods/NEIAddons.jar"
+hash = "f736554d2ac49997778b700805e3a3636940284a9a26a40c199d44ad4839d027"
+
+[[files]]
+file = "mods/NEIPlugins.jar"
+hash = "7602090e2e8a055eba3a72d6a05d91afbf53af3ac78c1a218bf8f9b4e9cc2e21"
+
+[[files]]
+file = "mods/NetherOres.jar"
+hash = "69fffb8de08b51813072710a1194258b8059b2fa12ddeddf63aecf4b815c57d7"
+
+[[files]]
+file = "mods/OmniTools.zip"
+hash = "1a30bf87a9ef6df11b5873a9af24a28c057c0613014dce447a35a0e8f7ae00bf"
+
+[[files]]
+file = "mods/OpenCCSensors.zip"
+hash = "08e129c686194491def6db2a33a06bb1d1fb6e018d55d3291614c1d12bf9fe40"
+
+[[files]]
+file = "mods/PetroGen.zip"
+hash = "453772af8b3419fd436c8efaed7709bb36a1b13ddfcd00153f78947dc1f04541"
+
+[[files]]
+file = "mods/PowerConverters.jar"
+hash = "dc257b7108c4bc58fc469b40f20ca3e80e45f1efd2e149435743c1a78d577e2b"
+
+[[files]]
+file = "mods/Railcraft.zip"
+hash = "d1cfae23b2a56599bff5212695cc31253f529ded3e6d79e10acff7895e469c18"
+
+[[files]]
+file = "mods/RetroTweaker.jar"
+hash = "e1bd4901e53e740c7728e77e592042d634633d9971509c570ade394754202765"
+
+[[files]]
+file = "mods/Ruins_1.4.6.zip"
+hash = "47ef0c2ede5abf934add0fc48662c274bc80e0d012b828d88dbda28592137fc1"
+
+[[files]]
+file = "mods/SecretRoomsMod.zip"
+hash = "1bb6b95939178e2e69845ce7bc4607fe29cf75a986f532a4518bfe8c093c03ff"
+
+[[files]]
+file = "mods/SoulShards.zip"
+hash = "f20812ab82bfda233fa0e1f3611453452c1b22402c139d91f1a80e413f56c302"
+
+[[files]]
+file = "mods/StevesCarts.zip"
+hash = "51ceba8ad7c3f043bf87f8dd4c2678b96e5d047af6271b11e75011f29afb03e9"
+
+[[files]]
+file = "mods/Thaumcraft.zip"
+hash = "ce010acb0a8016ff2606bc386735f2ae4d70ca6f9ef034e667b4d65dcfc3e727"
+
+[[files]]
+file = "mods/ThaumicBees.jar"
+hash = "f1c00fa25e9d78c7c54e6cb841a17d8b8d540a9ccd96e6966695ac242c9cc7af"
+
+[[files]]
+file = "mods/ThermalExpansion.zip"
+hash = "f24d706c37e525d8e7804968b7019b57b571cba98b4ffc0c32a9521731f69d4c"
+
+[[files]]
+file = "mods/XReliquary.jar"
+hash = "666b1596fce65d76dbbba8fb766017d0e10f134c1cab689ec1c5aa66951f6fb6"
+
+[[files]]
+file = "mods/XyCraft.zip"
+hash = "ed07abe0c990d38bff58f21d383acb448f3938a93da49df74e17a90313ec0157"
+
+[[files]]
+file = "mods/applied-energistics-1.pw.toml"
+hash = "07b06a01c36845cfeef296454f0cc29683edc67c962d6c0cca0717a066dbf077"
+metafile = true
+
+[[files]]
+file = "mods/bibliocraft.pw.toml"
+hash = "1ecef099f9b522977a662f4aac909169adf9b01815cbcbe8370a719fe3ad1f10"
+metafile = true
+
+[[files]]
+file = "mods/binnies-mods.pw.toml"
+hash = "9203d11079138e3261e81a4109e72f3334bf229f6b13bf54bddd7a1fbc46ff42"
+metafile = true
+
+[[files]]
+file = "mods/block-helper.pw.toml"
+hash = "acc2ca8f1d08bbeb1ec7ea4a2a558dc5519536a505194ca7de124956d176a45e"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft-A-1.4.7-3.4.6.jar"
+hash = "fea5c4c55a9b2769453b1f0f7d02ec98e7c0ba67588ac38c7652f44040af3e65"
+
+[[files]]
+file = "mods/chargepads.pw.toml"
+hash = "a87b4241da16545477120988a79177c11c236caa83cbb7ed7158e2038017333b"
+metafile = true
+
+[[files]]
+file = "mods/chickenchunks.pw.toml"
+hash = "078bf33219d3daf967a92215c537b4eeaf5fd74a9925d257ccbd1169952781c0"
+metafile = true
+
+[[files]]
+file = "mods/computercraft.pw.toml"
+hash = "18a4bda8d2dd1f26c75eea809227fb9bdb17b1483a2d5d11b1a355313cc789de"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage.pw.toml"
+hash = "2bddad1ed1f354ba76082576e6d9cf8d6cb54f19e88d435ff0b7294645e2e611"
+metafile = true
+
+[[files]]
+file = "mods/factorization.pw.toml"
+hash = "d9e9222bce6502600246c4a1c7c8ad8983fc8b70d38841d2f9459752c025c1ed"
+metafile = true
+
+[[files]]
+file = "mods/forestry.pw.toml"
+hash = "abcd1112c8d3050f751bff4983f6e48c94761f4b268a7de33e5d9187c23fbb40"
+metafile = true
+
+[[files]]
+file = "mods/gravity-gun.pw.toml"
+hash = "a1742c7913790b83bd60752b1339bb87fb9f495696a19b80dd47870ba96acc48"
+metafile = true
+
+[[files]]
+file = "mods/gregtech.pw.toml"
+hash = "c8da5d79f337e286df5204c986aa8c051f45939c55a34aedee55451c6f031adc"
+metafile = true
+
+[[files]]
+file = "mods/immibis-core.pw.toml"
+hash = "4179ebc48c7bf08177e3a34213a9dd27ca986330927a0bb7ac7c3150d7adc4f2"
+metafile = true
+
+[[files]]
+file = "mods/invtweaks.pw.toml"
+hash = "ed63f674d627751e8b5ec76f67843087899dbb1be42d7bc0d9f0bfa2d9f08401"
+metafile = true
+
+[[files]]
+file = "mods/macro-keybind-mod.pw.toml"
+hash = "738e9b4f5cc5945d62e9310f71c0544d6d73835f9680ca37d85c95dec5407ac2"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "846dc5978da946707bf3d016b82b586062d45423d25b97f09642fdbdcb06bd3b"
+metafile = true
+
+[[files]]
+file = "mods/mystcraft.pw.toml"
+hash = "308b2b11f384fcb2874c54ae20a6e353b94d23deb0329be4de9d531624ba2921"
+metafile = true
+
+[[files]]
+file = "mods/nei-mystcraft-plugin.pw.toml"
+hash = "f83a5b2340f94ec37dad360bd384e0511f22fe4fdcf35097721e0e561d20207d"
+metafile = true
+
+[[files]]
+file = "mods/nei-redpower-plugin.pw.toml"
+hash = "73b0b4a78d9afc77913d7578bc141a4fa1d141da8d05e00e7d605e09f5625770"
+metafile = true
+
+[[files]]
+file = "mods/obsidiplates.pw.toml"
+hash = "ecaad0bcfddbcfdcd879aaa2ab3a156ab891251ac19b9a323b10cf5567d85a46"
+metafile = true
+
+[[files]]
+file = "mods/portal-gun.pw.toml"
+hash = "e9fc3d19ef753729f4aab33cb216bd44a371f01a5c37d7ccd22e470e765183ac"
+metafile = true
+
+[[files]]
+file = "mods/redpower2-compat.pw.toml"
+hash = "9eae2990e9191c749a4837d31ce98fb92d0f0fc3dda1345904bad5e19e6c27b6"
+metafile = true
+
+[[files]]
+file = "mods/redpower2-core.pw.toml"
+hash = "362c755fab69db6975b2a4c9356e59b7d9f1167a4210169975b15e7060149d13"
+metafile = true
+
+[[files]]
+file = "mods/redpower2-digital.pw.toml"
+hash = "ca89d00282402d2893cf20ae45ceaff5c771f26cc0af70c281c37f6268527e8e"
+metafile = true
+
+[[files]]
+file = "mods/redpower2-mechanical.pw.toml"
+hash = "b49d55c1509f484dbf8cc64ace063c9c5fffab8353d5a388b17ebad5e52954df"
+metafile = true
+
+[[files]]
+file = "mods/resources/ruins/Beach/BrickHouse.tml"
+hash = "59185b2c0b1237c4eca115af05b44d604a481da076942ca21453daea0270a255"
+
+[[files]]
+file = "mods/resources/ruins/Beach/GoldWell.tml"
+hash = "7c993393e728686c78ed67d53b86bef4e28ca9a076f1cad56fdb1cd5765e9835"
+
+[[files]]
+file = "mods/resources/ruins/Beach/LargeBrickHouse.tml"
+hash = "134245fed4643d1545f48c1933dcac149e716a5e013594ab9ca42bc98b9f0687"
+
+[[files]]
+file = "mods/resources/ruins/Beach/LargeSandstoneHouse.tml"
+hash = "16a11d6c18f360ff3144ebe04f682847fef9b9b2e0a2b010c7ea4ffff7ff52bd"
+
+[[files]]
+file = "mods/resources/ruins/Beach/MoaiHead.tml"
+hash = "adef60079d9a1da888f0e94cb0b0b6f857b2609b16ee408427794bae7ba948cc"
+
+[[files]]
+file = "mods/resources/ruins/Beach/Obelisk.tml"
+hash = "eb28700c2e40092a82baaa9277bfdbfac9973cbc42db2946c34bbd9b92fb9aba"
+
+[[files]]
+file = "mods/resources/ruins/Beach/PillarBase.tml"
+hash = "4305146067e09900e64b4eb1e089827ff7337f089b2d0381d11e59e4b5f7f48d"
+
+[[files]]
+file = "mods/resources/ruins/Beach/Pyramid.tml"
+hash = "9dbd38aa75a5d1a8629fd74ac8100add46d03b3912f313f74f43ca928b10ceb1"
+
+[[files]]
+file = "mods/resources/ruins/Beach/SandCastle.tml"
+hash = "56e3fdf76d76ce99201271d8ca32a8d2d5081e295912830816652b8d9ed9658f"
+
+[[files]]
+file = "mods/resources/ruins/Beach/SandTrap.tml"
+hash = "300421646f333b27b7f2069b1a5e135b9b131a405983cc683101916296ffb898"
+
+[[files]]
+file = "mods/resources/ruins/Beach/SandstoneHouse.tml"
+hash = "ef6cbed5d6ef05b501aba56179e5171b23d57e635d36ce790601dff1028fda4d"
+
+[[files]]
+file = "mods/resources/ruins/Beach/SandstoneRuin.tml"
+hash = "93ac41bcd6ba83ef28c0743a154628630a0feacf0c99290f16617433cd2e2672"
+
+[[files]]
+file = "mods/resources/ruins/Beach/SmallWell.tml"
+hash = "17ba293a8a9f64fdc91210bf85481cbd20c230fb731c9bacd28d19cea39b9927"
+
+[[files]]
+file = "mods/resources/ruins/Beach/SunkenShip-v2.tml"
+hash = "fb29b15d5b2a1c9fab67f0a839bf0b38aa1fed005cd2da59fc6097bcb268e35a"
+
+[[files]]
+file = "mods/resources/ruins/Beach/TallTower.tml"
+hash = "c93bd93260e18c3a256012574d76b44c3274625fb10203354f12b5aa02144d17"
+
+[[files]]
+file = "mods/resources/ruins/DesertHills/Beacon.tml"
+hash = "af68698298100eabab93dbe53826bb90d5a0b3353d577afc5a759bce62da46d6"
+
+[[files]]
+file = "mods/resources/ruins/DesertHills/BrickHouse.tml"
+hash = "59185b2c0b1237c4eca115af05b44d604a481da076942ca21453daea0270a255"
+
+[[files]]
+file = "mods/resources/ruins/DesertHills/GoldWell.tml"
+hash = "7c993393e728686c78ed67d53b86bef4e28ca9a076f1cad56fdb1cd5765e9835"
+
+[[files]]
+file = "mods/resources/ruins/DesertHills/LargeBrickHouse.tml"
+hash = "134245fed4643d1545f48c1933dcac149e716a5e013594ab9ca42bc98b9f0687"
+
+[[files]]
+file = "mods/resources/ruins/DesertHills/LargeSandstoneHouse.tml"
+hash = "7ab60c3c20a91efefd7712cccfec5d0e7bccad2df61b7f162ecd36eb203049f7"
+
+[[files]]
+file = "mods/resources/ruins/DesertHills/Obelisk.tml"
+hash = "43678687891118fa7c7c118738467337050c64ee3291c9dcc83f52e84a0aaa94"
+
+[[files]]
+file = "mods/resources/ruins/DesertHills/PillarBase.tml"
+hash = "4305146067e09900e64b4eb1e089827ff7337f089b2d0381d11e59e4b5f7f48d"
+
+[[files]]
+file = "mods/resources/ruins/DesertHills/Pyramid.tml"
+hash = "9dbd38aa75a5d1a8629fd74ac8100add46d03b3912f313f74f43ca928b10ceb1"
+
+[[files]]
+file = "mods/resources/ruins/DesertHills/RuinedDryFountain.tml"
+hash = "22f270855fe42823298ba6465b656b150ce99d1b5d4e31260ba7a4ad5b142cc2"
+
+[[files]]
+file = "mods/resources/ruins/DesertHills/SandCastle.tml"
+hash = "1daa6834811bdd3f0d42eb8b6d4b51babd161de91c8ebd67aa9b9fb42818e905"
+
+[[files]]
+file = "mods/resources/ruins/DesertHills/SandSpire.tml"
+hash = "11bb2bd79015920845da4bb00e27100895fc2556b5c8db61aaeef33b68b54ada"
+
+[[files]]
+file = "mods/resources/ruins/DesertHills/SandTrap.tml"
+hash = "300421646f333b27b7f2069b1a5e135b9b131a405983cc683101916296ffb898"
+
+[[files]]
+file = "mods/resources/ruins/DesertHills/SandstoneHouse.tml"
+hash = "2878ead5b42b0bb427294f78ea670e8d1753a5ea095b06fcba7b9cada106b50e"
+
+[[files]]
+file = "mods/resources/ruins/DesertHills/SandstoneRuin.tml"
+hash = "6c09999576ac6513adc48db2e519be53767a4f41848a3180a36bea11dc1ccf4e"
+
+[[files]]
+file = "mods/resources/ruins/DesertHills/SmallWell.tml"
+hash = "17ba293a8a9f64fdc91210bf85481cbd20c230fb731c9bacd28d19cea39b9927"
+
+[[files]]
+file = "mods/resources/ruins/DesertHills/TallTower.tml"
+hash = "e41f053215d0bd6d4c9874fe127a647cbf42111b9c14278bcdb4ca3e923daf10"
+
+[[files]]
+file = "mods/resources/ruins/DesertHills/code_148_692_6_littlepyramid.tml"
+hash = "0fe374fa0f5d060e3cca22a3362bd6da9f74cdc99b14fe5969f529a3ec43f611"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/Archway.tml"
+hash = "57fb3494d1c727442379b436193a9e12e727677323088365221747dcaefd4ceb"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/BaloonLow.tml"
+hash = "4522cd9e9f1927dcf9804d3effc32704a66d45cf2f4743bc992e2fde88cadd47"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/BaloonVeryLow.tml"
+hash = "658265ebd47f8f7b79a11a0d2df3a4a1b1028d8c31fe7ac61314f6d7b9f4745f"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/BattleBasementHard.tml"
+hash = "7c6ad7a2b3664ba3316a57bd296d5c43ed98cb121d6a583b2dfe3140196b9e2f"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/BattleBasementMedium.tml"
+hash = "767f7cbf9daeddc51ce77027f4b199080e8628995e197e7a8783d1932abb7694"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/Beacon.tml"
+hash = "7c262a5e3db5da141bffd28331c480cf205a65ab6e72b29349054f5679a615da"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/BlockHenge.tml"
+hash = "9f855d46d3c9a33c4cdba2261b296b34001b1794692685358ecf68607e5f7024"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/DiamondWell.tml"
+hash = "c899fbd849c751bd0c4f4db210d62055a7ff7c8cf42bc1d149ee539a50ab9ce0"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/DwarfBase-mtn.tml"
+hash = "22df5c8437cc184a2ba394e281fb111126a90aa09c80633fab28d4d83ab849f7"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/Gazebo.tml"
+hash = "f3dc29cdbe860eaeaeb77cf03de7a98494a8c08eef3721505c66c7459d1cf62f"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/GoldWell.tml"
+hash = "7c993393e728686c78ed67d53b86bef4e28ca9a076f1cad56fdb1cd5765e9835"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/GuardHouse.tml"
+hash = "9cf5a33e5c88f4ea6f01e15627ec26b01f57f88bcb6fba2b147df5ce9e4598b2"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/LargeStoneHouse.tml"
+hash = "28e26ed9edff8677f60c8904f925d9d2141b2410718bff74729d9c388f23af1a"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/LargeStoneHouseWBasement.tml"
+hash = "9d42d17f20b22d7ba918426975ddcb1edfe8dd179c6a2a0fb3c137426c0c21dc"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/LargeStoneTwoStoryHouse.tml"
+hash = "1946d07c2f9548bc856c608ec5ff0264adbea1d3fcb695ce8e2a5c0e81e718d0"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/MoaiHead.tml"
+hash = "1db82372208df8874924f9b47d5e9b1ef9830c25cf41ead94fddc50e984402ed"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/Monolith.tml"
+hash = "ca67f5daaaace9d3c43ce58d35963ab6d39a0d392c98b31707e3334c3fb773a4"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/Outcrop4_good.tml"
+hash = "b8ac5925a9c7ac39a494158daa00f7d24ac5e3eab6b866ec339be6abfd0d2def"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/PillarBase.tml"
+hash = "2c42fef9a57e448528ff9e4497e97e3a2474e9319878e50e8911e2633de76d45"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/Pit-small.tml"
+hash = "5c8c477845aadf7be6a5abac273be899030f6bfc9406b0c1d4246e8917371d47"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/RuinedSmallFountainDiagonal.tml"
+hash = "1beed6d682205894e9607e5a37e22cc79b2f4db286d8637e133e0223f6fb8b47"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/ShortTower.tml"
+hash = "66df67df2543da412df7b4bfe52eab680d053a39f9cf7945cbdccdff43c3f86a"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/SpearStatue.tml"
+hash = "9ab329b8dd9aab3ee4f71d9fc925451d70577f809b994d0157510a0df122f36a"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/StoneHouse.tml"
+hash = "ee015b0fc5cc1bab1928ea818996458719c6f1c4f2d41064e41191159f4a161c"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/TallTower.tml"
+hash = "b8098dba3cbe4e687f6dab7af1ac574dfa6fbbc7403deba6cb090d28f3577cde"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/Tower-edit.tml"
+hash = "1724d43522c01af3515634a0ab2237d02562b1fb5ffeb8fbf103e1e22292db13"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/Tower-ruined-short.tml"
+hash = "522bf926b16d35f0288dc70c07dce174b2c78776f5407685e07159edd4c78ecc"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/VanillaVillageCobble-p.tml"
+hash = "68bf56b8e1e5b2442e3074d9e4d19b54569700adb33b28f0dbc45133c0f471b2"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/VanillaVillageCobbleHouse-r.tml"
+hash = "635483e57d329e2d66629cc1b087f24ba0f1858fce5451f16fe5a3de50355aa7"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/VanillaVillageEmpty-p.tml"
+hash = "e4f8b76d876d6292a3963cbf23a3fc8117807dd3f5b417968dcd5d50058f975d"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/VanillaVillageEmptyHouse-r.tml"
+hash = "aa657855f3a32abd4a0eaabb837986009851ae1dca886ab32fee3078f53b44b1"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/VanillaVillageHut-p.tml"
+hash = "0121d67f6cadb2afc441cbed64ad9cb644a7895890c0b803844ded910c64163d"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/VanillaVillageHut-r.tml"
+hash = "1eb497b82e756384611efa6429c03c9124cc0fdb74c79d1ef7b65c1a7a05aafd"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/VanillaVillageLadder-p.tml"
+hash = "5935d85be8eb4a9719ee9da7e506ad1f093fda84666b25a291b56dcaaa1cdd5e"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills Edge/VolcanicVent3_good.tml"
+hash = "a735eb46b256322800a7aa1901bdadf5bf241f42dd9b19fcfc43be9e8db425aa"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/Archway.tml"
+hash = "57fb3494d1c727442379b436193a9e12e727677323088365221747dcaefd4ceb"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/BaloonLow.tml"
+hash = "4522cd9e9f1927dcf9804d3effc32704a66d45cf2f4743bc992e2fde88cadd47"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/BaloonVeryLow.tml"
+hash = "658265ebd47f8f7b79a11a0d2df3a4a1b1028d8c31fe7ac61314f6d7b9f4745f"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/BattleBasementHard.tml"
+hash = "7c6ad7a2b3664ba3316a57bd296d5c43ed98cb121d6a583b2dfe3140196b9e2f"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/BattleBasementMedium.tml"
+hash = "767f7cbf9daeddc51ce77027f4b199080e8628995e197e7a8783d1932abb7694"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/Beacon.tml"
+hash = "7c262a5e3db5da141bffd28331c480cf205a65ab6e72b29349054f5679a615da"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/BlockHenge.tml"
+hash = "9f855d46d3c9a33c4cdba2261b296b34001b1794692685358ecf68607e5f7024"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/DiamondWell.tml"
+hash = "c899fbd849c751bd0c4f4db210d62055a7ff7c8cf42bc1d149ee539a50ab9ce0"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/DwarfBase-mtn.tml"
+hash = "22df5c8437cc184a2ba394e281fb111126a90aa09c80633fab28d4d83ab849f7"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/Gazebo.tml"
+hash = "f3dc29cdbe860eaeaeb77cf03de7a98494a8c08eef3721505c66c7459d1cf62f"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/GoldWell.tml"
+hash = "7c993393e728686c78ed67d53b86bef4e28ca9a076f1cad56fdb1cd5765e9835"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/GuardHouse.tml"
+hash = "9cf5a33e5c88f4ea6f01e15627ec26b01f57f88bcb6fba2b147df5ce9e4598b2"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/LargeStoneHouse.tml"
+hash = "de5d2daf8b33cf70665f6266735332ca0fd35ac8e42c10ae3f54b4bc7e13c1e0"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/LargeStoneHouseWBasement.tml"
+hash = "9d42d17f20b22d7ba918426975ddcb1edfe8dd179c6a2a0fb3c137426c0c21dc"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/LargeStoneTwoStoryHouse.tml"
+hash = "b81a2badeac8cf11d822d61134afa0080b06f4e5cafd82272422a4105cc8d151"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/MoaiHead.tml"
+hash = "1db82372208df8874924f9b47d5e9b1ef9830c25cf41ead94fddc50e984402ed"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/Monolith.tml"
+hash = "ca67f5daaaace9d3c43ce58d35963ab6d39a0d392c98b31707e3334c3fb773a4"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/Outcrop4_good.tml"
+hash = "266469eae1664dd4b12f2849e1222e3a1f903c5cef4edc85b0f9a901f19ab186"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/PillarBase.tml"
+hash = "2e0930988ab9eaa1891d0b1653fc3368030a69b21a5f4b1dad681419bc6562a6"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/Pit-small.tml"
+hash = "5c8c477845aadf7be6a5abac273be899030f6bfc9406b0c1d4246e8917371d47"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/RuinedSmallFountainDiagonal.tml"
+hash = "dc37a39da8e49cb52b325ea7989d8154d6e8c8997e561b9b2bceb1a3498feb8f"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/ShortTower.tml"
+hash = "35f8c9a02fa3beecf45eae1ed8839f2f68db195e2562d9f318f60a04d50596fb"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/SpearStatue.tml"
+hash = "9ab329b8dd9aab3ee4f71d9fc925451d70577f809b994d0157510a0df122f36a"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/StoneHouse.tml"
+hash = "ee015b0fc5cc1bab1928ea818996458719c6f1c4f2d41064e41191159f4a161c"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/TallTower.tml"
+hash = "af39364baf5bef5d128861980ac2f73c7a817366f6ad29b7579efb15311fcc5f"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/VanillaVillageCobble-p.tml"
+hash = "68bf56b8e1e5b2442e3074d9e4d19b54569700adb33b28f0dbc45133c0f471b2"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/VanillaVillageCobbleHouse-r.tml"
+hash = "635483e57d329e2d66629cc1b087f24ba0f1858fce5451f16fe5a3de50355aa7"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/VanillaVillageEmpty-p.tml"
+hash = "e4f8b76d876d6292a3963cbf23a3fc8117807dd3f5b417968dcd5d50058f975d"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/VanillaVillageEmptyHouse-r.tml"
+hash = "aa657855f3a32abd4a0eaabb837986009851ae1dca886ab32fee3078f53b44b1"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/VanillaVillageHut-p.tml"
+hash = "0121d67f6cadb2afc441cbed64ad9cb644a7895890c0b803844ded910c64163d"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/VanillaVillageHut-r.tml"
+hash = "1eb497b82e756384611efa6429c03c9124cc0fdb74c79d1ef7b65c1a7a05aafd"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/VanillaVillageLadder-p.tml"
+hash = "5935d85be8eb4a9719ee9da7e506ad1f093fda84666b25a291b56dcaaa1cdd5e"
+
+[[files]]
+file = "mods/resources/ruins/Extreme Hills/VolcanicVent3_good.tml"
+hash = "e9472538e6c1c2ac1c1ef5a5b7ccda8b9055ef38c150e9d028b13f68c97cb0d5"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/Archway.tml"
+hash = "57fb3494d1c727442379b436193a9e12e727677323088365221747dcaefd4ceb"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/Barrow.tml"
+hash = "591a4c6222c971de2ed8af83958cd17a7f54090c712afbf93868aaf2952d4a7f"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/BattleBasementHard.tml"
+hash = "7c6ad7a2b3664ba3316a57bd296d5c43ed98cb121d6a583b2dfe3140196b9e2f"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/BattleBasementMedium.tml"
+hash = "767f7cbf9daeddc51ce77027f4b199080e8628995e197e7a8783d1932abb7694"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/BlockHenge.tml"
+hash = "a9b5d4c7b97e98d4110a7b4002626e637e671aeeb71664f07e77d908341dec9f"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/BrickHouse.tml"
+hash = "67c54f63a893053fa2c3098176d760b2afeb6da17ebd325fb628510cb852f836"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/DiamondWell.tml"
+hash = "c899fbd849c751bd0c4f4db210d62055a7ff7c8cf42bc1d149ee539a50ab9ce0"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/Gazebo.tml"
+hash = "8fb2894aca6cabdb35084d1e5e389af9299e4e59544a0a5a46286a03f2a40d10"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/Gnomeworks.tml"
+hash = "07eb19b3031d988d90a0f873c3118651b412aa8f2543fcb7de72372495f074a6"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/GoldWell.tml"
+hash = "c6bce459f7edec2f1a1635ef064ead6bc731c2a6cf7b902008cded919b7f1323"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/LargeBrickHouse.tml"
+hash = "0715501d8f1423255da990b5f8c2859d49852f7a05b4b3e18762df226317a49a"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/LargeStoneHouse.tml"
+hash = "8a747f7c6e20cf2d6c39ff012a82b6ea79be3d6462e905fe2de9f18d387bc1e0"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/LargeStoneHouseWBasement.tml"
+hash = "101663de86bdcc0808ae2cbf5adf4409a20c0d1db3cd5d6cbf2c220f0c34d1d1"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/LargeStoneTwoStoryHouse.tml"
+hash = "6896444cd0bb6819b732f33dc63a8b20fe1489e3e4fce0a7c5e514734f617c06"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/MoaiHead.tml"
+hash = "e0bf3e26886f7236f31596bf88763d53a8bf751e6bb8f4112903591c44fd28a9"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/MobTower.tml"
+hash = "824124e3459f1797261ca022ec8761c2337924c28956d4f3e0f773b09c2ea87a"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/OldFoundation.tml"
+hash = "a1c8740507ebf2c6a3cf0a67275d2c0a0fd4866555dfc905128b34c6e78e3a4b"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/Outcrop4_good.tml"
+hash = "b8ac5925a9c7ac39a494158daa00f7d24ac5e3eab6b866ec339be6abfd0d2def"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/PillarBase.tml"
+hash = "3299ce7b7d9997c169d1b60e33c999f6ba1dfe009c070993f7990e15b693adbc"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/Pit-small.tml"
+hash = "3234d34c4dff4b7c00c4cf9ec237b4c3c8a58ca0f8eba9196be75f3b7d7edc1d"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/RuinedSmallFountainDiagonal.tml"
+hash = "2c6c2798fe16c7c5c9e222e3e4a98e591817dd1c796d5c70bc03be0b2bc56838"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/RuinedTripleFountain.tml"
+hash = "52e6eca0dc169f56ed851a453117690814ce3b9b7b2d0e75f2dd70fa8de0eb3b"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/ShortTower.tml"
+hash = "51ee3bfa5a8e5cfd29b502a717f758be22f5d16d8f0fc2cd600272f930526a25"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/SmallWell.tml"
+hash = "42e9fd79d76c9607646ea4b6421fcad23567d7eb1510177f4af0fa95670593d6"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/SpiralTree.tml"
+hash = "f9f15999ab630586acce8d7488ba1d429dbb726b49f76ca77f20badad13eb88c"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/StoneHenge.tml"
+hash = "686da3b895c2d7e962748a94821c82c1920a9732dc0592ff4b6dd8965d44d6e7"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/StoneHouse.tml"
+hash = "ee015b0fc5cc1bab1928ea818996458719c6f1c4f2d41064e41191159f4a161c"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/TallTower.tml"
+hash = "42a1a7245f1636b577c68cc623a4d145107750615480d524aeefa46d44da03fc"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/TinyFarmField.tml"
+hash = "658923a1f622568edaa4e6be038180bda06791a982d014729c9fc2c156726c86"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/Tower-edit.tml"
+hash = "1724d43522c01af3515634a0ab2237d02562b1fb5ffeb8fbf103e1e22292db13"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/Tower-ruined-short.tml"
+hash = "522bf926b16d35f0288dc70c07dce174b2c78776f5407685e07159edd4c78ecc"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/TreeDungeon.tml"
+hash = "5461b028618f2f8fa95c7f383b93274a5c63895d1fad1e285fc01f35eedda031"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/TreeHouse.tml"
+hash = "f5bf27b8e374eb1e8672cfc8f9179f525a7a7d94adb6d174ccaa0863a83307fb"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/VanillaVillageCobble-p.tml"
+hash = "68bf56b8e1e5b2442e3074d9e4d19b54569700adb33b28f0dbc45133c0f471b2"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/VanillaVillageCobbleHouse-r.tml"
+hash = "635483e57d329e2d66629cc1b087f24ba0f1858fce5451f16fe5a3de50355aa7"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/VanillaVillageEmpty-p.tml"
+hash = "e4f8b76d876d6292a3963cbf23a3fc8117807dd3f5b417968dcd5d50058f975d"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/VanillaVillageEmptyHouse-r.tml"
+hash = "aa657855f3a32abd4a0eaabb837986009851ae1dca886ab32fee3078f53b44b1"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/VanillaVillageHut-p.tml"
+hash = "0121d67f6cadb2afc441cbed64ad9cb644a7895890c0b803844ded910c64163d"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/VanillaVillageHut-r.tml"
+hash = "1eb497b82e756384611efa6429c03c9124cc0fdb74c79d1ef7b65c1a7a05aafd"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/VanillaVillageLadder-p.tml"
+hash = "310c122e77953e571425041c5fe55feceb04e2a4fcc50c7d9dbbdb8811d6364f"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/VolcanicVent3_good.tml"
+hash = "a735eb46b256322800a7aa1901bdadf5bf241f42dd9b19fcfc43be9e8db425aa"
+
+[[files]]
+file = "mods/resources/ruins/ForestHills/WoodHouse.tml"
+hash = "9f31b22a0fc8925cb78ebcb7aefef2f9a8c06f2b27e8e43d981a0d37ee92333e"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/BattleBasementHard.tml"
+hash = "3fac8423a3c8ce07cddd1d4fe6701343c0afe9475719767e04650b187770e7d5"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/BattleBasementMedium.tml"
+hash = "068e571903f76d0499f268e05432a3814d1f10b1a9bff64c2e82105e01af25f2"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/BridgePilings-sm2.tml"
+hash = "d7ef6b269ee44695e89544e2338332ddb2400fb76c55c49b72c20017105a31d0"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/Gnomeworks.tml"
+hash = "07eb19b3031d988d90a0f873c3118651b412aa8f2543fcb7de72372495f074a6"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/JungleSpiderBurrow.tml"
+hash = "76be2ad320212fc52f667644de4ba137a904445b1ff4c69b2ee14eeeef08678b"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/JungleThroneWood.tml"
+hash = "687d1b130130b40cb8633b6d3f25ad5060234971700de372dd2bb65ee911f9af"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/JungleTreePlatform.tml"
+hash = "3edc7825c8af25a04b929f821d70d957ee2728f5d57d5bf7fd67954fe249bb2f"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/JungleTreePlatform_edit.tml"
+hash = "73ba3e802d5fa205bcfa6889f445d574ca2b55bf7201c8230f344ee0c9650d0a"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/Mausoleum.tml"
+hash = "9e83560ce0f3b82b92c1daad9a68d77f367a9d9642193908905f46649b792137"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/OreSpire.tml"
+hash = "5cbb56323cbe470c3f433a52aa041f176f85f73b69e4a3d0a2bf1bf9d23f7a4f"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/Outcrop4_good.tml"
+hash = "266469eae1664dd4b12f2849e1222e3a1f903c5cef4edc85b0f9a901f19ab186"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/Pit-small.tml"
+hash = "6eae03f5460c46dd27b638de6d7022e09c7bede4ae7195892831535b528bec49"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/SpiralTree.tml"
+hash = "f64679b882ea17c66fbe995c828bafe262aab2b8afff143c83798dc2cc1358e4"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/TallTower.tml"
+hash = "4d8b6c8652265fe7c829ad842f67d1279e5760ba23d88937576552a2de50c0a0"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/Tower-edit.tml"
+hash = "caaa26c67377e3280c0d8c2513a8504896056d06b039299a8f450a27839cb82f"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/Tower-ruined-short.tml"
+hash = "1dffe18fe5759942d06537ca2c41adb48afc7310839849aaabfe0c07b4b3d4e9"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/TreeHouse.tml"
+hash = "f5bf27b8e374eb1e8672cfc8f9179f525a7a7d94adb6d174ccaa0863a83307fb"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/VanillaVillageChurch-r.tml"
+hash = "38297d328001dd39f19d244398ca24220b1579e4165b4bea4382ee37313c6eb9"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/VanillaVillageEmptyHouse-r.tml"
+hash = "e1be9574257ee16e61110a0a957db52a8401b8baefce5e6d5aeb1393ad7fa616"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/VanillaVillageForge-r.tml"
+hash = "802b48883cc42ca45647bfca1739b7d2c494c5dce5e85082a788b0295b604c23"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/VanillaVillageWell-p.tml"
+hash = "ee2998f2123955a699bbe125b80200d7e6266f69356cf1c322069256083a88f2"
+
+[[files]]
+file = "mods/resources/ruins/Jungle/WaterTrapRoom.tml"
+hash = "64dc1d86b668e48a92c691ae1e704eadb01a8a9d23c2fcd0f5b332b078f97ce3"
+
+[[files]]
+file = "mods/resources/ruins/JungleHills/BattleBasementHard.tml"
+hash = "204a432a70168f4b1236e2abfc4bac937f1c9c8208db5465548aafdfab35dd0d"
+
+[[files]]
+file = "mods/resources/ruins/JungleHills/BattleBasementMedium.tml"
+hash = "9e99581d194f0ee58f65fd80d4574ff2cd816c36ba9bd774d335575b50453fa4"
+
+[[files]]
+file = "mods/resources/ruins/JungleHills/JungleSpiderBurrow.tml"
+hash = "b8d7fcfaf2c281998319d6e90fac5e6b60198b531c7210056dd1fa713ebb3ea0"
+
+[[files]]
+file = "mods/resources/ruins/JungleHills/JungleThroneWood.tml"
+hash = "a4bbd4dcc4a59af2fb667a1fb271559898815f9e814a3d7570bc38e89ca8d2f6"
+
+[[files]]
+file = "mods/resources/ruins/JungleHills/JungleTreePlatform.tml"
+hash = "3edc7825c8af25a04b929f821d70d957ee2728f5d57d5bf7fd67954fe249bb2f"
+
+[[files]]
+file = "mods/resources/ruins/JungleHills/JungleTreePlatform_edit.tml"
+hash = "840d399a27b4c6b9c85ba939acef3df057fe12b3023c80566c92434aee3e9846"
+
+[[files]]
+file = "mods/resources/ruins/JungleHills/OreSpire.tml"
+hash = "5cbb56323cbe470c3f433a52aa041f176f85f73b69e4a3d0a2bf1bf9d23f7a4f"
+
+[[files]]
+file = "mods/resources/ruins/JungleHills/Outcrop4_good.tml"
+hash = "266469eae1664dd4b12f2849e1222e3a1f903c5cef4edc85b0f9a901f19ab186"
+
+[[files]]
+file = "mods/resources/ruins/JungleHills/SpiralTree.tml"
+hash = "f64679b882ea17c66fbe995c828bafe262aab2b8afff143c83798dc2cc1358e4"
+
+[[files]]
+file = "mods/resources/ruins/JungleHills/TallTower.tml"
+hash = "d2cdf024bcf92d69aefa75c336164d4f02c2d8f66f89d8dfd7cb28e522e0077c"
+
+[[files]]
+file = "mods/resources/ruins/JungleHills/TreeHouse.tml"
+hash = "f5bf27b8e374eb1e8672cfc8f9179f525a7a7d94adb6d174ccaa0863a83307fb"
+
+[[files]]
+file = "mods/resources/ruins/JungleHills/WaterTrapRoom.tml"
+hash = "64dc1d86b668e48a92c691ae1e704eadb01a8a9d23c2fcd0f5b332b078f97ce3"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/Archway.tml"
+hash = "9f1c8ad0215f6890c04e94d872c2786187336223941f05ff31159c8aeaa98860"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/BaloonHigh.tml"
+hash = "fbfb5041614e960548b1d855828c219c6c8fdf8bde885ce37be38e84f0ae7b22"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/BaloonLow.tml"
+hash = "3065863b06482a137ebe3b943d9af1410ac785797a8082711d19fcaa44d67c1d"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/BattleBasementEasy.tml"
+hash = "6acb495e83020025300f2ab13a84db5e40c1e842b60dbaa2a4c8a7f824c5d589"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/BattleBasementHard.tml"
+hash = "f1677171dbf2a1d44bd78626c1b0d45ca444a2b955ec48e5344f8c01c407cc78"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/BattleBasementMedium.tml"
+hash = "ed50b59966e59247af2b454c46c22dd62339253207a210fa146f3c608bfa2f03"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/Beacon.tml"
+hash = "a85b7728b1402f1431332340159302269bec72c302ab7780eb94bee0b539e956"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/BlockHenge.tml"
+hash = "9f855d46d3c9a33c4cdba2261b296b34001b1794692685358ecf68607e5f7024"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/BrickHouse.tml"
+hash = "5a1b877de1e47fc44824edea2be1e4885919ffb094776ba95ebc148a801d1dff"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/DoomHouse.tml"
+hash = "282aa90b7f6757c47429204258e84d2f4f34d5cac5f5f6e15fe4153b7c9cb4ab"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/DoomTower.tml"
+hash = "56afa48ef6b691ea4f730fb4f414e8ba4514f2ae403bcc5d9a18035349601f19"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/FlamingSkullHouse.tml"
+hash = "70d14ecf2dc588f9bf078cd19666148f5a0329c5c377cf9a123a83413c68567b"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/GateUnderGlass.tml"
+hash = "7c543a0fcca8238f6c8b64488bed4795290f657ba2d75facfd54190274859678"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/GuardHouse.tml"
+hash = "d3ec0b4510105d5dd454dbc35837a19b02f2adddd7a8c4fa613cea4c26d5ea2a"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/LargeBrickHouse.tml"
+hash = "a5fde4642a764fa015729b66188d74059b0edb3bd5ba2457829d8c1e69434567"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/LargeNetherHouse.tml"
+hash = "ba8270b7735208d58dff4ad2977b45852097c4afb24ca23a2f2b4a1902389edf"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/LargeSandstoneHouse.tml"
+hash = "eaee01b7192269b8b6ba8947b4466547ed9fcce5bee34309e3de2a4e8ec3ecfc"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/LargeStoneHouse.tml"
+hash = "d641d0143b3218d89ec96a79f923b231cd5843cbbf458a5ec81d083ca54ae8c1"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/LargeStoneHouseWBasement.tml"
+hash = "e170820b8ac8a7ced2608f06bcc69c8c3a85a12e31502cec45d68d58a016775e"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/LargeStoneTwoStoryHouse.tml"
+hash = "b59aa0a7d83a69f7077e70c2f27c62d0f53414d141c6b94a41cf21ab5c4c60a2"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/LightHouse.tml"
+hash = "321486d5bb258ca90778dfc122c8918781b666b5265abe0026c49fef1db420bd"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/Mausoleum.tml"
+hash = "b3f94bb34214de667f1a32a23d764a1a0b96a4289dbcf5ebb8c0181937ff96ed"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/MoaiHead.tml"
+hash = "1db82372208df8874924f9b47d5e9b1ef9830c25cf41ead94fddc50e984402ed"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/MobTower.tml"
+hash = "1e9403248be48c4c3d3fb910e59d462f4adf4b12132f10126dee5f56629317ea"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/NetherHouse.tml"
+hash = "4f4ddef25f0e909cdf0ba15145cab02037d0eee37a06edafce946e8e1bb6d720"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/NetherShrine.tml"
+hash = "cdb16391b13f6b6caf5c620a6fef5f997341b86b1086a09f8bc61df741de5ed2"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/Obelisk.tml"
+hash = "eb28700c2e40092a82baaa9277bfdbfac9973cbc42db2946c34bbd9b92fb9aba"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/PillarBase.tml"
+hash = "24a2353356553aad6b3eeac724cfd80654b35522703cdc92e4ae16e4fe3b1b8b"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/PirateShip.tml"
+hash = "3b6b8c12df05870024032f9f98ea685dbecef11d65cc17e0c6ab9ff6ccee4184"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/PortalShrine.tml"
+hash = "0f112d2eb00f07fafeab6a2113cb6487d3e95dcf545f441655294cd4e50195d9"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/SandCastle.tml"
+hash = "c7cd29a2e41d5610a2f102ebc4d444afeacde1d039a01f77f8869f9e886b036d"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/SandTrap.tml"
+hash = "a36e9d9c324c11466b25009c740059d03f3bf4c73aa507cce71e705f78711497"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/SandstoneHouse.tml"
+hash = "6696ba23507fd5b6fc736b551a02b6f285101b6df348280ce6134f1fcb47bdb6"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/SandstoneRuin.tml"
+hash = "fd175cdc19a2ce1ee28329cd10d87501267ceef6b66eb9997e862f3e4546a415"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/ShortNetherTower.tml"
+hash = "868bc4dd9fc463a975fb6d250e4bc51a47399e03467174bbf99fcaa1e6c8fab4"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/ShortTower.tml"
+hash = "7dc8b65659680d225cc5c973aed9450727808e50484ff4db7321f887057ece95"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/SkyCastle.tml"
+hash = "0e4a3b5273c1f4806e7e62b1399d187ad9290276c62ae6946a5202eb025feba1"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/SmallWell.tml"
+hash = "17ba293a8a9f64fdc91210bf85481cbd20c230fb731c9bacd28d19cea39b9927"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/SnowHenge.tml"
+hash = "a917c45ddc59e2adde23a38e2a673e13388f473dbc9cc96b659b82f791016af5"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/SnowHouse1.tml"
+hash = "ebfb37c7a752c175700a8ebeab0520c512bc1d14426be118980304e38506c0b4"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/SnowHouse2.tml"
+hash = "69a353872df5685b264988c971e30f6cd772dc3bd3daaaaba79ae2110b6f3e53"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/SnowHouse3.tml"
+hash = "04918d222e10ebdce60d2d666370aea27eb936370d2696989ce86d4ed1271e4d"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/SpearStatue.tml"
+hash = "9ab329b8dd9aab3ee4f71d9fc925451d70577f809b994d0157510a0df122f36a"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/Sphere.tml"
+hash = "21c9f5332bc8eeabb71e12274c014c8ff69ad54438f9cb51c3f9c47addba7c50"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/StoneHouse.tml"
+hash = "7923b22e80bfec7eb4eca494e9bbd1061bbcb523f33e99a092646e19856ad046"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/TallNetherTower.tml"
+hash = "b78b185dbb22d77cf307f97520ce49acaeff7c8644556e82cbe1082c00a9c3c8"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/TallTower.tml"
+hash = "9e8b5cb0bdff5d4845f4409796f73a0a74c1c021b2f458b2d450a91df5adb3fc"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/TinyFarmField.tml"
+hash = "ebf2c3d46b3481d93b2827205668af2cc8ce65cba9c7d3f040259d4033a6ab88"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/TowerEasy.tml"
+hash = "fbacfdcb509b5c34a3e75928e54fe66cc07c6cc70ee918e54d302b0361ec11f7"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/TowerHard.tml"
+hash = "e08e0a0c4c030076349a06f6f39c65588227146cba9613994602b58cc95341f7"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/TowerMedium.tml"
+hash = "078a9fe64204dd5f96ce81ca4f478424f6c7cf9971267810dd150a98f1f89255"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/TreeDungeon.tml"
+hash = "ddebfd50b5f4c9afe92368da9e9490f0d34ab6c5706e042ee239a08342104cbd"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/WoodHouse.tml"
+hash = "46a8639cb776373982f2ae6098456e1ddb9a0dd96659b3db1fd3bf35df49f92e"
+
+[[files]]
+file = "mods/resources/ruins/OPTIONAL/Ziggurat.tml"
+hash = "9885045f4b143e072f148d94162dcd81af12d69a0fe57f29d15787af2e730aae"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/Archway.tml"
+hash = "9f1c8ad0215f6890c04e94d872c2786187336223941f05ff31159c8aeaa98860"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/BattleBasementHard.tml"
+hash = "7c6ad7a2b3664ba3316a57bd296d5c43ed98cb121d6a583b2dfe3140196b9e2f"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/BattleBasementMedium.tml"
+hash = "767f7cbf9daeddc51ce77027f4b199080e8628995e197e7a8783d1932abb7694"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/BlockHenge.tml"
+hash = "a9b5d4c7b97e98d4110a7b4002626e637e671aeeb71664f07e77d908341dec9f"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/DiamondWell.tml"
+hash = "c899fbd849c751bd0c4f4db210d62055a7ff7c8cf42bc1d149ee539a50ab9ce0"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/FrozenBush.tml"
+hash = "26b3780d93cb3c10aeeaf28ebb534ecd132dd4af89605604ffcbe6a175e246e7"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/FrozenTree.tml"
+hash = "b03ed2e002eee56db4738e319ae3bff58cf0f99adcaa358fa9a0c6fa3f1e7a28"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/Gazebo.tml"
+hash = "8fb2894aca6cabdb35084d1e5e389af9299e4e59544a0a5a46286a03f2a40d10"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/GoldWell.tml"
+hash = "c6bce459f7edec2f1a1635ef064ead6bc731c2a6cf7b902008cded919b7f1323"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/LargeSandstoneHouse.tml"
+hash = "eaee01b7192269b8b6ba8947b4466547ed9fcce5bee34309e3de2a4e8ec3ecfc"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/LargeStoneHouse.tml"
+hash = "de5d2daf8b33cf70665f6266735332ca0fd35ac8e42c10ae3f54b4bc7e13c1e0"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/LargeStoneHouseWBasement.tml"
+hash = "c2959b8346e13bb92d88228501a3ae3ef1fb3ddb96aa3010b0c3636e022add55"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/LargeStoneTwoStoryHouse.tml"
+hash = "b81a2badeac8cf11d822d61134afa0080b06f4e5cafd82272422a4105cc8d151"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/MobTower.tml"
+hash = "66aeb283d578059cfefc9a5a032c19a855d4dfb4936057c76f86f2b052d2d849"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/Monolith.tml"
+hash = "8d4a63705c77a1ada665983bd5072a6a79d9d5a0fea11e1e2572bb0e02c3bfec"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/Outcrop4_good.tml"
+hash = "b8ac5925a9c7ac39a494158daa00f7d24ac5e3eab6b866ec339be6abfd0d2def"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/PillarBase.tml"
+hash = "2e0930988ab9eaa1891d0b1653fc3368030a69b21a5f4b1dad681419bc6562a6"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/Pit-small.tml"
+hash = "4d1fc3bf0e304b107fb0293299604c6a0e221d8e224d272aea5832ac72684db7"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/RuinedSmallFountainDiagonal.tml"
+hash = "3eff41156c562993725742a19e7e64a878c455e1b9fc0ffc17d06eb402fddd32"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/SandstoneHouse.tml"
+hash = "6696ba23507fd5b6fc736b551a02b6f285101b6df348280ce6134f1fcb47bdb6"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/SandstoneRuin.tml"
+hash = "fd175cdc19a2ce1ee28329cd10d87501267ceef6b66eb9997e862f3e4546a415"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/ShortTower.tml"
+hash = "35f8c9a02fa3beecf45eae1ed8839f2f68db195e2562d9f318f60a04d50596fb"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/SnowHenge.tml"
+hash = "a917c45ddc59e2adde23a38e2a673e13388f473dbc9cc96b659b82f791016af5"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/SnowHouse1.tml"
+hash = "ebfb37c7a752c175700a8ebeab0520c512bc1d14426be118980304e38506c0b4"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/SnowHouse2.tml"
+hash = "69a353872df5685b264988c971e30f6cd772dc3bd3daaaaba79ae2110b6f3e53"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/SnowHouse3.tml"
+hash = "04918d222e10ebdce60d2d666370aea27eb936370d2696989ce86d4ed1271e4d"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/SpiralTree.tml"
+hash = "f64679b882ea17c66fbe995c828bafe262aab2b8afff143c83798dc2cc1358e4"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/StoneHouse.tml"
+hash = "7923b22e80bfec7eb4eca494e9bbd1061bbcb523f33e99a092646e19856ad046"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/TallTower.tml"
+hash = "af39364baf5bef5d128861980ac2f73c7a817366f6ad29b7579efb15311fcc5f"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/Tower-edit.tml"
+hash = "1724d43522c01af3515634a0ab2237d02562b1fb5ffeb8fbf103e1e22292db13"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/Tower-ruined-short.tml"
+hash = "522bf926b16d35f0288dc70c07dce174b2c78776f5407685e07159edd4c78ecc"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/TreeHouse.tml"
+hash = "f5bf27b8e374eb1e8672cfc8f9179f525a7a7d94adb6d174ccaa0863a83307fb"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/VanillaVillageCobble-p.tml"
+hash = "68bf56b8e1e5b2442e3074d9e4d19b54569700adb33b28f0dbc45133c0f471b2"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/VanillaVillageCobbleHouse-r.tml"
+hash = "635483e57d329e2d66629cc1b087f24ba0f1858fce5451f16fe5a3de50355aa7"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/VanillaVillageEmpty-p.tml"
+hash = "e4f8b76d876d6292a3963cbf23a3fc8117807dd3f5b417968dcd5d50058f975d"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/VanillaVillageEmptyHouse-r.tml"
+hash = "aa657855f3a32abd4a0eaabb837986009851ae1dca886ab32fee3078f53b44b1"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/VanillaVillageHut-p.tml"
+hash = "0121d67f6cadb2afc441cbed64ad9cb644a7895890c0b803844ded910c64163d"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/VanillaVillageHut-r.tml"
+hash = "1eb497b82e756384611efa6429c03c9124cc0fdb74c79d1ef7b65c1a7a05aafd"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/VanillaVillageLadder-p.tml"
+hash = "310c122e77953e571425041c5fe55feceb04e2a4fcc50c7d9dbbdb8811d6364f"
+
+[[files]]
+file = "mods/resources/ruins/TaigaHills/WoodHouse.tml"
+hash = "46a8639cb776373982f2ae6098456e1ddb9a0dd96659b3db1fd3bf35df49f92e"
+
+[[files]]
+file = "mods/resources/ruins/desert/Beacon.tml"
+hash = "af68698298100eabab93dbe53826bb90d5a0b3353d577afc5a759bce62da46d6"
+
+[[files]]
+file = "mods/resources/ruins/desert/BrickHouse.tml"
+hash = "59185b2c0b1237c4eca115af05b44d604a481da076942ca21453daea0270a255"
+
+[[files]]
+file = "mods/resources/ruins/desert/DesertBarrow.tml"
+hash = "268c96c1235fbd6a940e3f27883ef4a2213c171063e29ca480deac8bf26b9a82"
+
+[[files]]
+file = "mods/resources/ruins/desert/GoldWell.tml"
+hash = "7c993393e728686c78ed67d53b86bef4e28ca9a076f1cad56fdb1cd5765e9835"
+
+[[files]]
+file = "mods/resources/ruins/desert/LargeBrickHouse.tml"
+hash = "134245fed4643d1545f48c1933dcac149e716a5e013594ab9ca42bc98b9f0687"
+
+[[files]]
+file = "mods/resources/ruins/desert/LargeSandstoneHouse.tml"
+hash = "5c6831f73780266b2c2bd7d8750adf107c94f5271a395884063cb8b5d52269ca"
+
+[[files]]
+file = "mods/resources/ruins/desert/Obelisk.tml"
+hash = "59fdbc5d446f12e79d53597d962a072413e84a80329eedf6d5dbc7640fedd50d"
+
+[[files]]
+file = "mods/resources/ruins/desert/PillarBase.tml"
+hash = "4305146067e09900e64b4eb1e089827ff7337f089b2d0381d11e59e4b5f7f48d"
+
+[[files]]
+file = "mods/resources/ruins/desert/Pyramid.tml"
+hash = "8cc745704916eeb712d2ab80604bca2dbb95f0feeea589e8385eea30f103d48f"
+
+[[files]]
+file = "mods/resources/ruins/desert/RuinedDryFountain.tml"
+hash = "feac7062f27db7ff3c81f4947db304eb0f7a96db0061720542f5de6c66a71fe3"
+
+[[files]]
+file = "mods/resources/ruins/desert/SandCastle.tml"
+hash = "3446227e6ee1d068b6c4e40e1b05ea81408192b33b47412ec2582713b54f17e2"
+
+[[files]]
+file = "mods/resources/ruins/desert/SandSpire.tml"
+hash = "11bb2bd79015920845da4bb00e27100895fc2556b5c8db61aaeef33b68b54ada"
+
+[[files]]
+file = "mods/resources/ruins/desert/SandTrap.tml"
+hash = "a36e9d9c324c11466b25009c740059d03f3bf4c73aa507cce71e705f78711497"
+
+[[files]]
+file = "mods/resources/ruins/desert/SandstoneHouse.tml"
+hash = "8f0ee3adc831c302f196340692307a55bfcab40510f879de0c253310cdbe9d0d"
+
+[[files]]
+file = "mods/resources/ruins/desert/SandstoneRuin.tml"
+hash = "7a77ed5d68dcc2a3b6fb562cf93d826742ebef8d60de54526424d88206d863a6"
+
+[[files]]
+file = "mods/resources/ruins/desert/SmallWell.tml"
+hash = "17ba293a8a9f64fdc91210bf85481cbd20c230fb731c9bacd28d19cea39b9927"
+
+[[files]]
+file = "mods/resources/ruins/desert/TallTower.tml"
+hash = "e41f053215d0bd6d4c9874fe127a647cbf42111b9c14278bcdb4ca3e923daf10"
+
+[[files]]
+file = "mods/resources/ruins/desert/code_148_692_6_littlepyramid.tml"
+hash = "aefed207d58cee14e2c0c3d37207f30dbfe30257cea302c5f31e85a5470bbd23"
+
+[[files]]
+file = "mods/resources/ruins/forest/AlchemistsDungeon.tml"
+hash = "36af908e7d5838011bf87cdc6326f6d2a9bd125d64c0673d9434367ad8856cd8"
+
+[[files]]
+file = "mods/resources/ruins/forest/AncientFountain.tml"
+hash = "f1343743312c6ca840dd017477113e675b476a7e421f2dfa5c8da3c018b82ec1"
+
+[[files]]
+file = "mods/resources/ruins/forest/Archway.tml"
+hash = "57fb3494d1c727442379b436193a9e12e727677323088365221747dcaefd4ceb"
+
+[[files]]
+file = "mods/resources/ruins/forest/Barn-intact.tml"
+hash = "df63848c2f4ea22ebb3066b3db1460c032a78ed7a8408fdf325fd417de20de49"
+
+[[files]]
+file = "mods/resources/ruins/forest/Barn-ruined.tml"
+hash = "71caca7369dfbcbf887101f62ca8dd2b050481bdb3b56a38b19e5fdf9cfbc4c7"
+
+[[files]]
+file = "mods/resources/ruins/forest/Barrow.tml"
+hash = "591a4c6222c971de2ed8af83958cd17a7f54090c712afbf93868aaf2952d4a7f"
+
+[[files]]
+file = "mods/resources/ruins/forest/BattleBasementHard.tml"
+hash = "7c6ad7a2b3664ba3316a57bd296d5c43ed98cb121d6a583b2dfe3140196b9e2f"
+
+[[files]]
+file = "mods/resources/ruins/forest/BattleBasementMedium.tml"
+hash = "767f7cbf9daeddc51ce77027f4b199080e8628995e197e7a8783d1932abb7694"
+
+[[files]]
+file = "mods/resources/ruins/forest/BlockHenge.tml"
+hash = "155e8835ad108771ebd342f717502d1a72917f637d9b1d2451966017e5bf523e"
+
+[[files]]
+file = "mods/resources/ruins/forest/BrickHouse.tml"
+hash = "05d4766eec889ae377e6e51bdd03134def5fb945eade7b7adaacb2fdd8f54ec1"
+
+[[files]]
+file = "mods/resources/ruins/forest/BridgePilings-small.tml"
+hash = "01121078b3b4644c23f36996bd72bfa1c1a19c3c7efcaba21c0aae0149a795db"
+
+[[files]]
+file = "mods/resources/ruins/forest/DiamondWell.tml"
+hash = "c899fbd849c751bd0c4f4db210d62055a7ff7c8cf42bc1d149ee539a50ab9ce0"
+
+[[files]]
+file = "mods/resources/ruins/forest/Gazebo.tml"
+hash = "8fb2894aca6cabdb35084d1e5e389af9299e4e59544a0a5a46286a03f2a40d10"
+
+[[files]]
+file = "mods/resources/ruins/forest/Gnomeworks.tml"
+hash = "07eb19b3031d988d90a0f873c3118651b412aa8f2543fcb7de72372495f074a6"
+
+[[files]]
+file = "mods/resources/ruins/forest/GoldWell.tml"
+hash = "c6bce459f7edec2f1a1635ef064ead6bc731c2a6cf7b902008cded919b7f1323"
+
+[[files]]
+file = "mods/resources/ruins/forest/LargeBrickHouse.tml"
+hash = "0715501d8f1423255da990b5f8c2859d49852f7a05b4b3e18762df226317a49a"
+
+[[files]]
+file = "mods/resources/ruins/forest/LargeStoneHouse.tml"
+hash = "2b276f07d06ab75514911e84a2adc78359e1f68f5462866ba4513860fae17701"
+
+[[files]]
+file = "mods/resources/ruins/forest/LargeStoneHouseWBasement.tml"
+hash = "cdc7e1db95198db423b605ec754096c09e6580f9c2b44b21a309b92c15b0c449"
+
+[[files]]
+file = "mods/resources/ruins/forest/LargeStoneTwoStoryHouse.tml"
+hash = "987422a41b23c7c15ccd54e5d34fd59f20a1894af420bc656f0c42a2085ce822"
+
+[[files]]
+file = "mods/resources/ruins/forest/MoaiHead.tml"
+hash = "e0bf3e26886f7236f31596bf88763d53a8bf751e6bb8f4112903591c44fd28a9"
+
+[[files]]
+file = "mods/resources/ruins/forest/MobTower.tml"
+hash = "66aeb283d578059cfefc9a5a032c19a855d4dfb4936057c76f86f2b052d2d849"
+
+[[files]]
+file = "mods/resources/ruins/forest/OldFoundation.tml"
+hash = "b9453e8d02d2ed40f8708e8d23a7eb6a69061543ddb197b89f614006361f7843"
+
+[[files]]
+file = "mods/resources/ruins/forest/Outcrop4_good.tml"
+hash = "b8ac5925a9c7ac39a494158daa00f7d24ac5e3eab6b866ec339be6abfd0d2def"
+
+[[files]]
+file = "mods/resources/ruins/forest/PillarBase.tml"
+hash = "9295e939125e4d476a50e5b2486a332b6255210963cc7d2ad78ca0e3775c3cb4"
+
+[[files]]
+file = "mods/resources/ruins/forest/Pit-med.tml"
+hash = "0819a8ff73736eff71d94d269ae516b537a282e49bce7b01a9f5b9e6ba058dac"
+
+[[files]]
+file = "mods/resources/ruins/forest/Pit-small.tml"
+hash = "3234d34c4dff4b7c00c4cf9ec237b4c3c8a58ca0f8eba9196be75f3b7d7edc1d"
+
+[[files]]
+file = "mods/resources/ruins/forest/RuinedSmallFountainDiagonal.tml"
+hash = "3eff41156c562993725742a19e7e64a878c455e1b9fc0ffc17d06eb402fddd32"
+
+[[files]]
+file = "mods/resources/ruins/forest/RuinedTripleFountain.tml"
+hash = "52e6eca0dc169f56ed851a453117690814ce3b9b7b2d0e75f2dd70fa8de0eb3b"
+
+[[files]]
+file = "mods/resources/ruins/forest/ShortTower.tml"
+hash = "f3b53b1f926075fad902eb2bd4d8f651942c39fa7fb4b5274dc8ff68d2945515"
+
+[[files]]
+file = "mods/resources/ruins/forest/SmallWell.tml"
+hash = "42e9fd79d76c9607646ea4b6421fcad23567d7eb1510177f4af0fa95670593d6"
+
+[[files]]
+file = "mods/resources/ruins/forest/SpiralTree.tml"
+hash = "f9f15999ab630586acce8d7488ba1d429dbb726b49f76ca77f20badad13eb88c"
+
+[[files]]
+file = "mods/resources/ruins/forest/StoneHenge.tml"
+hash = "686da3b895c2d7e962748a94821c82c1920a9732dc0592ff4b6dd8965d44d6e7"
+
+[[files]]
+file = "mods/resources/ruins/forest/StoneHouse.tml"
+hash = "ee015b0fc5cc1bab1928ea818996458719c6f1c4f2d41064e41191159f4a161c"
+
+[[files]]
+file = "mods/resources/ruins/forest/TallTower.tml"
+hash = "d2ddcbeccc5e15986b1bfb1db3e509bf6ff3d0188667c034513529f3830ff4af"
+
+[[files]]
+file = "mods/resources/ruins/forest/TinyFarmField.tml"
+hash = "82353be30fae381fa227eae7078a9e07a6fad7484357264cd9ed3fe228ba0db1"
+
+[[files]]
+file = "mods/resources/ruins/forest/Tower-edit.tml"
+hash = "1724d43522c01af3515634a0ab2237d02562b1fb5ffeb8fbf103e1e22292db13"
+
+[[files]]
+file = "mods/resources/ruins/forest/Tower-ruined-short.tml"
+hash = "522bf926b16d35f0288dc70c07dce174b2c78776f5407685e07159edd4c78ecc"
+
+[[files]]
+file = "mods/resources/ruins/forest/TreeDungeon.tml"
+hash = "5461b028618f2f8fa95c7f383b93274a5c63895d1fad1e285fc01f35eedda031"
+
+[[files]]
+file = "mods/resources/ruins/forest/TreeHouse.tml"
+hash = "f5bf27b8e374eb1e8672cfc8f9179f525a7a7d94adb6d174ccaa0863a83307fb"
+
+[[files]]
+file = "mods/resources/ruins/forest/VanillaVillageChurch-p.tml"
+hash = "2edeec4585532522285c1a9543f2652055ae7cc29727c83f73dd02eac98cf42c"
+
+[[files]]
+file = "mods/resources/ruins/forest/VanillaVillageChurch-r.tml"
+hash = "3fb5f51301bb85aea6b9531c046ab7fa0fa1a955b08765a84410dced708897e4"
+
+[[files]]
+file = "mods/resources/ruins/forest/VanillaVillageCobble-p.tml"
+hash = "68bf56b8e1e5b2442e3074d9e4d19b54569700adb33b28f0dbc45133c0f471b2"
+
+[[files]]
+file = "mods/resources/ruins/forest/VanillaVillageCobbleHouse-r.tml"
+hash = "635483e57d329e2d66629cc1b087f24ba0f1858fce5451f16fe5a3de50355aa7"
+
+[[files]]
+file = "mods/resources/ruins/forest/VanillaVillageEmpty-p.tml"
+hash = "e4f8b76d876d6292a3963cbf23a3fc8117807dd3f5b417968dcd5d50058f975d"
+
+[[files]]
+file = "mods/resources/ruins/forest/VanillaVillageEmptyHouse-r.tml"
+hash = "aa657855f3a32abd4a0eaabb837986009851ae1dca886ab32fee3078f53b44b1"
+
+[[files]]
+file = "mods/resources/ruins/forest/VanillaVillageForge-p.tml"
+hash = "776a09ad0de2804f9250d983d3f864c919cb9264eacbe12709a22ab6219cc7a1"
+
+[[files]]
+file = "mods/resources/ruins/forest/VanillaVillageForge-r.tml"
+hash = "7779d0c36624c8da38e5b7e77539c075253f354c4bf182fe4cbbfc628ca816c4"
+
+[[files]]
+file = "mods/resources/ruins/forest/VanillaVillageHut-p.tml"
+hash = "0121d67f6cadb2afc441cbed64ad9cb644a7895890c0b803844ded910c64163d"
+
+[[files]]
+file = "mods/resources/ruins/forest/VanillaVillageHut-r.tml"
+hash = "1eb497b82e756384611efa6429c03c9124cc0fdb74c79d1ef7b65c1a7a05aafd"
+
+[[files]]
+file = "mods/resources/ruins/forest/VanillaVillageLadder-p.tml"
+hash = "310c122e77953e571425041c5fe55feceb04e2a4fcc50c7d9dbbdb8811d6364f"
+
+[[files]]
+file = "mods/resources/ruins/forest/VanillaVillageLibrary-p.tml"
+hash = "37325899ec03f56a75a131f704e90fad3546350f5236c81b745f4475254d50fb"
+
+[[files]]
+file = "mods/resources/ruins/forest/VanillaVillagePig-p.tml"
+hash = "e2e497e646a3004f0cdf78371441e174a37b35ab311e16ac25b8b1fa7ff014a9"
+
+[[files]]
+file = "mods/resources/ruins/forest/VanillaVillageWell-p.tml"
+hash = "5a089efa68d42bd12674ab460e2ddf8e92e4e2da0ee206632a51686f31d7a2db"
+
+[[files]]
+file = "mods/resources/ruins/forest/VolcanicVent3_good.tml"
+hash = "e7539ae949274f8ee9ac24e7a0be0d30d3e201a5b1f5d291eb21feb7adb32b0c"
+
+[[files]]
+file = "mods/resources/ruins/forest/WoodHouse.tml"
+hash = "a305011aae3e262f9727f25c5194af4b7510efa73fd889d3b9170983afd11cd8"
+
+[[files]]
+file = "mods/resources/ruins/frozenOcean/TP_FishingShack.tml"
+hash = "f88cd99ce73f0c45cd32e6358e0dfd476ad1e35a99b7dbc4ba807e352ed28622"
+
+[[files]]
+file = "mods/resources/ruins/frozenRiver/BridgePilings-small_river.tml"
+hash = "b1a335638d32741eddebf86a6d946baadc3aa646c43d99a0634ef64c618ff9cc"
+
+[[files]]
+file = "mods/resources/ruins/hell/FlamingSkullHouse.tml"
+hash = "f8b8e42bce941af8f3c70df519a3a7da4992719356f717dae4c1eb3fec507876"
+
+[[files]]
+file = "mods/resources/ruins/hell/LargeNetherHouse.tml"
+hash = "ba8270b7735208d58dff4ad2977b45852097c4afb24ca23a2f2b4a1902389edf"
+
+[[files]]
+file = "mods/resources/ruins/hell/NetherHouse.tml"
+hash = "4f4ddef25f0e909cdf0ba15145cab02037d0eee37a06edafce946e8e1bb6d720"
+
+[[files]]
+file = "mods/resources/ruins/hell/NetherShrine.tml"
+hash = "4881a43586e4da1d8f43d57564fc58ec7739b737c2ae1b10d5c2e07d01c49603"
+
+[[files]]
+file = "mods/resources/ruins/hell/PortalShrine.tml"
+hash = "ecf5aad75828deca85ed7bbfb11d12a4715e102c2c87db9780d7a1786fb2a54d"
+
+[[files]]
+file = "mods/resources/ruins/hell/ShortNetherTower.tml"
+hash = "868bc4dd9fc463a975fb6d250e4bc51a47399e03467174bbf99fcaa1e6c8fab4"
+
+[[files]]
+file = "mods/resources/ruins/hell/TallNetherTower.tml"
+hash = "b78b185dbb22d77cf307f97520ce49acaeff7c8644556e82cbe1082c00a9c3c8"
+
+[[files]]
+file = "mods/resources/ruins/hell/Tower-nether.tml"
+hash = "2e2ac810e32ae477555f0ce2fd65c7e1094beba1a6c54c08128e512188ee8ede"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/Archway.tml"
+hash = "9f1c8ad0215f6890c04e94d872c2786187336223941f05ff31159c8aeaa98860"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/BattleBasementHard.tml"
+hash = "7c6ad7a2b3664ba3316a57bd296d5c43ed98cb121d6a583b2dfe3140196b9e2f"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/BattleBasementMedium.tml"
+hash = "767f7cbf9daeddc51ce77027f4b199080e8628995e197e7a8783d1932abb7694"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/BlockHenge.tml"
+hash = "9f855d46d3c9a33c4cdba2261b296b34001b1794692685358ecf68607e5f7024"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/DwarfBase-mtn.tml"
+hash = "22df5c8437cc184a2ba394e281fb111126a90aa09c80633fab28d4d83ab849f7"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/FrozenBush.tml"
+hash = "26b3780d93cb3c10aeeaf28ebb534ecd132dd4af89605604ffcbe6a175e246e7"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/FrozenTree.tml"
+hash = "b03ed2e002eee56db4738e319ae3bff58cf0f99adcaa358fa9a0c6fa3f1e7a28"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/GuardHouse.tml"
+hash = "64c5e24a8f8d94b9dbe6862f4a5a1678dce7c9b036ed74260b4af5977d4542b0"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/Igloo.tml"
+hash = "47e116619f2063bfa9e8cf4284620a6cc95bc9534d4f3b11b4cb8324c6b1cba2"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/LargeStoneHouse.tml"
+hash = "f0540ee10839bc02725c070cfb915f2710ccaf9f31f0f234a07f260f7296251d"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/LargeStoneHouseWBasement.tml"
+hash = "3b2fa09218d0d951bc41a0466f5b7d234b314fd998cf9ee77e322f61393593d3"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/LargeStoneTwoStoryHouse.tml"
+hash = "9d47d6b744cbec115aced19fe365697cca87df593c90904adcebacf1850adca6"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/MobTower.tml"
+hash = "824124e3459f1797261ca022ec8761c2337924c28956d4f3e0f773b09c2ea87a"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/Monolith.tml"
+hash = "ca67f5daaaace9d3c43ce58d35963ab6d39a0d392c98b31707e3334c3fb773a4"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/OldFoundation.tml"
+hash = "6af9730f214febaf3d4cc3aa7787bc8fdba895996637d32877b25b5656a41c85"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/Outcrop4_good.tml"
+hash = "b8ac5925a9c7ac39a494158daa00f7d24ac5e3eab6b866ec339be6abfd0d2def"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/PillarBase.tml"
+hash = "610c470e6220fd0f39827e8265cb437a2a2a8d0fce7f71ac6d4b02d5423d3016"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/Pit-small.tml"
+hash = "3234d34c4dff4b7c00c4cf9ec237b4c3c8a58ca0f8eba9196be75f3b7d7edc1d"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/RuinedSmallFountainDiagonal.tml"
+hash = "e6355f8cff244f7f009f63ffb92bb2880ad0e8e0e51bfd0d7cba5462b3b4b19d"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/ShortTower.tml"
+hash = "9178d442bbbb85a8b877473df5a72c4524ab190c1cbd6f11e7d43dea7af4c5e4"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/SnowHenge.tml"
+hash = "a917c45ddc59e2adde23a38e2a673e13388f473dbc9cc96b659b82f791016af5"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/SnowHouse1.tml"
+hash = "663293dd3b584d5adce99ee762639ddeb09ba37e29ddd0f7403df543595f73ef"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/SpiralTree.tml"
+hash = "f9f15999ab630586acce8d7488ba1d429dbb726b49f76ca77f20badad13eb88c"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/StoneHenge.tml"
+hash = "d70162762d5b4bb8028fc50510b73754f45c31cbf3ff38b5ac1269f5948a2b37"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/StoneHouse.tml"
+hash = "ee015b0fc5cc1bab1928ea818996458719c6f1c4f2d41064e41191159f4a161c"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/TallTower.tml"
+hash = "c0f0cc67380b7872ed2882b9947cda7cf898c434b8a92081371de43d69c7f5e9"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/Tower-edit.tml"
+hash = "1724d43522c01af3515634a0ab2237d02562b1fb5ffeb8fbf103e1e22292db13"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/Tower-ruined-short.tml"
+hash = "522bf926b16d35f0288dc70c07dce174b2c78776f5407685e07159edd4c78ecc"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/VanillaVillageCobble-p.tml"
+hash = "68bf56b8e1e5b2442e3074d9e4d19b54569700adb33b28f0dbc45133c0f471b2"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/VanillaVillageCobbleHouse-r.tml"
+hash = "635483e57d329e2d66629cc1b087f24ba0f1858fce5451f16fe5a3de50355aa7"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/VanillaVillageEmpty-p.tml"
+hash = "e4f8b76d876d6292a3963cbf23a3fc8117807dd3f5b417968dcd5d50058f975d"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/VanillaVillageEmptyHouse-r.tml"
+hash = "aa657855f3a32abd4a0eaabb837986009851ae1dca886ab32fee3078f53b44b1"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/VanillaVillageHut-p.tml"
+hash = "0121d67f6cadb2afc441cbed64ad9cb644a7895890c0b803844ded910c64163d"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/VanillaVillageHut-r.tml"
+hash = "1eb497b82e756384611efa6429c03c9124cc0fdb74c79d1ef7b65c1a7a05aafd"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/VanillaVillageLadder-p.tml"
+hash = "5935d85be8eb4a9719ee9da7e506ad1f093fda84666b25a291b56dcaaa1cdd5e"
+
+[[files]]
+file = "mods/resources/ruins/ice Mountains/VolcanicVent3_good.tml"
+hash = "a735eb46b256322800a7aa1901bdadf5bf241f42dd9b19fcfc43be9e8db425aa"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/AlchemistsDungeon.tml"
+hash = "36af908e7d5838011bf87cdc6326f6d2a9bd125d64c0673d9434367ad8856cd8"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/Archway.tml"
+hash = "855f0fdf1fffbaf68f6d9916ab51acb856c77647653ab5636cfe6a65f1a839ba"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/Barn-intact.tml"
+hash = "df63848c2f4ea22ebb3066b3db1460c032a78ed7a8408fdf325fd417de20de49"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/Barn-ruined.tml"
+hash = "2fd6912603ecb771c4e595167d7f2425ed3c180a2abc9c122e36968be1bd75e3"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/Barrow.tml"
+hash = "591a4c6222c971de2ed8af83958cd17a7f54090c712afbf93868aaf2952d4a7f"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/BattleBasementHard.tml"
+hash = "7c6ad7a2b3664ba3316a57bd296d5c43ed98cb121d6a583b2dfe3140196b9e2f"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/BattleBasementMedium.tml"
+hash = "767f7cbf9daeddc51ce77027f4b199080e8628995e197e7a8783d1932abb7694"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/BlockHenge.tml"
+hash = "a9b5d4c7b97e98d4110a7b4002626e637e671aeeb71664f07e77d908341dec9f"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/FrozenBush.tml"
+hash = "26b3780d93cb3c10aeeaf28ebb534ecd132dd4af89605604ffcbe6a175e246e7"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/FrozenTree.tml"
+hash = "b03ed2e002eee56db4738e319ae3bff58cf0f99adcaa358fa9a0c6fa3f1e7a28"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/Gnomeworks.tml"
+hash = "56eaf9cfee5f8113f1a322a0fb1147f4f2fe1c81c70666755cfc9675864fb206"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/Igloo.tml"
+hash = "8abe2d170587e81a736341a11454bf4fc1e7179986f4cbf9d061a75d07814986"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/LargeStoneHouse.tml"
+hash = "b1b452b5822fdc3246d2efc8eadb66bdb931d79d48eb058a6bc75fadd8a99d9d"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/LargeStoneHouseWBasement.tml"
+hash = "1ae7d972d6f39d7d5445b7208b9b0719f3edfd7efdb86d5fb3b6de915a19f996"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/LargeStoneTwoStoryHouse.tml"
+hash = "dd7dffaf0f897c2235f988ba9b05d1a5f5d9512365104097556e8247c1709711"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/MobTower.tml"
+hash = "66aeb283d578059cfefc9a5a032c19a855d4dfb4936057c76f86f2b052d2d849"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/Monolith.tml"
+hash = "ca67f5daaaace9d3c43ce58d35963ab6d39a0d392c98b31707e3334c3fb773a4"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/Outcrop4_good.tml"
+hash = "b8ac5925a9c7ac39a494158daa00f7d24ac5e3eab6b866ec339be6abfd0d2def"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/PillarBase.tml"
+hash = "0f45894862f61fc011805fb6d891612e280a05377a81c270f119b891e18534da"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/Pit-big.tml"
+hash = "1d22824587ace6d71cb3fa0066bdce140a57c0beebb5c4e878638dee984ebad8"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/Pit-small.tml"
+hash = "3234d34c4dff4b7c00c4cf9ec237b4c3c8a58ca0f8eba9196be75f3b7d7edc1d"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/RuinedSmallFountainDiagonal.tml"
+hash = "3eff41156c562993725742a19e7e64a878c455e1b9fc0ffc17d06eb402fddd32"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/RuinedTripleFountain.tml"
+hash = "52e6eca0dc169f56ed851a453117690814ce3b9b7b2d0e75f2dd70fa8de0eb3b"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/ShortTower.tml"
+hash = "33f75d18cafa45928b1b836cf0330ac9a62413d60e714c016b8e779f4ebd9efc"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/SnowHenge.tml"
+hash = "a917c45ddc59e2adde23a38e2a673e13388f473dbc9cc96b659b82f791016af5"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/SnowHouse1.tml"
+hash = "663293dd3b584d5adce99ee762639ddeb09ba37e29ddd0f7403df543595f73ef"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/SnowHouse2.tml"
+hash = "69a353872df5685b264988c971e30f6cd772dc3bd3daaaaba79ae2110b6f3e53"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/SnowHouse3.tml"
+hash = "04918d222e10ebdce60d2d666370aea27eb936370d2696989ce86d4ed1271e4d"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/StoneHenge.tml"
+hash = "686da3b895c2d7e962748a94821c82c1920a9732dc0592ff4b6dd8965d44d6e7"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/StoneHouse.tml"
+hash = "ee015b0fc5cc1bab1928ea818996458719c6f1c4f2d41064e41191159f4a161c"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/TallTower.tml"
+hash = "380beeaac951405070e8ab8711b4e087ae4136169b7e65978d2cefb244fd8470"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/TinyFarmField.tml"
+hash = "7450ecf0a310da75d7de9ec7d909ef79f35c7fecaad7c31e1be70e520237e150"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/Tower-edit.tml"
+hash = "1724d43522c01af3515634a0ab2237d02562b1fb5ffeb8fbf103e1e22292db13"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/Tower-ruined-short.tml"
+hash = "522bf926b16d35f0288dc70c07dce174b2c78776f5407685e07159edd4c78ecc"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/VanillaVillageChurch-p.tml"
+hash = "2edeec4585532522285c1a9543f2652055ae7cc29727c83f73dd02eac98cf42c"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/VanillaVillageChurch-r.tml"
+hash = "3fb5f51301bb85aea6b9531c046ab7fa0fa1a955b08765a84410dced708897e4"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/VanillaVillageCobble-p.tml"
+hash = "68bf56b8e1e5b2442e3074d9e4d19b54569700adb33b28f0dbc45133c0f471b2"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/VanillaVillageCobbleHouse-r.tml"
+hash = "635483e57d329e2d66629cc1b087f24ba0f1858fce5451f16fe5a3de50355aa7"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/VanillaVillageEmpty-p.tml"
+hash = "e4f8b76d876d6292a3963cbf23a3fc8117807dd3f5b417968dcd5d50058f975d"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/VanillaVillageEmptyHouse-r.tml"
+hash = "aa657855f3a32abd4a0eaabb837986009851ae1dca886ab32fee3078f53b44b1"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/VanillaVillageForge-p.tml"
+hash = "776a09ad0de2804f9250d983d3f864c919cb9264eacbe12709a22ab6219cc7a1"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/VanillaVillageForge-r.tml"
+hash = "7779d0c36624c8da38e5b7e77539c075253f354c4bf182fe4cbbfc628ca816c4"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/VanillaVillageHut-p.tml"
+hash = "0121d67f6cadb2afc441cbed64ad9cb644a7895890c0b803844ded910c64163d"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/VanillaVillageHut-r.tml"
+hash = "1eb497b82e756384611efa6429c03c9124cc0fdb74c79d1ef7b65c1a7a05aafd"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/VanillaVillageLadder-p.tml"
+hash = "310c122e77953e571425041c5fe55feceb04e2a4fcc50c7d9dbbdb8811d6364f"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/VanillaVillageLibrary-p.tml"
+hash = "37325899ec03f56a75a131f704e90fad3546350f5236c81b745f4475254d50fb"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/VanillaVillagePig-p.tml"
+hash = "e2e497e646a3004f0cdf78371441e174a37b35ab311e16ac25b8b1fa7ff014a9"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/VanillaVillageWell-p.tml"
+hash = "5a089efa68d42bd12674ab460e2ddf8e92e4e2da0ee206632a51686f31d7a2db"
+
+[[files]]
+file = "mods/resources/ruins/ice Plains/VolcanicVent3_good.tml"
+hash = "a735eb46b256322800a7aa1901bdadf5bf241f42dd9b19fcfc43be9e8db425aa"
+
+[[files]]
+file = "mods/resources/ruins/mushroomIsland/BattleBasementHard.tml"
+hash = "b73ef5844550cf2e4c767b0565b84aee8e7c27a7e42508baac4b07c1859ecf00"
+
+[[files]]
+file = "mods/resources/ruins/mushroomIsland/BattleBasementMedium.tml"
+hash = "23d8d544d7c2938bef624ec3f29c5f3240f0d66d5bdeea69b0a688d5b979a724"
+
+[[files]]
+file = "mods/resources/ruins/mushroomIsland/MoaiHead.tml"
+hash = "354d0e1d020a1be3c3653fde4006bf3c2a4fa097549204fe57e4ee22d8c54182"
+
+[[files]]
+file = "mods/resources/ruins/mushroomIsland/MobTower.tml"
+hash = "d49b814a9e1ceb8d8b153946f2b83007bb959ea3394509f23a4d8c75012244ec"
+
+[[files]]
+file = "mods/resources/ruins/mushroomIsland/Orthanc.tml"
+hash = "3bec35a808a84514b8227e288a1514456182fae4c2a129c0f94d6ced49664ae8"
+
+[[files]]
+file = "mods/resources/ruins/mushroomIsland/Tower-edit.tml"
+hash = "a81f81a73539f67f7722b6e77575bfe56db3eab58a49e3ef80941f157f89b9d9"
+
+[[files]]
+file = "mods/resources/ruins/mushroomIsland/Tower-ruined-short.tml"
+hash = "b3efa53796d425e1fa4bdafb948eb438c0535a90d7b9c0fa5b2a6a831947c207"
+
+[[files]]
+file = "mods/resources/ruins/mushroomIsland/VolcanicVent3_good.tml"
+hash = "88596ffa7b4d23b4e2b5e2d7475d406ceab62a3215f5a1aee339b25aba4fdc06"
+
+[[files]]
+file = "mods/resources/ruins/mushroomIslandShore/MoaiHead.tml"
+hash = "f168d97b0c94e7a392a3e989686ffb8f470886be4aac37e24d3d2d5c4d44f20f"
+
+[[files]]
+file = "mods/resources/ruins/ocean/Archway.tml"
+hash = "10cdebf7d644fa14c6b3a0354a0b1b3abf64f99ac34c30a054ab038433a14ae2"
+
+[[files]]
+file = "mods/resources/ruins/ocean/BaloonHigh.tml"
+hash = "cf540214ba9f465a0dd8461635e778886077a941e0b563738fec8102fcbdf16b"
+
+[[files]]
+file = "mods/resources/ruins/ocean/BaloonLow.tml"
+hash = "3425006de07121c73aad2797c25a09890599869845a70877bfd7592e950067f3"
+
+[[files]]
+file = "mods/resources/ruins/ocean/BlockHenge.tml"
+hash = "48a3cb500b11d091d0db63f99a611996174dac6b330405a3c4b8141eba0343fc"
+
+[[files]]
+file = "mods/resources/ruins/ocean/BridgePilings-small_river.tml"
+hash = "f7254fb2946eddc761bbe51a123b8423fc98a3c55828a215d3c6d5ed992e0564"
+
+[[files]]
+file = "mods/resources/ruins/ocean/BridgePilings2_river.tml"
+hash = "6db8c2dfa8c7901d33b286e100c61346e0c6c845c42edeba0f51efb466597162"
+
+[[files]]
+file = "mods/resources/ruins/ocean/LargeStoneTwoStoryHouse.tml"
+hash = "69cfefb564f22021184907c0408018b85261697602a378d04476e45f53d71937"
+
+[[files]]
+file = "mods/resources/ruins/ocean/LightHouse.tml"
+hash = "363dae2e55b7e87e31c8499d799185a3f3286ad9be996cff3b876f2f47b80172"
+
+[[files]]
+file = "mods/resources/ruins/ocean/PillarBase.tml"
+hash = "42eafe0025f84e5973f190c42187ea5541399699f3a6f55cacea8b20aceb1549"
+
+[[files]]
+file = "mods/resources/ruins/ocean/PirateShip.tml"
+hash = "3c793ffa50602c2d5898c44e3e39bc8a446b3b69be9e4266ac59e3dcb9412f56"
+
+[[files]]
+file = "mods/resources/ruins/ocean/ShortTower.tml"
+hash = "2eab1eef1902eb9746f21af7c485fb698e5adb3333330c126a21eead34a80730"
+
+[[files]]
+file = "mods/resources/ruins/ocean/SkyCastle.tml"
+hash = "35617802ff4f95c7c768bf5b54fb4ab8e27ccdcfba2413e380fbe3511239ffac"
+
+[[files]]
+file = "mods/resources/ruins/ocean/SunkenShip-v3.tml"
+hash = "439b42bf2a882d89f7e7f88d1e66e760248325cab52c4fa9e68fc9b49dce07f9"
+
+[[files]]
+file = "mods/resources/ruins/ocean/TallTower.tml"
+hash = "a5db8b46964726371641548377226f4512929b82047d25dfb1969cba5aed1275"
+
+[[files]]
+file = "mods/resources/ruins/ocean/VanillaVillageChurch-r.tml"
+hash = "279848828551c4ea80102eaeb3e0a3ba27e1cbceb0a389ba942d8b83362abf8e"
+
+[[files]]
+file = "mods/resources/ruins/plains/AlchemistsDungeon.tml"
+hash = "36af908e7d5838011bf87cdc6326f6d2a9bd125d64c0673d9434367ad8856cd8"
+
+[[files]]
+file = "mods/resources/ruins/plains/Archway.tml"
+hash = "0145658eeb8ca2d10c42d73266b53f9ccbf3f156ea0f6ef43e153fa87e3fe093"
+
+[[files]]
+file = "mods/resources/ruins/plains/Barn-intact.tml"
+hash = "df63848c2f4ea22ebb3066b3db1460c032a78ed7a8408fdf325fd417de20de49"
+
+[[files]]
+file = "mods/resources/ruins/plains/Barn-ruined.tml"
+hash = "2fd6912603ecb771c4e595167d7f2425ed3c180a2abc9c122e36968be1bd75e3"
+
+[[files]]
+file = "mods/resources/ruins/plains/Barrow.tml"
+hash = "7f52efb4727fe46a713b8eb8528a3b53bfd4b75d5090f4ab0702f56de6642109"
+
+[[files]]
+file = "mods/resources/ruins/plains/BattleBasementHard.tml"
+hash = "7c6ad7a2b3664ba3316a57bd296d5c43ed98cb121d6a583b2dfe3140196b9e2f"
+
+[[files]]
+file = "mods/resources/ruins/plains/BattleBasementMedium.tml"
+hash = "767f7cbf9daeddc51ce77027f4b199080e8628995e197e7a8783d1932abb7694"
+
+[[files]]
+file = "mods/resources/ruins/plains/BlockHenge.tml"
+hash = "9f855d46d3c9a33c4cdba2261b296b34001b1794692685358ecf68607e5f7024"
+
+[[files]]
+file = "mods/resources/ruins/plains/DiamondWell.tml"
+hash = "ef500f1b9fd89be636e99ef42ce1f6440a45e3198e76face91e43dc69ed4513c"
+
+[[files]]
+file = "mods/resources/ruins/plains/GoldWell.tml"
+hash = "7c993393e728686c78ed67d53b86bef4e28ca9a076f1cad56fdb1cd5765e9835"
+
+[[files]]
+file = "mods/resources/ruins/plains/LargeStoneHouse.tml"
+hash = "8dbee8f37a7add17c703258a1721ee431cb331d0ad2a8def5ec181ec43703569"
+
+[[files]]
+file = "mods/resources/ruins/plains/LargeStoneHouseWBasement.tml"
+hash = "6e0bafe822d81b724bdd962c826ebf619e2cb03ed0c7efda9838f52065067a27"
+
+[[files]]
+file = "mods/resources/ruins/plains/LargeStoneTwoStoryHouse.tml"
+hash = "460d5aa1be814a0e3963fac02471a984ecffd3837be7cc18c7784d7f0823daa3"
+
+[[files]]
+file = "mods/resources/ruins/plains/MoaiHead.tml"
+hash = "1db82372208df8874924f9b47d5e9b1ef9830c25cf41ead94fddc50e984402ed"
+
+[[files]]
+file = "mods/resources/ruins/plains/MobTower.tml"
+hash = "02c93d308bd7d2e6ea76b7de83d679cd6ecf3986f272b7993385c59b2b343fe6"
+
+[[files]]
+file = "mods/resources/ruins/plains/Monolith.tml"
+hash = "ca67f5daaaace9d3c43ce58d35963ab6d39a0d392c98b31707e3334c3fb773a4"
+
+[[files]]
+file = "mods/resources/ruins/plains/OldFoundation.tml"
+hash = "b9453e8d02d2ed40f8708e8d23a7eb6a69061543ddb197b89f614006361f7843"
+
+[[files]]
+file = "mods/resources/ruins/plains/Outcrop4_good.tml"
+hash = "266469eae1664dd4b12f2849e1222e3a1f903c5cef4edc85b0f9a901f19ab186"
+
+[[files]]
+file = "mods/resources/ruins/plains/PillarBase.tml"
+hash = "0764567050f1e525a49903f7a586618540bef6652f2fafec99d04ec960ccaf90"
+
+[[files]]
+file = "mods/resources/ruins/plains/Pit-big.tml"
+hash = "1d22824587ace6d71cb3fa0066bdce140a57c0beebb5c4e878638dee984ebad8"
+
+[[files]]
+file = "mods/resources/ruins/plains/Pit-small.tml"
+hash = "3234d34c4dff4b7c00c4cf9ec237b4c3c8a58ca0f8eba9196be75f3b7d7edc1d"
+
+[[files]]
+file = "mods/resources/ruins/plains/RuinedSmallFountainDiagonal.tml"
+hash = "2c6c2798fe16c7c5c9e222e3e4a98e591817dd1c796d5c70bc03be0b2bc56838"
+
+[[files]]
+file = "mods/resources/ruins/plains/RuinedTripleFountain.tml"
+hash = "52e6eca0dc169f56ed851a453117690814ce3b9b7b2d0e75f2dd70fa8de0eb3b"
+
+[[files]]
+file = "mods/resources/ruins/plains/ShortTower.tml"
+hash = "310da6d01cbb410a054cd650cff075d2ccf059d2957652089e09042f9fea5504"
+
+[[files]]
+file = "mods/resources/ruins/plains/SmallWell.tml"
+hash = "17ba293a8a9f64fdc91210bf85481cbd20c230fb731c9bacd28d19cea39b9927"
+
+[[files]]
+file = "mods/resources/ruins/plains/SpearStatue.tml"
+hash = "9ab329b8dd9aab3ee4f71d9fc925451d70577f809b994d0157510a0df122f36a"
+
+[[files]]
+file = "mods/resources/ruins/plains/StoneHenge.tml"
+hash = "0dc7dafda03b057403acf7214bd495f6ef50f0109043839230cdd98ae62ece05"
+
+[[files]]
+file = "mods/resources/ruins/plains/StoneHouse.tml"
+hash = "ee015b0fc5cc1bab1928ea818996458719c6f1c4f2d41064e41191159f4a161c"
+
+[[files]]
+file = "mods/resources/ruins/plains/TallTower.tml"
+hash = "e000f8bcf4b7b018792cfd8775a99a847009d8098814e66fdc213d7054c57839"
+
+[[files]]
+file = "mods/resources/ruins/plains/TinyFarmField.tml"
+hash = "7450ecf0a310da75d7de9ec7d909ef79f35c7fecaad7c31e1be70e520237e150"
+
+[[files]]
+file = "mods/resources/ruins/plains/Tower-edit.tml"
+hash = "caaa26c67377e3280c0d8c2513a8504896056d06b039299a8f450a27839cb82f"
+
+[[files]]
+file = "mods/resources/ruins/plains/Tower-ruined-short.tml"
+hash = "1dffe18fe5759942d06537ca2c41adb48afc7310839849aaabfe0c07b4b3d4e9"
+
+[[files]]
+file = "mods/resources/ruins/plains/VanillaVillageChurch-p.tml"
+hash = "2edeec4585532522285c1a9543f2652055ae7cc29727c83f73dd02eac98cf42c"
+
+[[files]]
+file = "mods/resources/ruins/plains/VanillaVillageChurch-r.tml"
+hash = "3fb5f51301bb85aea6b9531c046ab7fa0fa1a955b08765a84410dced708897e4"
+
+[[files]]
+file = "mods/resources/ruins/plains/VanillaVillageCobble-p.tml"
+hash = "68bf56b8e1e5b2442e3074d9e4d19b54569700adb33b28f0dbc45133c0f471b2"
+
+[[files]]
+file = "mods/resources/ruins/plains/VanillaVillageCobbleHouse-r.tml"
+hash = "635483e57d329e2d66629cc1b087f24ba0f1858fce5451f16fe5a3de50355aa7"
+
+[[files]]
+file = "mods/resources/ruins/plains/VanillaVillageEmpty-p.tml"
+hash = "e4f8b76d876d6292a3963cbf23a3fc8117807dd3f5b417968dcd5d50058f975d"
+
+[[files]]
+file = "mods/resources/ruins/plains/VanillaVillageEmptyHouse-r.tml"
+hash = "aa657855f3a32abd4a0eaabb837986009851ae1dca886ab32fee3078f53b44b1"
+
+[[files]]
+file = "mods/resources/ruins/plains/VanillaVillageForge-p.tml"
+hash = "776a09ad0de2804f9250d983d3f864c919cb9264eacbe12709a22ab6219cc7a1"
+
+[[files]]
+file = "mods/resources/ruins/plains/VanillaVillageForge-r.tml"
+hash = "7779d0c36624c8da38e5b7e77539c075253f354c4bf182fe4cbbfc628ca816c4"
+
+[[files]]
+file = "mods/resources/ruins/plains/VanillaVillageHut-p.tml"
+hash = "0121d67f6cadb2afc441cbed64ad9cb644a7895890c0b803844ded910c64163d"
+
+[[files]]
+file = "mods/resources/ruins/plains/VanillaVillageHut-r.tml"
+hash = "ac974722f8da23a9b1df68889fd6580b41bfe5e7f2d7d0821180c14fe3fc0260"
+
+[[files]]
+file = "mods/resources/ruins/plains/VanillaVillageLadder-p.tml"
+hash = "310c122e77953e571425041c5fe55feceb04e2a4fcc50c7d9dbbdb8811d6364f"
+
+[[files]]
+file = "mods/resources/ruins/plains/VanillaVillageLibrary-p.tml"
+hash = "37325899ec03f56a75a131f704e90fad3546350f5236c81b745f4475254d50fb"
+
+[[files]]
+file = "mods/resources/ruins/plains/VanillaVillagePig-p.tml"
+hash = "5e67b2e1fba71ee7e43e9c11bb711167c3e23c3c6f9e4cee762224e7b288a02a"
+
+[[files]]
+file = "mods/resources/ruins/plains/VanillaVillageWell-p.tml"
+hash = "5a089efa68d42bd12674ab460e2ddf8e92e4e2da0ee206632a51686f31d7a2db"
+
+[[files]]
+file = "mods/resources/ruins/river/BridgePilings-small_river.tml"
+hash = "b1a335638d32741eddebf86a6d946baadc3aa646c43d99a0634ef64c618ff9cc"
+
+[[files]]
+file = "mods/resources/ruins/river/BridgePilings2_river.tml"
+hash = "c0806b15315b78fcab5ece12be6d8d799a6181123f3372977d857954005df8c5"
+
+[[files]]
+file = "mods/resources/ruins/rotation_mappings.txt"
+hash = "c7c401e1dff24bd57720094ad2306a0f40112276f314a90e86bc5eca2a309a8f"
+
+[[files]]
+file = "mods/resources/ruins/swampland/AlchemistsDungeon.tml"
+hash = "36af908e7d5838011bf87cdc6326f6d2a9bd125d64c0673d9434367ad8856cd8"
+
+[[files]]
+file = "mods/resources/ruins/swampland/BattleBasementHard.tml"
+hash = "a2715d96510ab2b38f8bad49ecb65a800b50432f96d0f89db8071b1e5524d6a6"
+
+[[files]]
+file = "mods/resources/ruins/swampland/BattleBasementMedium.tml"
+hash = "8e70c43f92b782f38bdcd73f551a372ea2393477a992d40bc4d0740426cbaed8"
+
+[[files]]
+file = "mods/resources/ruins/swampland/BlockHenge.tml"
+hash = "9f855d46d3c9a33c4cdba2261b296b34001b1794692685358ecf68607e5f7024"
+
+[[files]]
+file = "mods/resources/ruins/swampland/BrickHouse.tml"
+hash = "5a1b877de1e47fc44824edea2be1e4885919ffb094776ba95ebc148a801d1dff"
+
+[[files]]
+file = "mods/resources/ruins/swampland/BridgePilings-lg2.tml"
+hash = "5fd449f1ead7d6c3eb9d50ae3917841db802093a026814491858d8945c7f1d6d"
+
+[[files]]
+file = "mods/resources/ruins/swampland/BridgePilings-sm2.tml"
+hash = "d7ef6b269ee44695e89544e2338332ddb2400fb76c55c49b72c20017105a31d0"
+
+[[files]]
+file = "mods/resources/ruins/swampland/DiamondWell.tml"
+hash = "c899fbd849c751bd0c4f4db210d62055a7ff7c8cf42bc1d149ee539a50ab9ce0"
+
+[[files]]
+file = "mods/resources/ruins/swampland/FlamingSkullHouse.tml"
+hash = "1bc954c0ec35872f59fa869f8aca7581ba08736e7e5df98ded9cde9b7da4cf48"
+
+[[files]]
+file = "mods/resources/ruins/swampland/Gazebo.tml"
+hash = "8fb2894aca6cabdb35084d1e5e389af9299e4e59544a0a5a46286a03f2a40d10"
+
+[[files]]
+file = "mods/resources/ruins/swampland/GraveyardHaunted.tml"
+hash = "483aa9363e27d675b7a75fd2648ee4a210029a0bd84ee3a49b5a58b41a49fbcd"
+
+[[files]]
+file = "mods/resources/ruins/swampland/LargeBrickHouse.tml"
+hash = "a5fde4642a764fa015729b66188d74059b0edb3bd5ba2457829d8c1e69434567"
+
+[[files]]
+file = "mods/resources/ruins/swampland/MoaiHead.tml"
+hash = "1db82372208df8874924f9b47d5e9b1ef9830c25cf41ead94fddc50e984402ed"
+
+[[files]]
+file = "mods/resources/ruins/swampland/Outcrop4_good.tml"
+hash = "b8ac5925a9c7ac39a494158daa00f7d24ac5e3eab6b866ec339be6abfd0d2def"
+
+[[files]]
+file = "mods/resources/ruins/swampland/Pit-med.tml"
+hash = "126f42a4ac40946ba834472b34fd52651ffb3fd462632e5489e9bf42cea8c6c3"
+
+[[files]]
+file = "mods/resources/ruins/swampland/Pit-small.tml"
+hash = "5c8c477845aadf7be6a5abac273be899030f6bfc9406b0c1d4246e8917371d47"
+
+[[files]]
+file = "mods/resources/ruins/swampland/RuinedSmallFountainDiagonal.tml"
+hash = "5d5558adc609f0dd1c6e6b90782eb0160692821fd6f26099654d0624f2b1a240"
+
+[[files]]
+file = "mods/resources/ruins/swampland/ShortTower.tml"
+hash = "9c13da5e8221c0d4edb83309565bf087b16d576e09ebbff0e360a3933d0205f2"
+
+[[files]]
+file = "mods/resources/ruins/swampland/SpiralTree.tml"
+hash = "f64679b882ea17c66fbe995c828bafe262aab2b8afff143c83798dc2cc1358e4"
+
+[[files]]
+file = "mods/resources/ruins/swampland/TallTower.tml"
+hash = "f924ac344f18a92ee079e1e9f8162075b06634027a45df5cd138669eca06c9cf"
+
+[[files]]
+file = "mods/resources/ruins/swampland/Tower-edit.tml"
+hash = "1724d43522c01af3515634a0ab2237d02562b1fb5ffeb8fbf103e1e22292db13"
+
+[[files]]
+file = "mods/resources/ruins/swampland/Tower-ruined-short.tml"
+hash = "522bf926b16d35f0288dc70c07dce174b2c78776f5407685e07159edd4c78ecc"
+
+[[files]]
+file = "mods/resources/ruins/swampland/TreeDungeon.tml"
+hash = "c2ac13c8927ef45c14328bc0e22fe614821b40489d3c5c5b9888ae6d82b8c8b1"
+
+[[files]]
+file = "mods/resources/ruins/swampland/TreeHouse.tml"
+hash = "f5bf27b8e374eb1e8672cfc8f9179f525a7a7d94adb6d174ccaa0863a83307fb"
+
+[[files]]
+file = "mods/resources/ruins/swampland/VanillaVillageChurch-r.tml"
+hash = "acdb9eaf28b460f0279886510c15fa2c99a98da64e15870a94d696579c8c09e8"
+
+[[files]]
+file = "mods/resources/ruins/swampland/VanillaVillageCobbleHouse-r.tml"
+hash = "635483e57d329e2d66629cc1b087f24ba0f1858fce5451f16fe5a3de50355aa7"
+
+[[files]]
+file = "mods/resources/ruins/swampland/VanillaVillageEmptyHouse-r.tml"
+hash = "aa657855f3a32abd4a0eaabb837986009851ae1dca886ab32fee3078f53b44b1"
+
+[[files]]
+file = "mods/resources/ruins/swampland/VanillaVillageForge-r.tml"
+hash = "7779d0c36624c8da38e5b7e77539c075253f354c4bf182fe4cbbfc628ca816c4"
+
+[[files]]
+file = "mods/resources/ruins/swampland/VanillaVillageHut-r.tml"
+hash = "1eb497b82e756384611efa6429c03c9124cc0fdb74c79d1ef7b65c1a7a05aafd"
+
+[[files]]
+file = "mods/resources/ruins/taiga/AlchemistsDungeon.tml"
+hash = "36af908e7d5838011bf87cdc6326f6d2a9bd125d64c0673d9434367ad8856cd8"
+
+[[files]]
+file = "mods/resources/ruins/taiga/Archway.tml"
+hash = "9f1c8ad0215f6890c04e94d872c2786187336223941f05ff31159c8aeaa98860"
+
+[[files]]
+file = "mods/resources/ruins/taiga/Barn-intact.tml"
+hash = "df63848c2f4ea22ebb3066b3db1460c032a78ed7a8408fdf325fd417de20de49"
+
+[[files]]
+file = "mods/resources/ruins/taiga/Barn-ruined.tml"
+hash = "5437d39b35c96971f79f448ef8a7c40ddcddf99bc73f35c6ebaa054ae2d8538c"
+
+[[files]]
+file = "mods/resources/ruins/taiga/Barrow.tml"
+hash = "591a4c6222c971de2ed8af83958cd17a7f54090c712afbf93868aaf2952d4a7f"
+
+[[files]]
+file = "mods/resources/ruins/taiga/BattleBasementHard.tml"
+hash = "7c6ad7a2b3664ba3316a57bd296d5c43ed98cb121d6a583b2dfe3140196b9e2f"
+
+[[files]]
+file = "mods/resources/ruins/taiga/BattleBasementMedium.tml"
+hash = "767f7cbf9daeddc51ce77027f4b199080e8628995e197e7a8783d1932abb7694"
+
+[[files]]
+file = "mods/resources/ruins/taiga/BlockHenge.tml"
+hash = "a9b5d4c7b97e98d4110a7b4002626e637e671aeeb71664f07e77d908341dec9f"
+
+[[files]]
+file = "mods/resources/ruins/taiga/BrickHouse.tml"
+hash = "67c54f63a893053fa2c3098176d760b2afeb6da17ebd325fb628510cb852f836"
+
+[[files]]
+file = "mods/resources/ruins/taiga/DiamondWell.tml"
+hash = "c899fbd849c751bd0c4f4db210d62055a7ff7c8cf42bc1d149ee539a50ab9ce0"
+
+[[files]]
+file = "mods/resources/ruins/taiga/FrozenBush.tml"
+hash = "26b3780d93cb3c10aeeaf28ebb534ecd132dd4af89605604ffcbe6a175e246e7"
+
+[[files]]
+file = "mods/resources/ruins/taiga/FrozenTree.tml"
+hash = "b03ed2e002eee56db4738e319ae3bff58cf0f99adcaa358fa9a0c6fa3f1e7a28"
+
+[[files]]
+file = "mods/resources/ruins/taiga/Gazebo.tml"
+hash = "8fb2894aca6cabdb35084d1e5e389af9299e4e59544a0a5a46286a03f2a40d10"
+
+[[files]]
+file = "mods/resources/ruins/taiga/GoldWell.tml"
+hash = "c6bce459f7edec2f1a1635ef064ead6bc731c2a6cf7b902008cded919b7f1323"
+
+[[files]]
+file = "mods/resources/ruins/taiga/Igloo.tml"
+hash = "011698aebae0d1f8f9b3131923ffbc0507f7f602e3b99cac81483c6e1d3b557d"
+
+[[files]]
+file = "mods/resources/ruins/taiga/LargeSandstoneHouse.tml"
+hash = "eaee01b7192269b8b6ba8947b4466547ed9fcce5bee34309e3de2a4e8ec3ecfc"
+
+[[files]]
+file = "mods/resources/ruins/taiga/LargeStoneHouse.tml"
+hash = "2b276f07d06ab75514911e84a2adc78359e1f68f5462866ba4513860fae17701"
+
+[[files]]
+file = "mods/resources/ruins/taiga/LargeStoneHouseWBasement.tml"
+hash = "cdc7e1db95198db423b605ec754096c09e6580f9c2b44b21a309b92c15b0c449"
+
+[[files]]
+file = "mods/resources/ruins/taiga/LargeStoneTwoStoryHouse.tml"
+hash = "987422a41b23c7c15ccd54e5d34fd59f20a1894af420bc656f0c42a2085ce822"
+
+[[files]]
+file = "mods/resources/ruins/taiga/MobTower.tml"
+hash = "66aeb283d578059cfefc9a5a032c19a855d4dfb4936057c76f86f2b052d2d849"
+
+[[files]]
+file = "mods/resources/ruins/taiga/Monolith.tml"
+hash = "8d4a63705c77a1ada665983bd5072a6a79d9d5a0fea11e1e2572bb0e02c3bfec"
+
+[[files]]
+file = "mods/resources/ruins/taiga/OldFoundation.tml"
+hash = "cff039c234ac41b2368c30f386a5da4fa0de60137b435d31006836bc57cabe9d"
+
+[[files]]
+file = "mods/resources/ruins/taiga/Outcrop4_good.tml"
+hash = "b8ac5925a9c7ac39a494158daa00f7d24ac5e3eab6b866ec339be6abfd0d2def"
+
+[[files]]
+file = "mods/resources/ruins/taiga/PillarBase.tml"
+hash = "9295e939125e4d476a50e5b2486a332b6255210963cc7d2ad78ca0e3775c3cb4"
+
+[[files]]
+file = "mods/resources/ruins/taiga/Pit-med.tml"
+hash = "1b5057fe0cf7751718ce0bf667b1c5ae2ac4030d84dff85f423f1508539717c7"
+
+[[files]]
+file = "mods/resources/ruins/taiga/Pit-small.tml"
+hash = "3234d34c4dff4b7c00c4cf9ec237b4c3c8a58ca0f8eba9196be75f3b7d7edc1d"
+
+[[files]]
+file = "mods/resources/ruins/taiga/RuinedSmallFountainDiagonal.tml"
+hash = "bc4ad9b2a96b20d069459a3e3072cf3cf0aad13386cce1cd4028007e14de69d2"
+
+[[files]]
+file = "mods/resources/ruins/taiga/RuinedTripleFountain.tml"
+hash = "14850c17f29dcba128e957f7e54b8363fae07339f8c0731c2c4188ce6f23fb08"
+
+[[files]]
+file = "mods/resources/ruins/taiga/SandstoneHouse.tml"
+hash = "6696ba23507fd5b6fc736b551a02b6f285101b6df348280ce6134f1fcb47bdb6"
+
+[[files]]
+file = "mods/resources/ruins/taiga/SandstoneRuin.tml"
+hash = "fd175cdc19a2ce1ee28329cd10d87501267ceef6b66eb9997e862f3e4546a415"
+
+[[files]]
+file = "mods/resources/ruins/taiga/ShortTower.tml"
+hash = "f3b53b1f926075fad902eb2bd4d8f651942c39fa7fb4b5274dc8ff68d2945515"
+
+[[files]]
+file = "mods/resources/ruins/taiga/SnowHenge.tml"
+hash = "a917c45ddc59e2adde23a38e2a673e13388f473dbc9cc96b659b82f791016af5"
+
+[[files]]
+file = "mods/resources/ruins/taiga/SnowHouse1.tml"
+hash = "ebfb37c7a752c175700a8ebeab0520c512bc1d14426be118980304e38506c0b4"
+
+[[files]]
+file = "mods/resources/ruins/taiga/SnowHouse2.tml"
+hash = "69a353872df5685b264988c971e30f6cd772dc3bd3daaaaba79ae2110b6f3e53"
+
+[[files]]
+file = "mods/resources/ruins/taiga/SnowHouse3.tml"
+hash = "04918d222e10ebdce60d2d666370aea27eb936370d2696989ce86d4ed1271e4d"
+
+[[files]]
+file = "mods/resources/ruins/taiga/SpiralTree.tml"
+hash = "f64679b882ea17c66fbe995c828bafe262aab2b8afff143c83798dc2cc1358e4"
+
+[[files]]
+file = "mods/resources/ruins/taiga/StoneHenge.tml"
+hash = "686da3b895c2d7e962748a94821c82c1920a9732dc0592ff4b6dd8965d44d6e7"
+
+[[files]]
+file = "mods/resources/ruins/taiga/StoneHouse.tml"
+hash = "7923b22e80bfec7eb4eca494e9bbd1061bbcb523f33e99a092646e19856ad046"
+
+[[files]]
+file = "mods/resources/ruins/taiga/TallTower.tml"
+hash = "d2ddcbeccc5e15986b1bfb1db3e509bf6ff3d0188667c034513529f3830ff4af"
+
+[[files]]
+file = "mods/resources/ruins/taiga/Tower-edit.tml"
+hash = "1724d43522c01af3515634a0ab2237d02562b1fb5ffeb8fbf103e1e22292db13"
+
+[[files]]
+file = "mods/resources/ruins/taiga/Tower-ruined-short.tml"
+hash = "522bf926b16d35f0288dc70c07dce174b2c78776f5407685e07159edd4c78ecc"
+
+[[files]]
+file = "mods/resources/ruins/taiga/TreeDungeon.tml"
+hash = "5461b028618f2f8fa95c7f383b93274a5c63895d1fad1e285fc01f35eedda031"
+
+[[files]]
+file = "mods/resources/ruins/taiga/TreeHouse.tml"
+hash = "f5bf27b8e374eb1e8672cfc8f9179f525a7a7d94adb6d174ccaa0863a83307fb"
+
+[[files]]
+file = "mods/resources/ruins/taiga/VanillaVillageChurch-p.tml"
+hash = "2edeec4585532522285c1a9543f2652055ae7cc29727c83f73dd02eac98cf42c"
+
+[[files]]
+file = "mods/resources/ruins/taiga/VanillaVillageChurch-r.tml"
+hash = "3fb5f51301bb85aea6b9531c046ab7fa0fa1a955b08765a84410dced708897e4"
+
+[[files]]
+file = "mods/resources/ruins/taiga/VanillaVillageCobble-p.tml"
+hash = "68bf56b8e1e5b2442e3074d9e4d19b54569700adb33b28f0dbc45133c0f471b2"
+
+[[files]]
+file = "mods/resources/ruins/taiga/VanillaVillageCobbleHouse-r.tml"
+hash = "635483e57d329e2d66629cc1b087f24ba0f1858fce5451f16fe5a3de50355aa7"
+
+[[files]]
+file = "mods/resources/ruins/taiga/VanillaVillageEmpty-p.tml"
+hash = "e4f8b76d876d6292a3963cbf23a3fc8117807dd3f5b417968dcd5d50058f975d"
+
+[[files]]
+file = "mods/resources/ruins/taiga/VanillaVillageEmptyHouse-r.tml"
+hash = "aa657855f3a32abd4a0eaabb837986009851ae1dca886ab32fee3078f53b44b1"
+
+[[files]]
+file = "mods/resources/ruins/taiga/VanillaVillageForge-p.tml"
+hash = "776a09ad0de2804f9250d983d3f864c919cb9264eacbe12709a22ab6219cc7a1"
+
+[[files]]
+file = "mods/resources/ruins/taiga/VanillaVillageForge-r.tml"
+hash = "7779d0c36624c8da38e5b7e77539c075253f354c4bf182fe4cbbfc628ca816c4"
+
+[[files]]
+file = "mods/resources/ruins/taiga/VanillaVillageHut-p.tml"
+hash = "0121d67f6cadb2afc441cbed64ad9cb644a7895890c0b803844ded910c64163d"
+
+[[files]]
+file = "mods/resources/ruins/taiga/VanillaVillageHut-r.tml"
+hash = "1eb497b82e756384611efa6429c03c9124cc0fdb74c79d1ef7b65c1a7a05aafd"
+
+[[files]]
+file = "mods/resources/ruins/taiga/VanillaVillageLadder-p.tml"
+hash = "310c122e77953e571425041c5fe55feceb04e2a4fcc50c7d9dbbdb8811d6364f"
+
+[[files]]
+file = "mods/resources/ruins/taiga/VanillaVillageLibrary-p.tml"
+hash = "37325899ec03f56a75a131f704e90fad3546350f5236c81b745f4475254d50fb"
+
+[[files]]
+file = "mods/resources/ruins/taiga/VanillaVillagePig-p.tml"
+hash = "e2e497e646a3004f0cdf78371441e174a37b35ab311e16ac25b8b1fa7ff014a9"
+
+[[files]]
+file = "mods/resources/ruins/taiga/VanillaVillageWell-p.tml"
+hash = "5a089efa68d42bd12674ab460e2ddf8e92e4e2da0ee206632a51686f31d7a2db"
+
+[[files]]
+file = "mods/resources/ruins/taiga/VolcanicVent3_good.tml"
+hash = "a735eb46b256322800a7aa1901bdadf5bf241f42dd9b19fcfc43be9e8db425aa"
+
+[[files]]
+file = "mods/resources/ruins/taiga/WoodHouse.tml"
+hash = "a305011aae3e262f9727f25c5194af4b7510efa73fd889d3b9170983afd11cd8"
+
+[[files]]
+file = "mods/rpcdrive.pw.toml"
+hash = "cf6a5d33092af13932597a8109d63b4c9fee24101a2a67115f0fa5b5e8726bce"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "f6a9fe54d3990ef65fd0b65ef743a540a192d45db78b53394d7dac436d4e1995"
+metafile = true
+
+[[files]]
+file = "mods/tubestuff.pw.toml"
+hash = "c37a56b7a53a01dc4ef7a63264a1afd7a5f0182012fba0bdd4e670e40586e7af"
+metafile = true
+
+[[files]]
+file = "mods/voxelmap.pw.toml"
+hash = "5fb28f4138353f14d87e1c8e4e232e8ee1a57e2c52de34928d27fdfc950b0448"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui.pw.toml"
+hash = "6acccfc0cb2ef551ee8d91d6f31f22881840f40860a96f5d697f797bb52d1daf"
+metafile = true
+
+[[files]]
+file = "mods/wr-cbe-addons.pw.toml"
+hash = "82ebce2fdce09d033ba9f59750f1d83adeaa1cb86446428c6d0169efdf4a7f7a"
+metafile = true
+
+[[files]]
+file = "mods/wr-cbe-core.pw.toml"
+hash = "60faac6bc424abbca68af719dccea095883f0e6eb6333b2ad18440ce113ddfee"
+metafile = true
+
+[[files]]
+file = "mods/wr-cbe-redpower.pw.toml"
+hash = "0bebb5f56680953e7a19bf0301fe37beb7b7b102644ab11e521a69be595334b9"
+metafile = true
+
+[[files]]
+file = "nilmods/UpsilonFixes.jar"
+hash = "18a76b1bab061930a27da56fc160f6ec93f24741bca21da8db90caa200156e5b"
+
+[[files]]
+file = "nilmods/niteloader.pw.toml"
+hash = "dcc7a0a161a9acd247a12be337417053d11704c8f8fa09541f5faf4620dd6ba9"
+metafile = true
+
+[[files]]
+file = "nilmods/sha1redemption.jar"
+hash = "23d8f1dcc622f9ab229e243e1852e1950165150bc0299e0a3712c4049377fb80"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/afp-launch-ogg.pw.toml"
+hash = "3b37857b74bd01e65aa4e28b3cd6973978c52671459c4c81cc02c8bc2655be88"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/apg-firing-ogg.pw.toml"
+hash = "911aa8d7c4b1ead57000e5f3aede1bf3330bead01d880cac3b0575ed46767e0d"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/apg-turn-ogg.pw.toml"
+hash = "8e955e1465b55f344777361545cb555bc3af211ae4206ae78c85f9355e35d52d"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/dinosaur-fizzle1-ogg.pw.toml"
+hash = "8ac51c82183185ba58eeefc6d5415a23f483bba459d52db8dc62733aad86bbcc"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/dinosaur-fizzle2-ogg.pw.toml"
+hash = "6db07dba38ed553b47fe7b284ea6ae847c1e407f31f34b5508bac70d4a73b489"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/dinosaur-fizzle3-ogg.pw.toml"
+hash = "19870fa7ff1192c74f43238e3c8ffbdfdfdf27f95f86cfc1cb7222df3ed6033e"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/dropper-iris-close-01-ogg.pw.toml"
+hash = "6218760666f6175f042c57f4fe28a908a1d4656c7c5b9ec47a2b07cc9f11057c"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/dropper-iris-open-01-ogg.pw.toml"
+hash = "d3e9fa450f728c4e83f3c9887cc7e50197771d45d4c74f4a14bcd8a71ed7c614"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/dropper-iris-open-02-ogg.pw.toml"
+hash = "6fb0ad5a8a30ab15fa8ead1c1a1f6cbbeea8d055c0888d4a93b6d60952b9deb3"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/energy-bounce1-ogg.pw.toml"
+hash = "9f1b5d383d0504ced10a669067770b7ec135f3e6272330f0824386f944ef4aa9"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/energy-bounce2-ogg.pw.toml"
+hash = "10acc84be5bec5d1d4bb8f0c487a013b805518828166eb6bea8b0f8578d572ea"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/energy-sing-explosion1-ogg.pw.toml"
+hash = "30cb288a6862338b78d33a6bdcc72b48c36058f49dfff50e1cf3b96c57e4541e"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/energy-sing-flyby1-ogg.pw.toml"
+hash = "c744f73a065505a259566afb52f6d8a8e8dc90f7ad2dd57a3531b5a2ee4d2228"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/energy-sing-flyby2-ogg.pw.toml"
+hash = "cf3bc12ede6fd0219494a1de6e74b3abe2a1628ae88cea33a5467bda304e4301"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/fizzler-shutdown-01-ogg.pw.toml"
+hash = "9f3d384abff6d674ec478f8a045a34e053257ce8eb0f329ca2255adc70032a9f"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/fizzler-start-01-ogg.pw.toml"
+hash = "b5b03365731fb49f8e5be469e85fdb139a9bdad6a24f7793be1268bf1502faca"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-1-loop-ogg.pw.toml"
+hash = "f0629960ce21f9fa257460289ae25cb4415285ae68b3013974aed65bc515f835"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-10-loop-ogg.pw.toml"
+hash = "b125c3f61e304238fac8ee047e0346838e73b02280c6f5d7e24789997b09bfa4"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-11-loop-ogg.pw.toml"
+hash = "d03e3d0ebc1a291c98667ffe999f258d297d19678fd20a6544f2b6b87f5cca2c"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-12-loop-ogg.pw.toml"
+hash = "59a5d3ee73bd9747f75942b8cf0b8c6c7b1ac328a77fa60627048cb40627e490"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-13-loop-ogg.pw.toml"
+hash = "0f4c7ff8a30e3872dc45e07a7ef34cd84c457ef83df47982244d77a6696c3810"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-14-loop-ogg.pw.toml"
+hash = "c825d5555dd54d0a277e59102dce3ae25fd94492556eb7acb3ce23be1daf7232"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-15-loop-ogg.pw.toml"
+hash = "21fa8daf069c8e259d86ea4fbb8286c2b19600afb2b493ffc4d339870fa08b9c"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-16-loop-ogg.pw.toml"
+hash = "6b6517cc685643d627fce6cf08a7e07dd867b8c5e672add4b40944dc53b13692"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-17-loop-ogg.pw.toml"
+hash = "ce069c337140c97913968d8d9dc2691d5d2b6cf6980095efba0d97bc280e33c6"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-2-loop-ogg.pw.toml"
+hash = "6ff0f032fe8b9abb7f20cf52ca50783e01d89cc991ec35bd697bfd1d75358622"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-3-loop-ogg.pw.toml"
+hash = "971350116f1bd30070e8b1b4ababc018fd474908de249912ed9aee3fe316261b"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-4-loop-ogg.pw.toml"
+hash = "9e2d3138385c6106e3ac8f90e32cc033a6b6f31363e087d56ce6407bcaaa7b7c"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-5-loop-ogg.pw.toml"
+hash = "44fdb8f2ea38d0152ad2e17fa37f31dba624bede6a577ff952314a35064636ab"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-6-loop-ogg.pw.toml"
+hash = "0d92bc7f926e57528bfe1b773792db38a4055140b3984f234cdf9a5e30c6c6d8"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-7-loop-ogg.pw.toml"
+hash = "c3a579c6e1a987ad6440ebf20e297ff0f8363281a22278087672309fed1a01dc"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-8-loop-ogg.pw.toml"
+hash = "e38818196565c472e63e2a4a22dbdd7819d3e3b022ea44569020b9224321de39"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-9-loop-ogg.pw.toml"
+hash = "f739c48ac600e632196b88a0c6f2afdda9c8b02dfd8a58d3c8780c4dcd30bfe5"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/laser-activation-01-ogg.pw.toml"
+hash = "69bcaf189e341738f3c6aed9823160a7aacd33a8f560f0e9a567769519288e5d"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/laser-node-power-off-ogg.pw.toml"
+hash = "407b3ea880150e27130fb958e9576778dc8d67b86354758d86256b070ffa0419"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/laser-node-power-on-ogg.pw.toml"
+hash = "55af7b0972bb1a9ec8e14375d4d3c158101d2b70150c226d41070baadf1409bc"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/object-use-failure-01-ogg.pw.toml"
+hash = "f2a90473b0bc53e7f81149b7ec63efdc52b77708a69df19d5e94b4561500e639"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/object-use-start-01-ogg.pw.toml"
+hash = "e72fc7bc3384dac3fee9f440beb28c24c4ca5d14625f2d49b03a8b44c3f24707"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/object-use-stop-01-ogg.pw.toml"
+hash = "5c771304a5356d6705d5eabb511978bcf9cff8c47166d1ac0c4a0e8bb4f62c90"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/phys-bouncy-cube-lg-01-ogg.pw.toml"
+hash = "eccd96c254ba2de57d5cace3f3c4e44ddc50898b8b6d9321df63f56b20f8da99"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/phys-bouncy-cube-lg-02-ogg.pw.toml"
+hash = "10573f49907e4fc80827a0d89989af1c829a3de3f118e7b6d257b7444bb45cf4"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/phys-bouncy-cube-lg-03-ogg.pw.toml"
+hash = "511fb16b52f28e216165a5b0b2c8a6ab9c951a28fa7121a7b13d539bb436cab1"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/phys-bouncy-cube-lg-04-ogg.pw.toml"
+hash = "b7ae23d95045d907206021713cc40fd335b82ec4fcd88c27c6164a332fbbc99b"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/pl-burnpain1-ogg.pw.toml"
+hash = "18c897592237c2505dbd8c6417dd914caa9f1347a641ca9aff712e4a6d553e1d"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/pl-burnpain2-ogg.pw.toml"
+hash = "68d3f1f46d76f1c9d777fbfdbabf82accb0861d1e0f12e6730dc9d203acbfcc0"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/pl-burnpain3-ogg.pw.toml"
+hash = "9ed6bd4e0a86f350d79ac8237574043d705102fa984b9ade928fe6b8b06abeb0"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal-enter-01-ogg.pw.toml"
+hash = "bf09f634a9f002805e67b59d9e98b260b2a36429d4b147d699a3e814bef0ee75"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal-enter-02-ogg.pw.toml"
+hash = "a821784bc204355eea8df3f0666ca09bfb550f51c1373dfa5fcfcbe744638b8c"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal-enter-03-ogg.pw.toml"
+hash = "30a82a908d98c6b8115ce877759645e9a6b2ff027668d6afac2ee58257bb44ca"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal-exit-01-ogg.pw.toml"
+hash = "36a964b0a45d03c647f6744e5cfefa4602474bd16b21be39345a7a85eeeb5aa5"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal-exit-02-ogg.pw.toml"
+hash = "4b6469bef1c939fa4c3dcaf23564f40ab6c8c6dd8ce89d40d7dee119fa11c72b"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal-fizzle-01-ogg.pw.toml"
+hash = "5c8f003fd7a40a24071cfb4591af713954e18208a96e242109e80c0996636c73"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal-fizzle-02-ogg.pw.toml"
+hash = "34f10e87ed0249eab4c278bfa17babe4594a51c9d8e9cac0163f5febfb8d04d1"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal-invalid-01-ogg.pw.toml"
+hash = "19705c32805f0db972017d3f1fae14a4b60600e6d8f6658d92206fa339ff4f37"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal-invalid-02-ogg.pw.toml"
+hash = "138231e1e64eae7951ccc197587ad0867887ad3a8073bd018332d12d49af4e95"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal-invalid-03-ogg.pw.toml"
+hash = "e3828f1a6273c92247c3042ceba49e079e3e5ebb83b9f4de9174e4e164fd7500"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal-invalid-04-ogg.pw.toml"
+hash = "f7641b2deb4542aeada4a2e82c20506b41f2e9293083d0519cfb7088d1047f2a"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal-open-blue-01-ogg.pw.toml"
+hash = "47182115a693adde180535a283c7f03f924a6094a2687d88a8f28466973956f7"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal-open-red-01-ogg.pw.toml"
+hash = "62f72c414819296370ee70fd2daa45a747bfd2fcfeae53b10b0d597ff8031318"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal-open-red-02-ogg.pw.toml"
+hash = "7bf4bdf3738705360cedf91306df46f6bba3729f3be5821d4573f49e94ac95b6"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/cake-ogg.pw.toml"
+hash = "539e964bb417860097d1a520088a0138b7d2fde24e7c4ca1ff8bae950735499a"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/classicalmusic-ogg.pw.toml"
+hash = "ad43d77120439496319a145a3c6b3f2a07b9994c5c2f3bb02aa7d7c2248b7047"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/creeper1-ogg.pw.toml"
+hash = "b62cb5785cfeb38f56dd44f51d9a7cc0fd2c1cdcba94da9c6678964e4bf2e6ce"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/creeper2-ogg.pw.toml"
+hash = "438629fdaff921ebd3aaf7a550355f809d28c7a665e7b73d78ba5358264bffb9"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/dying-seecreeper-ogg.pw.toml"
+hash = "6295cafcf25f1167ccd214ea40dc3c97c6f040cc7a18e43831d0fdddf859e838"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/dying1-ogg.pw.toml"
+hash = "ca49ab4b68fc251f3bee6c0ea7879ae11e38ef3a44d71a53c3efdd535bce2c62"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/dying2-ogg.pw.toml"
+hash = "cff911126d7fe5134a4bc36c5932f5672dcd6f1923d07568ce20cceb689977b1"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/dying3-ogg.pw.toml"
+hash = "39ca4677a80e9e0a1bea82b26f083a8aa8694acaa091bb7bfb7104a3903fa754"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/insult-ogg.pw.toml"
+hash = "6bfba23ddb2155ada56f50007f0da020607ee9d4f24c327ea389acb1fd6a23dc"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/introa-ogg.pw.toml"
+hash = "56353e537c4993a75af8d52c43e60d5c94eb7a941e77207ed14a4fd68cd41f73"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/introb-ogg.pw.toml"
+hash = "d0ab54eb98caae6ec5f2233a2a96e4b13d32b250d15b7f6615b17acc179d2678"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/introc-ogg.pw.toml"
+hash = "8432770e29df859330479b371754be1d929b02e4256c789c5e7a8cb4a3a0883b"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/ow1-ogg.pw.toml"
+hash = "137ec61ef5c06007a066c749239a8e99cd07356edb1674396dd16829d7de1503"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/ow2-ogg.pw.toml"
+hash = "d599b930bf2b656341758ee693145296257b29051ca1ec58679ae3435321812f"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/ow3-ogg.pw.toml"
+hash = "0ccaacfd18d7f9a0e36016cc10dad76011543a8e4223f53d2de41d1d95354ec4"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/ow4-ogg.pw.toml"
+hash = "1d3418cfbebc254b515239829450f213975fee70b855bd9ab620eb2711384c72"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/paradox-ogg.pw.toml"
+hash = "2f2e55ca518de0b5ac87d0e364ebffd8a22905bc816d614edd2118d4f7d8f9d9"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pic-gosee1-ogg.pw.toml"
+hash = "2ba7f6694ad283e2748666466a83bf6ba5863e78c071ae93a4a134fd19492f77"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pic-nowait1-ogg.pw.toml"
+hash = "76380a52e5a31e2fe8c95036d0e8dbc5492d201f722fa85828e537c34da65174"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pic-see1-ogg.pw.toml"
+hash = "b8ac397481155cc5f1aeb2a45cd20d87ba818cc9f453006bbcd80fdaee7c3532"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pic-see2-ogg.pw.toml"
+hash = "1d53e40244722d5503e8a85f56684ccc037426955346026ec3ef74c1c2793658"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pressbutton1-ogg.pw.toml"
+hash = "ee443634803f2a48ca3f7bb5889bc4b544ea0bf05d46359cd8d3304a73b3d2dd"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pressbutton2-ogg.pw.toml"
+hash = "717f4e5e7e8bd60dc7c2d2d4451e27ec209fa9a397c1969d0ce1f0c234b58083"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pressbutton3-ogg.pw.toml"
+hash = "cf26361e5d2ad2647586117455506cc37c0b697e8bf4bfd8e596de15da5eda2b"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pressbutton4-ogg.pw.toml"
+hash = "0dc0621c7113181f223524f862529282c788a1879784000f091fbb9d02744665"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pressbutton5-ogg.pw.toml"
+hash = "47e199c19440ed206b38519d090746636a3c7fac133cedda5236d265470e132a"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pressbutton6-ogg.pw.toml"
+hash = "0437dde740e0c51d7f4492e96fb393e133e72e7eb553205d5fcfa7697181adcd"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/see-chicken1-ogg.pw.toml"
+hash = "4939bbd4aa87175c5b5a57ff2425332bb11226577eb65043e41b0a8d2908ff2e"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/see-mobspawner-ogg.pw.toml"
+hash = "b34b28d6afe38f6613df6c52f4d72740b79f572a7fe10e5c070261ae6dbbb652"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/slowclap1-ogg.pw.toml"
+hash = "517e9a4686d0a01231e69e3eb4b989dc525653f5502bc43f5345ef627358461b"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/slowclap2-ogg.pw.toml"
+hash = "8b9c02868ecfedea029e6f65b0a3f3f6ae6f4c741df569b190a6416e63faea0e"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/slowclapa-ogg.pw.toml"
+hash = "daedf4279a769da5c69da784e61a84613e7f948a647037f23d1e2d1296d40b92"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/slowclapb-ogg.pw.toml"
+hash = "f2152799f0f50127cd7b42c8982a3bdacffda63dbcb20a7de706143ce5b337eb"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/stabbed-ogg.pw.toml"
+hash = "8e48d883c409107faf5f503662fec9225169e7b89138b8eaa291c887373db49f"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/thanks1-ogg.pw.toml"
+hash = "ac74f0d698e21b0a23db8dc725ad0851e8fa5e372cf2914d07287271b99cd677"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/wakeup1-ogg.pw.toml"
+hash = "53c7c4974756c16cd58e176690ae84a0a1f09b51b6256d4fed45c37655444131"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/wakeup2-ogg.pw.toml"
+hash = "6b3f9bcd6a0a26eb226fcf225f0f8748ef73211eb571d38240953135f7129212"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop10a-wav.pw.toml"
+hash = "7c3ccdc62356c6d8c24c4c47e52663921e8856470979d1570b61e092cfb0c685"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop11a-wav.pw.toml"
+hash = "6636abf1865103a6561fe962baf5df802b873e5092fb998d9cbe062db072672c"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop12a-wav.pw.toml"
+hash = "00b690c4e895f4f5cf9afa5d06ac16ab5423cbd2a1b3da1a48406507dbcc5a7c"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop13a-wav.pw.toml"
+hash = "8fca364a92221aac8ec249a1888e58a9208ec9bbe2a3731dcf90da6ce9a60443"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop14a-wav.pw.toml"
+hash = "3034c3ff99b2246b7b8794441215f631c00c2813facd674d44c4b0e9b1110167"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop15a-wav.pw.toml"
+hash = "9a71dd6972a7be5485fde9e816d8c21894a0b336abad19937edb7b7645e9999d"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop16a-wav.pw.toml"
+hash = "f76c0298111fe611ae9d6bcbd8043d875ff8f55ee692ce946389ec2988f669c0"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop17a-wav.pw.toml"
+hash = "fad132478fe7defa55c9993aa19f14eff2d41ac7a580035f1c0de75e2783e663"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop18a-wav.pw.toml"
+hash = "b188265b2eae956acab09082144e34f0c4b58515655586aa3602c5fed7b22843"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop19a-wav.pw.toml"
+hash = "0b77746be16a6184d5a3fadbfa5d9f85d2547600d703712733853c4b64023eb9"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop1a-wav.pw.toml"
+hash = "87b7d9cb2a147ad7e8f2afbcda00c728069121d1c4bb3165be408412b5221375"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop20a-wav.pw.toml"
+hash = "d8231e867a6ac88c79ccc3b6f5fece386f1ac80495b942bf0987be2c37107fb1"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop21a-wav.pw.toml"
+hash = "593434d15d3beb5508b1a22e4b9fc6ea045605f641d2c2fcccb4bc5fa876d1ad"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop22a-wav.pw.toml"
+hash = "ac62b43281e8b1c597860e299b7eca35cc22d20ddc392bad8c4101f92561f65f"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop2a-wav.pw.toml"
+hash = "c17049a6742e5d3d9af91fc9090ee6c88774ef95855bd2c914706ebfab7b6f4d"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop3a-wav.pw.toml"
+hash = "322ec70b6242002935b2a5c809886bb432c12be17867e3e1f06a94519f1ae390"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop4a-wav.pw.toml"
+hash = "f817bb8fe894575ce1c32211203c728d133fd6da0739ea32b20177073253c43f"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop5a-wav.pw.toml"
+hash = "4e18f2aa4dac6894be38163821a2b1083e8c40ac450e38603df8b336a8ae67e1"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop6a-wav.pw.toml"
+hash = "f89e5fad0ec4050c8d808cd03d171f8765fd554b3cb439b3ccbe453f53ab0a31"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop7a-wav.pw.toml"
+hash = "dc081c1b01a97b155ba7bc0e4361cac503123745ab205ecb6bfb6cc8ec29ed63"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop8a-wav.pw.toml"
+hash = "728e40540bbdd7d6eeb15e26bf87720ffbfa5c484c62992aacbec0944f6ae042"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop9a-wav.pw.toml"
+hash = "cd67a97f7d029f3930e3168b13a7762e9358c3bbb11d4482d7d5099ee1e79c55"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/superphys-small-zap1-ogg.pw.toml"
+hash = "dc2cc5daf848f143c105b560a66d98d09b9097a7481bdfe6295ba84f67fc7113"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/superphys-small-zap2-ogg.pw.toml"
+hash = "8883b4e7859deba5e3567e5f3f32e7df9feef2709d41d816c6cea40ab04ac0fc"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/superphys-small-zap3-ogg.pw.toml"
+hash = "46614c71aab04d3f114d84e00e6871dbca4e9b7def927c8bdb8b150affff6c6e"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/superphys-small-zap4-ogg.pw.toml"
+hash = "07e88e41eeb4939ecdadcca96fc0fdd1d73f0552645e7dc662b35f1cfa52dc79"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor1-ogg.pw.toml"
+hash = "69b74b572929512d7b7c777c6e9b200f600bbd1e221fe6d30a4ffe8d7c286ece"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor10-ogg.pw.toml"
+hash = "4c1c6f743295d36586d8af4e4cd1564accfa5a3c2be4c18a11ee069da36ad36f"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor11-ogg.pw.toml"
+hash = "511d548c026a5d1cac4d6854659a3d1f6bc5a4bbc11f45e55386245f372865a7"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor2-ogg.pw.toml"
+hash = "4ca71bdbf29cdb42c3d0d0f1fdd8693f2f171cd4ee3be441f475aaf656ec3ecd"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor3-ogg.pw.toml"
+hash = "2997039854e65420400702ec5865fa44c1507a96c1aa7322171d8f687a99d80f"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor4-ogg.pw.toml"
+hash = "8d5311f0d008fa2ea365e2552715b7726eb6f55049a18eaa9d2df340aa7b6cff"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor5-ogg.pw.toml"
+hash = "12c9c1583562f75568f4d709c7ffd1192864b4dbe312e17d71f90ec03adad774"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor6-ogg.pw.toml"
+hash = "2b2cb18b588ff1104755244facdc956404f46acf35c9f3de2636ff8a6f11ecd3"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor7-ogg.pw.toml"
+hash = "cc6c712a486eeeecf1184e3c9a6785aad2092ce17d701146487032ffd24b95f2"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor8-ogg.pw.toml"
+hash = "beda31ec36d17fa84580491d55a18ccb99a751979b5a99faa5efa2be9af9cd0a"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor9-ogg.pw.toml"
+hash = "5d44e669da6404574f8e27a6a01af325f40006b837783061a899e113b16c7722"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-bounce1-ogg.pw.toml"
+hash = "73d5ad966d7d046ec70713c84e2f18934c758e68046461ee43799e3372e751b2"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-bounce2-ogg.pw.toml"
+hash = "2c06b4b181045affe5b0e22076a70e314e044759ce000927372ff6ac94f55494"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-bounce3-ogg.pw.toml"
+hash = "bd74e05297d992485e9ef0a0461a7bfc99954239d54605b0ab63a00e645198cd"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-bounce4-ogg.pw.toml"
+hash = "31a76d6c618d546d5ee837598f49307d5d3189124fe846284accfb987ef765af"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-bounce5-ogg.pw.toml"
+hash = "1149094bf26e4b4ac4336c80d1e8934e6d0ad30224b7671193d5534cedb67b09"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-bounce6-ogg.pw.toml"
+hash = "0a45f7f848c2597b92a1eedb3c2ddd2e6d6369c42e420d38b8f54f9f05fe6d5a"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-bounce7-ogg.pw.toml"
+hash = "1d79146f95b216d56f1d2e7eb7e20a84269a8e269cf7d08a365ae0cfd1117bb0"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-bounce8-ogg.pw.toml"
+hash = "ca09262385b198989007cb32216fef42c8987d891d4f1c54542d67a2f65d6e09"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-deploy1-ogg.pw.toml"
+hash = "9b6069712ee5e7bae607146407e9ba36a946b248727789a80568bda830b92b5d"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-deploy2-ogg.pw.toml"
+hash = "f2dc0264e7abcb1d1034f87be574820cad8075c51b51d4ac143d27c9bb72d351"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-deploy3-ogg.pw.toml"
+hash = "2d0dedc8bb592e1a77264600b8f5d88d444c03c0acc37e220bbbe352b276a667"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-deploy4-ogg.pw.toml"
+hash = "2d6c9f2eb9501f2b4b5bcc171939854026bae807b066e68eb8ecd1e2ff9b338b"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-deploy5-ogg.pw.toml"
+hash = "287f1c1fb2180eee405289d6da89c71e7c87fd32aa1568dd6d257576e19d4398"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-deploy6-ogg.pw.toml"
+hash = "0cdda0bb3320ae054cf316783ca59e35c91f95d76ffd5104581d0a12b4d18ab9"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-deploy7-ogg.pw.toml"
+hash = "ec2af8aefd674be0e1c40b56fbb46d4d41e285f2222357af473137b12e5a5e0e"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-dryfire1-ogg.pw.toml"
+hash = "df8902e523730209058d9f3a52ef09f7d18659042bec2441a26576f95f8815c0"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-dryfire2-ogg.pw.toml"
+hash = "76e2ac9c10f7fd3a552c84d0717d8437ab2ecf2e4dc72f445beea3db86b25cc9"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-dryfire3-ogg.pw.toml"
+hash = "3705b4599494b05c91bc3851fdfb1095b8e7ede9d9ad7e2c6033c142b6f40a5b"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-dryfire4-ogg.pw.toml"
+hash = "f03073644943bda00fb57635c0ebc45a5721985dcf1c6d2e80de1d9d13ffd196"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-dryfire5-ogg.pw.toml"
+hash = "5525839512d391102813cc0527cc32ad0090216c159d3dde7b14bb9afd175c1c"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-dryfire6-ogg.pw.toml"
+hash = "d607fac6285a12fe2dd48d10ddf44d2f9dd26ddadfe88c176a629e9f4aa8fdff"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-dryfire7-ogg.pw.toml"
+hash = "19936c678cd1365cded8c968afb1013794d4a4796c66ad04dc21956af2fefaf0"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-dryfire8-ogg.pw.toml"
+hash = "9d08b2b27e6ec906ad728d322b14fb12db15a152467141b6e9b2d09be3b23785"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-dryfire9-ogg.pw.toml"
+hash = "6024c1f56f25ee9eef1562058c0c6fc837cf0fb915afa7dc5d5d6e48e0811561"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-entityaround1-ogg.pw.toml"
+hash = "03bffe784babc1579ac1fda58489caa3b98c00e86289da025c5e3e73e8f7c8eb"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-entityaround2-ogg.pw.toml"
+hash = "d6a4231c6758edaacbb3950f5c2dceb5703cf198d570607b182c8f351e5ae4c7"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-entityaround3-ogg.pw.toml"
+hash = "f6e9322817b9ec1ed1ec233c38ce612f558904aacf32246273de46728b8b7b9d"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-entityaround4-ogg.pw.toml"
+hash = "744e0db5c06ff55af0d3a73697505d5d215bd5c543983ae43ac84ae7c918d96c"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-entityaround5-ogg.pw.toml"
+hash = "9426e29819056914394b574583b5ce07ad187fb09f86eb36b968480d1ca8f483"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-intro1-ogg.pw.toml"
+hash = "c9ff3c347c6139e529ac93e614b3a00f1ae8ad6445b234719649fa0d16d5fa8c"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-intro2-ogg.pw.toml"
+hash = "9fa2da68c9d049fc41dda04960b610885ded2d6eb0976c738e587ed3a80801ad"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-intro3-ogg.pw.toml"
+hash = "870bc72b32b4bfff7d5ee41fc4915d44f955f2be64bd76150d5c486be40ce1fd"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-intro4-ogg.pw.toml"
+hash = "af319d605be739728ab60ec62999ee12ba27a7a02d9bddfdb58af175dfaddc71"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-intro5-ogg.pw.toml"
+hash = "5c82a5b292ad98f32e18a32abbda8e776f4d0814fa071df00be8f6bfea30e16e"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-intro6-ogg.pw.toml"
+hash = "b474499b6aa8cd2b8ba317899cce7120871c5be570b040eca948871190508446"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget1-ogg.pw.toml"
+hash = "1bb3c48859b9ba52b8e6638ee2b6cce180b6e4b95d5bcbdcf3544756344ec36e"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget10-ogg.pw.toml"
+hash = "d30f92c6d98da7d18cc47f8833051ef862b3cf3165e014072f119a0f8c54caca"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget11-ogg.pw.toml"
+hash = "6454b0631a7e615d6379f84cd8d5c3b00c282aa967a3fc73338dfa90b55d2037"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget2-ogg.pw.toml"
+hash = "9b6d3a9b3b96934edfcf8e179c9d97011b2556577d1ae48721f14d3c04876b95"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget3-ogg.pw.toml"
+hash = "7f8136d46e8db7c87023c6b9ee129e1638196aeecb1012b583788e658cc8e876"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget4-ogg.pw.toml"
+hash = "c0126ac84cf8821eb8a5196d7c60b674a964b4a80124bcef14cd2ebe19135abc"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget5-ogg.pw.toml"
+hash = "10f945da405f4610f56b85e011564e57d3283ebd4a8d83e9d15ea4fb5a8622e2"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget6-ogg.pw.toml"
+hash = "77a7fb063cc71e65cc31a06fbdb82b09e8b4dd1dd0e3f093133ae93892906d5c"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget7-ogg.pw.toml"
+hash = "de9e00c85acf01076e8ef7ae9794c8cb60dca551b820c651409af14f817fba0b"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget8-ogg.pw.toml"
+hash = "1a46323d190a4c74645752742805c75085845108ea6b6de6f14b3306a798d939"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget9-ogg.pw.toml"
+hash = "c3cbd00f9a9667b963dcbd80ed4824809e48861d2a4e02e59a5fd54d70f78953"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-pickup1-ogg.pw.toml"
+hash = "88533a4dc21d555c373ab4ea569beb1ff17545b2ea90b25edfec3fa5ea15aa52"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-pickup2-ogg.pw.toml"
+hash = "ab7623a27a6063b49d83c86c9898dee645e830d35d5931cccd776ba47498eace"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-pickup3-ogg.pw.toml"
+hash = "837748f58c5f639b59dfc682db5e3b94b5bb8cf36132e1244afc66d9974e52ea"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-pickup4-ogg.pw.toml"
+hash = "a3eecd5c94fecdec9846ac36dacd2a14461b8baf8fa4f93e03f50b8aee37f2c3"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-pickup5-ogg.pw.toml"
+hash = "5a758c83a66fd312ac2bc00b9abcde002d2ea2fb1c78ef76ad624f08b7ca96dc"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-retire1-ogg.pw.toml"
+hash = "fcc9d286f85986c8c2b700ee593623aa5542a64000a9c0fd084e038ae3589322"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-retire2-ogg.pw.toml"
+hash = "921016e4a72afcb557453af446d7c5da981c02a53f3bd81ad683962064ce91a1"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-retire3-ogg.pw.toml"
+hash = "21a15ffd00059ea2862c67801cdc798713a0eb45380f4625c7e2fd61190f0859"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-retire4-ogg.pw.toml"
+hash = "5d810297b733f480cda2a7d59cda5effb05bf1e70fe2eef9ccf3b745c088e12f"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-retire5-ogg.pw.toml"
+hash = "b4cfc46c7229d91213dd59092749d2c5623a825d99ec9ccfe452148877e6a321"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-retire6-ogg.pw.toml"
+hash = "1dbfe29c86e3b56a44caccfe161d776e2f9a775035a539d48260f542bfa7370e"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound1-ogg.pw.toml"
+hash = "8c99e15ca0fba3d02df59babe8b2452de1eaea898bd33902a8ed8b6653af5757"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound10-ogg.pw.toml"
+hash = "7cc0032e2e594d622420fe89bdbe378083a9255bf8fd8532f7af90f9cea5ea39"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound2-ogg.pw.toml"
+hash = "a06da7832a3de5f63bab5068c3d9032c6c859908dd85ebd1f99595601ce2687b"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound3-ogg.pw.toml"
+hash = "b0bb7bd7caf93cf330276a25214660b0d861e1c711c9e996681f0c7275b7fd9c"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound4-ogg.pw.toml"
+hash = "6bdfadba16a10b9d0938d93c26755011534574b121b64402705b097b97a80044"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound5-ogg.pw.toml"
+hash = "981ba80e318b93357e139b1e410702d705ec8fb551b95c584f2b893b9bed66c8"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound6-ogg.pw.toml"
+hash = "0dddddbb45916f9beeb928aae5e7552eeba1f5c3528dc4b839302904b178a352"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound7-ogg.pw.toml"
+hash = "06a66b2adf5aa9d92c09a1c8052a616122f6f7b5ab7204dba672c74bad4dd4b4"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound8-ogg.pw.toml"
+hash = "1f69a309f3e0ffa1c22a7bf0b525a4b8464f26c389fe3783a259e6e947a50419"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound9-ogg.pw.toml"
+hash = "c8fd0229d646044bc996d5caefdd8b098ada00dcacea99d316a293eaaafc5764"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/deploy-ogg.pw.toml"
+hash = "528ded846b6c1a1924bf665f9e5f058ca144bf26de11592ffa36aefa6554a525"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different-death-ogg.pw.toml"
+hash = "88cdf725e6df56d92501ab5eaef7e5fcbeb7e8d563f74fe05cb9fe95ff5e9825"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different-intro-ogg.pw.toml"
+hash = "a7319f94d818f955a6fbeae56f836bc044b551fd3e592d12405db592edd35b77"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different-turret1-ogg.pw.toml"
+hash = "65f2113eb2bfb743177bd0707429eaea1eb4a8372c18760cf259758ad31466be"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different-turret10-ogg.pw.toml"
+hash = "bdc4739a51ed6d05b1e1b1f6e22549d61c6ee2bacf6d7c9da009159742011b61"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different-turret11-ogg.pw.toml"
+hash = "c2bbc84b4b781f6271ce2fdb6937f31ba6116a17d10bc7fd4bc8d9251cf8f9ba"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different-turret2-ogg.pw.toml"
+hash = "e9f7e1e5438d89ff6ead442c68947b372c4f16ceb59643c9ab4c93748d8f122a"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different-turret3-ogg.pw.toml"
+hash = "7ac314b8e903bb44b23834f52a979bf3a598b95e26f76979b363ae8375b98621"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different-turret4-ogg.pw.toml"
+hash = "36aa879649648d6c14c2d9fa7070760b42eedb597704276f09ae171b84f507dd"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different-turret5-ogg.pw.toml"
+hash = "5f8e670bc7380d133adf63e100a00735f3b7a8603cff0e29ef4c2f74fd40f7e8"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different-turret6-ogg.pw.toml"
+hash = "6b95e76a7fb3c947c07d24a6075571e3b22084fc2a01eaef0b4140c805282557"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different-turret7-ogg.pw.toml"
+hash = "9de2a318bab92699c523aea97c8faa85f69de4a35b0b5efce8d16e2c1d1ad76a"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different-turret8-ogg.pw.toml"
+hash = "99427b34726be4e268037ffc6b2bd497add513c8b54f1b9ea413aa2f686ccaa8"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different-turret9-ogg.pw.toml"
+hash = "04dde61b58ac4b7cd9122b246d735929d1866bb0fc3b1009190f8499fecd4e85"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/flesh-impact-bullet1-ogg.pw.toml"
+hash = "6c41c43a6699b661e667e50728d4ac7761c8aa1ce88241c3a61f805de5061d92"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/flesh-impact-bullet2-ogg.pw.toml"
+hash = "e0da29dbae2f956fb2681c66e63ccad358acc5ddf2d51f3ce386df8d075aebb9"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/flesh-impact-bullet3-ogg.pw.toml"
+hash = "bdea63d2e09e20443c81e6fdb3cfb947eba676dad17c246f6acfd305f630e90a"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/flesh-impact-bullet4-ogg.pw.toml"
+hash = "75dd29a0637efcb83818411b4cbfb11ab7c6882ca3e7503150d172c61877a7df"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/flesh-impact-bullet5-ogg.pw.toml"
+hash = "af4da6c68602b4b995b5251ac3b52b68b46b69209dcac1fa8a95925d6ffc9b4c"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/retract-ogg.pw.toml"
+hash = "2a3da83a738d99aaf5756d2e3bc6928381dfd5b98e835501feb71d61ca207bc9"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/ric1-ogg.pw.toml"
+hash = "6309341b5540ac18568f30cd410352b7016f3e3ad50ea6f0b2a2a593b883e5c7"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/ric2-ogg.pw.toml"
+hash = "f69cde08ec9ba5de8a56e4bf7b7eee15f8686f97b42f98305504749cd4dfb860"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/ric3-ogg.pw.toml"
+hash = "bd9fd530b0c806ecbd100d5609b4ab13700ee02d0a97d3485ee307ee5cb04e07"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/ric4-ogg.pw.toml"
+hash = "fb7c2a841c743ea350a990f76ec9a6be4bae17a1512c0e40e64f3b968779696b"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/ric5-ogg.pw.toml"
+hash = "bf240298992ed4aad510d14b68bba4b2fb585f58401d0b048a918883e7b61493"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/shoot1-ogg.pw.toml"
+hash = "37c15758e0a0a933d29d523a2928b4c57cd69339cb6f5b645d969e467fdf82cc"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/shoot2-ogg.pw.toml"
+hash = "19942d86c06ddeb005d85b7c318f25eb9ba2a26c95f7ca753c02f789aafb0207"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/shoot3-ogg.pw.toml"
+hash = "c1e7cfd73107708b2d7bc6708ad485783156c60ed38cff36bff9418b94196ec7"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-active1-ogg.pw.toml"
+hash = "f817cca9cef4d72917b69ede01dd9ad93a33fc6c232c0334179b207c65b1325e"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-active2-ogg.pw.toml"
+hash = "632ea4c027f673a073c58a305ef5e959eeedb58a4e05668cabf94758915e1b4a"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-active3-ogg.pw.toml"
+hash = "22598d16628df92e094722d355fd94c77d34f250daf733ccc23ba918d69fa447"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-active4-ogg.pw.toml"
+hash = "2dc6576a2a485a0a00152b82914490b11dfd55c055be02c333cafb5364f81751"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-active5-ogg.pw.toml"
+hash = "d36185deaeac8f328a893282bf89a50a7512a4a8c07b4e0486d3e8c3232f9d75"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-active6-ogg.pw.toml"
+hash = "ee22afb9df5eed91afda200fa6945cbac3c57dd04d39526f824bf766f24352b6"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-active7-ogg.pw.toml"
+hash = "7316e98a64fd4904825ea03724793ee2d0e126df7727f3d3d44e93f4589a3d61"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-autosearch1-ogg.pw.toml"
+hash = "e4606ff333c200a3a700e3b906a55b4b6fd0779bc020dce16d4659bc97250637"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-autosearch2-ogg.pw.toml"
+hash = "5a6b244c08f538c4d1546ed05bb663dcd1206e91b8d24e5ebff5f483db059bd0"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-autosearch3-ogg.pw.toml"
+hash = "9f68c73233f721821e8fd4aa36e43cc5edb4ade92c7d5e7e05de6fb9a6bb2c86"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-autosearch4-ogg.pw.toml"
+hash = "51ba1912ba26e08564cdcdae978d7d33196ac4e15b3cefbfeeb2f2901e9dc2b0"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-autosearch5-ogg.pw.toml"
+hash = "a2066c89937ca9c9feb9a8c2b151c8f2e0d9c00e1539858a608e1425da326dc2"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-collide1-ogg.pw.toml"
+hash = "a9926448463b6ff8fbcf9dcc5b678477b39aeb6569974aa2d0aa1a8ec193a6a5"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-collide2-ogg.pw.toml"
+hash = "d6e03b84c945cb2eae0064a8cd66fcc52b24e9c2fa19d4858295af051fd3ff8f"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-collide3-ogg.pw.toml"
+hash = "a5c2ac6e5b1061aa18cc327b9895dbc829c635f24ab62f1ad2f4010164a20cad"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-collide4-ogg.pw.toml"
+hash = "eae4bfb3b9eb19f4fc03f26e5e8000910d213e93f5eb01e1ab20060fe78dbd65"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-collide5-ogg.pw.toml"
+hash = "4226e5c10c457b3dd3e451b9f99b739a9913be1901563e5a9bf60e5d7f55ac6b"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-deploy1-ogg.pw.toml"
+hash = "5f7e97370adc5e46af9f074de37bad27939abd0962ff6be996dab32d71a52988"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-deploy2-ogg.pw.toml"
+hash = "7255ea0290cc9de925508b9ee44e30c0f49275f94aaa329db2a8b5453dad2f29"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-deploy3-ogg.pw.toml"
+hash = "f71e2317be43a335c8d629e86895f4593914a2cfbd8f89f4077d4404a165aff1"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-deploy4-ogg.pw.toml"
+hash = "8bdf573a7514729e25f2dcddf8bfe0bab90745b6e3242a83b8a33aff53cd5597"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-deploy5-ogg.pw.toml"
+hash = "c4d16fffd30c03508e6307056d0967c4dc89f92e73968342c776b297e43664e4"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-disabled1-ogg.pw.toml"
+hash = "614a759c56405f4b0b213356637bd000b9256de13fea6e759781289ea6dde3d5"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-disabled2-ogg.pw.toml"
+hash = "c4e335c98839d9a8335aaad8504b465132fd1e07ee201af8a8ee5f0bd531f1e1"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-disabled3-ogg.pw.toml"
+hash = "61869680601a6160d31703b5ac934d1bc17151c1d8434583002f0cb1061450bc"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-disabled4-ogg.pw.toml"
+hash = "624b2ba5a39034c49b06cea1e847e08f904b067de698711406e2193d9f925d97"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-disabled5-ogg.pw.toml"
+hash = "496624556aa3fdcbecf6e6e824e8a3d1c1e9a6950499fb65b0793007aa4f6e6d"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-disabled6-ogg.pw.toml"
+hash = "2cdfc0e7c5342e33f15a29491b17fcc29ae4f6dedc2c5fd7a2d8b9f8d5f827b2"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-fizzler1-ogg.pw.toml"
+hash = "30b8fdb3f8ec35d430dbacc87e8e35d6eb831b79556cda690a573fbc805d69e8"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire1-ogg.pw.toml"
+hash = "deeec8e364d6061a598205de430108d64dbba3c3435eb5f6213a59f111944d0b"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire10-ogg.pw.toml"
+hash = "b004efeaf52f6fbeca9a0f5888744ed263859b7a0ca30d5a569f36f5022d2767"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire2-ogg.pw.toml"
+hash = "c76cf61ad3b3a568893855a5477d053c232d0f313efcbff1458ce2a2af3c4f82"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire3-ogg.pw.toml"
+hash = "7c646e8787b4059caaa4678b585797775f826976c0189e58c285384e35732132"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire4-ogg.pw.toml"
+hash = "68234204142637e7034edc51b8c8b257a1b950ce7b492102edccb516c9681158"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire5-ogg.pw.toml"
+hash = "60311f24c7be3e56c0d5604a90e32c1f31b6945699585f58c399c9229c39064d"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire6-ogg.pw.toml"
+hash = "d808b38e25249213d8131f8b4e2fac43717fe34400217bb0acfb4ea054b68bc8"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire7-ogg.pw.toml"
+hash = "d0ba750342260efb1214f41854a329e63110b70574c6346d8f96bc5532b3e8a4"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire8-ogg.pw.toml"
+hash = "3ca4441efc640433c777f8fa9c822d61de11ddfe1abc05becac7993655afa3bc"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire9-ogg.pw.toml"
+hash = "c1e2e766d9d05e32d881930b8f3c6211651f63833c0b157ab1e3795a8869a4e9"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-1-ogg.pw.toml"
+hash = "edc9f47104cf04e819cca731ed1319eff1c14e0b3c510a296702d63c02d8edb8"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-10-ogg.pw.toml"
+hash = "ca0badd271bc6db759a66c5f2dac825c8f5c1701065a6d33fce48fd5a848cc25"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-2-ogg.pw.toml"
+hash = "55693054c27d30489a8f2078f9343a3c5c74a70e40b2e4d16d50f3ad0b328d66"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-3-ogg.pw.toml"
+hash = "8c51efeb89b95f685b9feb56e708d27441aaf4b59cabfe7dc70e6fc4279757bf"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-4-ogg.pw.toml"
+hash = "9ae86b9ca02702a34a6bf7723cc40811b2372dbcfddf4076aefea0c6c180a34d"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-5-ogg.pw.toml"
+hash = "b36b84c93685f19cb785f3764c8d260b1505af6f82c239d29d570759a2912d09"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-6-ogg.pw.toml"
+hash = "798e54beba70ce1c73f530506fe8771870e48ddd0b710950061989def178b54b"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-7-ogg.pw.toml"
+hash = "378b23a19b862f9ff3481727fab796553e4d532e10f88fea05260696c47305f5"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-8-ogg.pw.toml"
+hash = "8ab4486325f2b81db9352abd5a25c4e93e12ab581589edc0f39999561dd63fe7"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-9-ogg.pw.toml"
+hash = "bb8fc89b7532e2df8989245358e5a57e6e1d5829abb17be030e01381b5cc61c8"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-retire1-ogg.pw.toml"
+hash = "7503db7b7c957a942948adba80bf10cfe8aa58ff0ee02b46819b72648ad23eae"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-retire2-ogg.pw.toml"
+hash = "db9deb1ea35d455423eae26fdd08c1a8efd9eeda606e49d452d0c92a1df21b07"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-retire3-ogg.pw.toml"
+hash = "4fea8b4ac741249c56fd1cf4a0791c31d20370d7cc297c8ffc71c9d580d6efb4"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-retire4-ogg.pw.toml"
+hash = "b76ca72122fa749f2e6ef2634512ffa880680cb6a1a77f48c5844bd60ce5a819"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-retire5-ogg.pw.toml"
+hash = "2e9b8aed3d5ff5285a068ca9cde3b7286477b6011c70da5562c73b4cd9aa870e"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-retire6-ogg.pw.toml"
+hash = "b679f615f1384e34144830437b8fde5331c0a9192ca4374201bb7e4232ec631f"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-search1-ogg.pw.toml"
+hash = "2a45d929615099e64cfa431e85744f8877af0ed6ddbc7da6095f10e601e4b137"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-search2-ogg.pw.toml"
+hash = "caecd04306460db5029af348167fae79159d2592f3a71a69531043868f8550b4"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-search3-ogg.pw.toml"
+hash = "6cf685bdf3a4e874766a718433a877f6af6e6a50100b631bb9877b5c1446ad42"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-shotat1-ogg.pw.toml"
+hash = "e30eaf35ed2503ae2ffe9310a8f524dc03311ecb863971ea77573b35468938ca"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-shotat2-ogg.pw.toml"
+hash = "baaf0f0ae14a043397feb2ff2bc9d20006c21b393c64e093c6c6ba9d3ce8b0c6"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret-shotat3-ogg.pw.toml"
+hash = "e649b33caa374adb425e649acb1b5d8b3dffb33e89d16fdedbb329ec101b5880"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched1-ogg.pw.toml"
+hash = "3f2bee804a1aebc3d0db35119ad7115807c025a8be1481ef8bc925eb861e5069"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched10-ogg.pw.toml"
+hash = "7efc39e11ef24ac2ebadd8499399454e2c474c67fd0c6ce3a8aa370af0e36c28"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched11-ogg.pw.toml"
+hash = "4b0958093b54d10c52c1ada3c7bcd05ab831329c833981605c0f3ef41b1257d3"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched2-ogg.pw.toml"
+hash = "df7ac4a83956d62627f8bde45b90e5068c5b04d1b954b170aea9a0d2c3766dcc"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched3-ogg.pw.toml"
+hash = "6bd81de988a500f0d6a83fe54aa7bd6db5345bf98ca05f88df269e9b8256b485"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched4-ogg.pw.toml"
+hash = "51675137fd1380fcdf9f5676773a0a0ed221952f396855e6b4ebad40e104dd38"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched5-ogg.pw.toml"
+hash = "d7676f954f27a468f0662826cd38167dae512b89b9eab71099d3a56bf2be6937"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched6-ogg.pw.toml"
+hash = "0bd30224540c5b55b51edd4737c97e601db8f4609447cec968b296f7234618cb"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched7-ogg.pw.toml"
+hash = "cdf5cd829d1729093249df2daaa2b957be1b5e4e8526f840067f5a798fdb4b58"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched8-ogg.pw.toml"
+hash = "60ca924c6709d25de96ae56c9c6ab591c82c491ef8adb40e429cdbd50037c510"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched9-ogg.pw.toml"
+hash = "7995b655bd1536e383e073e60187a78372178153ed44988e79b85cfc378201d9"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/wpn-portal-gun-fire-b01-ogg.pw.toml"
+hash = "ecb76904caf6b28a002ec99fec9cc9a19f4cce379f03379bf42db65e362a6802"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/wpn-portal-gun-fire-b02-ogg.pw.toml"
+hash = "44b62e0a83e34b935aac0ff1db8af5240fe413a39e97db9b81d3ff619a70c8ef"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/wpn-portal-gun-fire-b03-ogg.pw.toml"
+hash = "52786513bdd774d0aa75f8567289033f12d22814d4c4673881e2872a1c67475f"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/wpn-portal-gun-fire-r01-ogg.pw.toml"
+hash = "472f094322051b16bb68216251c9bad518dc234e7c52c8a681036e1a46acbc2a"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/wpn-portal-gun-fire-r02-ogg.pw.toml"
+hash = "e3181aec46e75742ce4f3deb3ddcf6dfe5a70b3c4acab535b4366e32044b96fb"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/wpn-portal-gun-fire-r03-ogg.pw.toml"
+hash = "a83970544526e454cf26db029eaa86b0eea66c468a90745654c270026aec719b"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/wpn-portal-reset-01-ogg.pw.toml"
+hash = "6b5bfba1ba70e2a983fd55bb237a7112c478bcfe7cfafcbe62f0a5748ad1f582"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/wpn-portalgun-active-01-ogg.pw.toml"
+hash = "6cc77b0f83c69391bf48715065fbec998f02b31de7c5847451d20363f914ec2c"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/streaming/portalgun/radioloop-ogg.pw.toml"
+hash = "423be441971deabb854fe6426e255faa3d6c800ab03811fcdb2a8215fb892de3"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/streaming/portalgun/stillalive-ogg.pw.toml"
+hash = "9dcab30b1dad1bb341f3d9019821679b0db6935bce2b999795d79f714299a64a"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/streaming/portalgun/turret-wife-serenade-ogg.pw.toml"
+hash = "7ea0a9795df9eca75969a917393329c629f9ee09f7edf5aae10d75532c6e1cda"
+metafile = true
+
+[[files]]
+file = "resources/portalgun/streaming/portalgun/wantyougone-ogg.pw.toml"
+hash = "3aa98ef8cd4a928234b7fed0687913cb691e2f08991eaa5edd897fa263c2be32"
+metafile = true

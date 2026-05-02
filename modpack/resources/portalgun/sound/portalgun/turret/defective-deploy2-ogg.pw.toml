@@ -1,0 +1,8 @@
+name = "defective_deploy2.ogg"
+filename = "defective_deploy2.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_deploy2.ogg"
+hash-format = "sha256"
+hash = "dfea4e87c083ac8553e8ec7dd3c322cb925e1942709fe742cb086afa21c5e615"

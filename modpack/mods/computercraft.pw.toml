@@ -1,0 +1,13 @@
+name = "ComputerCraft"
+filename = "ComputerCraft1.5.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r7tyeVvQ/versions/Ho18G0WO/ComputerCraft1.5.zip"
+hash-format = "sha256"
+hash = "4fde47d700af7ef436c0033bc044e2033761936944d7532ef1d62a077310dacb"
+
+[update]
+[update.modrinth]
+mod-id = "r7tyeVvQ"
+version = "Ho18G0WO"

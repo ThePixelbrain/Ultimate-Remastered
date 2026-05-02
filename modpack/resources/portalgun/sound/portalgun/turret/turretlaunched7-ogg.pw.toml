@@ -1,0 +1,8 @@
+name = "turretlaunched7.ogg"
+filename = "turretlaunched7.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turretlaunched7.ogg"
+hash-format = "sha256"
+hash = "6902e424d5b05e0c028db46e08ce10df1de02b28778e4612ce971bd821a3f04b"

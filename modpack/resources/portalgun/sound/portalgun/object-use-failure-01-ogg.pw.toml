@@ -1,0 +1,8 @@
+name = "object_use_failure_01.ogg"
+filename = "object_use_failure_01.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/object_use_failure_01.ogg"
+hash-format = "sha256"
+hash = "e30d926ff3cef7a778c963df273afb1f600cb12140172ebc15ac7fcdecc82991"

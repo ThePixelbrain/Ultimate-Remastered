@@ -1,0 +1,8 @@
+name = "turret_retire1.ogg"
+filename = "turret_retire1.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_retire1.ogg"
+hash-format = "sha256"
+hash = "84fe1a4779b5d3f741d94660a0746a66464eb2639bd08645f72800d13c857461"

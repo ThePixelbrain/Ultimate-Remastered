@@ -1,0 +1,13 @@
+name = "RedPower 2 Compat"
+filename = "RedPowerCompat.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2WKcdqVh/versions/2.0pr6/RedPowerCompat-2.0pr6.zip"
+hash-format = "sha256"
+hash = "123a97ce6081a71b4badd9513774efa2a018df514760af3b9ff77f3e78d9a3f5"
+
+[update]
+[update.modrinth]
+mod-id = "2WKcdqVh"
+version = "eOfJIp0Q"

@@ -1,0 +1,8 @@
+name = "ric4.ogg"
+filename = "ric4.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/ric4.ogg"
+hash-format = "sha256"
+hash = "553c5043f3f00441d29169f07367997246cde8ea13cdf5e4d87ea19ae724f4c5"

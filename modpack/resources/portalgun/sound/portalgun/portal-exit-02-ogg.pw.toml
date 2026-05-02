@@ -1,0 +1,8 @@
+name = "portal_exit_02.ogg"
+filename = "portal_exit_02.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/portal_exit_02.ogg"
+hash-format = "sha256"
+hash = "7692ab150d4fe01830c9d249572638a394e8e06899a32b38ef26ae0f58f4e78b"

@@ -1,0 +1,8 @@
+name = "pressbutton4.ogg"
+filename = "pressbutton4.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/pressbutton4.ogg"
+hash-format = "sha256"
+hash = "7863f3bd33f4d8b9a96aadd29303eb722f1b8b22ee278072aba398c93cf312ea"

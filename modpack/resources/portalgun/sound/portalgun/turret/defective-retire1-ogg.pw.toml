@@ -1,0 +1,8 @@
+name = "defective_retire1.ogg"
+filename = "defective_retire1.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_retire1.ogg"
+hash-format = "sha256"
+hash = "47d86f587953682fb17eb1f48a539f0907164c504a2ce46406edfc2cab195e1d"

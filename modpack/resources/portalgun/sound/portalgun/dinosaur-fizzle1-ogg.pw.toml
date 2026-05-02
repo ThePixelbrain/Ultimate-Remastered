@@ -1,0 +1,8 @@
+name = "dinosaur_fizzle1.ogg"
+filename = "dinosaur_fizzle1.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/dinosaur_fizzle1.ogg"
+hash-format = "sha256"
+hash = "bd28b8bde1c4ff318283d16f258a26a94f382c78d7a3bb170dc59e44d3627c9a"

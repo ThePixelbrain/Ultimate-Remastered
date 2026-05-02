@@ -1,0 +1,8 @@
+name = "radioloop18a.wav"
+filename = "radioloop18a.wav"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop18a.wav"
+hash-format = "sha256"
+hash = "62e52cad131f4ad2a57d8293eb4a8b8f1917b4172b7492de2d9a570f8934ad1d"

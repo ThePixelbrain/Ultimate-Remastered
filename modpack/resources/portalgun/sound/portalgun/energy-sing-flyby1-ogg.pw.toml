@@ -1,0 +1,8 @@
+name = "energy_sing_flyby1.ogg"
+filename = "energy_sing_flyby1.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/energy_sing_flyby1.ogg"
+hash-format = "sha256"
+hash = "9c834628f059f26b7f21d08f71ab7a7dff42b9de7e03e4b9b08de76007043c20"

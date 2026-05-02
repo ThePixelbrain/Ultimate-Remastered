@@ -1,0 +1,8 @@
+name = "stillalive.ogg"
+filename = "stillalive.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/streaming/portalgun/stillalive.ogg"
+hash-format = "sha256"
+hash = "ee9c476887223a296219d4891b7abc08eb44a9a8f5073d920b796595c96f41cc"

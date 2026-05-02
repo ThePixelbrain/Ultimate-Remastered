@@ -1,0 +1,8 @@
+name = "afp_launch.ogg"
+filename = "afp_launch.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/afp_launch.ogg"
+hash-format = "sha256"
+hash = "781de383f29c64cb483503bb29adb34cf2c965d0fa6f64829636329d60551c26"

@@ -1,0 +1,8 @@
+name = "apg_firing.ogg"
+filename = "apg_firing.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/apg_firing.ogg"
+hash-format = "sha256"
+hash = "3e487eb5591be84529f30c406aa457ce1e44f0ea217ff5b1b312e95e0f652154"

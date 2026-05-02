@@ -1,0 +1,8 @@
+name = "energy_bounce2.ogg"
+filename = "energy_bounce2.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/energy_bounce2.ogg"
+hash-format = "sha256"
+hash = "29c096b25865d89275afd490079dd15c9ce63187c39ed3b4b93852610e738a83"

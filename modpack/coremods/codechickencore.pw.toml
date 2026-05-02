@@ -1,0 +1,13 @@
+name = "CodeChickenCore"
+filename = "CodeChickenCore 0.8.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "164008958bfb6ca8eedf9686589bd511f515524ef9cdaffdccd25bbff89d984e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2233216
+project-id = 222213

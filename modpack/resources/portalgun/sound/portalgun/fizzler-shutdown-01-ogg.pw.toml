@@ -1,0 +1,8 @@
+name = "fizzler_shutdown_01.ogg"
+filename = "fizzler_shutdown_01.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/fizzler_shutdown_01.ogg"
+hash-format = "sha256"
+hash = "352a8e1a0920036367f5983d2c9479073f1083281a9b0cdcb090087073ebfd05"

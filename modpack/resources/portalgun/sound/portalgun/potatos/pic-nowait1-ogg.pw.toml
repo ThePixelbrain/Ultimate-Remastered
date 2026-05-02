@@ -1,0 +1,8 @@
+name = "pic_nowait1.ogg"
+filename = "pic_nowait1.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/pic_nowait1.ogg"
+hash-format = "sha256"
+hash = "86a3c0246303cb70060d6e775cddf2280402e23baffddbb0b1c0ac21770df10f"

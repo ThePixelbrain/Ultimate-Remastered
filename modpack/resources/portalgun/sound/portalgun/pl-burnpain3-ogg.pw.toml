@@ -1,0 +1,8 @@
+name = "pl_burnpain3.ogg"
+filename = "pl_burnpain3.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/pl_burnpain3.ogg"
+hash-format = "sha256"
+hash = "1907c72c2460ba33c6d5276665a94e2d4606f7e0615453d83e24fe6ea3141cb2"

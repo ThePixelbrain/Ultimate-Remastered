@@ -1,0 +1,8 @@
+name = "portal_enter_03.ogg"
+filename = "portal_enter_03.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/portal_enter_03.ogg"
+hash-format = "sha256"
+hash = "1240d05466f1d49770ec21e28eadf3f381e08f6b996a82cee0ee15450baf6b6f"

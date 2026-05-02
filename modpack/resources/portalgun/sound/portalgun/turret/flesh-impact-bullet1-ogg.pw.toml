@@ -1,0 +1,8 @@
+name = "flesh_impact_bullet1.ogg"
+filename = "flesh_impact_bullet1.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/flesh_impact_bullet1.ogg"
+hash-format = "sha256"
+hash = "026340a3133dd1ce43a6e6618b47a0c986f35112993e6d285f24ad6c5e65e921"

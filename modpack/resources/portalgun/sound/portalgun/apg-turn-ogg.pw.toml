@@ -1,0 +1,8 @@
+name = "apg_turn.ogg"
+filename = "apg_turn.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/apg_turn.ogg"
+hash-format = "sha256"
+hash = "a2d8116135325ed08f55f102cb3187640c7a2521d95d15a5600ebff13bced317"

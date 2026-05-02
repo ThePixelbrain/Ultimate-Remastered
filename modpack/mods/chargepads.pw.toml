@@ -1,0 +1,13 @@
+name = "ChargePads"
+filename = "chargepads-1.4.7-universal-2.5.0.72.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "78b324a10b85687767d095374793197f46ff5ce8e796f2529a0dd39924fb4cb8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 716174
+project-id = 60793

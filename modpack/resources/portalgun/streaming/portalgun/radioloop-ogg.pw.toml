@@ -1,0 +1,8 @@
+name = "radioloop.ogg"
+filename = "radioloop.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/streaming/portalgun/radioloop.ogg"
+hash-format = "sha256"
+hash = "99548423bc5c68261f83e5392e3ac500ddb3fa8eb53fbb78a67be19655e037fd"

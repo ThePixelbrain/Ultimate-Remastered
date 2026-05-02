@@ -1,0 +1,12 @@
+name = "Macro Keybind Mod"
+filename = "MacroKeybindMod.litemod"
+side = "client"
+
+[download]
+url = "https://github.com/ThePixelbrain/Ultimate-Remastered/raw/refs/heads/main/modpack/mods/MacroKeybindMod.litemod"
+hash-format = "sha256"
+hash = "ddea4b0cddee6d020cf684562dfd89e999b922a7663cd6690a0905b8559d7335"
+
+[option]
+optional = true
+description = "Bind commands to keys, execute commands on events or even create scripts to automate actions."

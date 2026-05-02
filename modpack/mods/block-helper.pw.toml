@@ -1,0 +1,13 @@
+name = "Block Helper"
+filename = "BlockHelper-1.2.0-1.4.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "5ba03af6f6aa394d3a796f72c3b546acab3fae14c64388169dfaba1b2c08ba91"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5500828
+project-id = 251766

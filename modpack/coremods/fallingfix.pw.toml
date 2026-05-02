@@ -1,0 +1,13 @@
+name = "FallingFix"
+filename = "FallingFix_mc147_v1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "53550f80dffa20a839b0611dc8769d56d7afe789e3eeaed9e0709e93475a7298"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2234398
+project-id = 229618

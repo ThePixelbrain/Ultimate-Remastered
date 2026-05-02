@@ -1,0 +1,8 @@
+name = "superphys_small_zap2.ogg"
+filename = "superphys_small_zap2.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/superphys_small_zap2.ogg"
+hash-format = "sha256"
+hash = "c47a1e6a268bbc49b735e55befbab80b48aa38bb890a51d481cf1b8fe1ed2857"

@@ -1,0 +1,8 @@
+name = "defective_entityaround4.ogg"
+filename = "defective_entityaround4.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_entityaround4.ogg"
+hash-format = "sha256"
+hash = "54813a734c8b80cdeb35eadc5e3be189080267cc53937e08057453c17d2105ac"

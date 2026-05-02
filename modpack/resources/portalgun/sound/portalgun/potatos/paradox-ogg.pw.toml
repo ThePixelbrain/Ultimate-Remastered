@@ -1,0 +1,8 @@
+name = "paradox.ogg"
+filename = "paradox.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/paradox.ogg"
+hash-format = "sha256"
+hash = "9c647730945783970ef8245bf7c46e8bdaeac52181156fabbbf088770b8eb440"

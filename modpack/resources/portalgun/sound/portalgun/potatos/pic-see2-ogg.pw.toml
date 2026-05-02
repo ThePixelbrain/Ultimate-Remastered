@@ -1,0 +1,8 @@
+name = "pic_see2.ogg"
+filename = "pic_see2.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/pic_see2.ogg"
+hash-format = "sha256"
+hash = "07a1edbe07011088dd6f0db4f92e959ebce16ddf6f057ac3aa9ec0c509519826"

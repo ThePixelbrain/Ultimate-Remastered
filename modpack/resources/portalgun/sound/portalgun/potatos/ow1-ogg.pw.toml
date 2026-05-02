@@ -1,0 +1,8 @@
+name = "ow1.ogg"
+filename = "ow1.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/ow1.ogg"
+hash-format = "sha256"
+hash = "3b45ad0d7eac7978b8f8210a4e108b1fb78ec02404276b67a17d81dd398ecca8"

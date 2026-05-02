@@ -1,0 +1,13 @@
+name = "TubeStuff"
+filename = "tubestuff-52.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LUTnCekN/versions/dXMyAnEf/tubestuff-52.3.2.jar"
+hash-format = "sha256"
+hash = "4dc94110beaa98b979dc368afdb73ff76d450c6edccd286ef82140c4e2846bbf"
+
+[update]
+[update.modrinth]
+mod-id = "LUTnCekN"
+version = "dXMyAnEf"

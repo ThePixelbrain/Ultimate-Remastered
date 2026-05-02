@@ -1,0 +1,8 @@
+name = "laser_node_power_off.ogg"
+filename = "laser_node_power_off.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/laser_node_power_off.ogg"
+hash-format = "sha256"
+hash = "073f1dcda36fc64ae5cc76b2b1fcd7ebf73fa280858b7f7c687bdf9905bb46e1"

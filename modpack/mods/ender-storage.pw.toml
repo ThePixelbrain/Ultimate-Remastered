@@ -1,0 +1,13 @@
+name = "Ender Storage"
+filename = "EnderStorage 1.4.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "a7687567bda81f62d1394a532f051eabf5959b4d9217a4f2c424367f973a36ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2233189
+project-id = 229306

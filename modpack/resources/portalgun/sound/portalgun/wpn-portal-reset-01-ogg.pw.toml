@@ -1,0 +1,8 @@
+name = "wpn_portal_reset_01.ogg"
+filename = "wpn_portal_reset_01.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/wpn_portal_reset_01.ogg"
+hash-format = "sha256"
+hash = "606ee307566ffacc13da4d5fe27cf409eafd39d74e5d585fd3a4ab1b59b71c0e"

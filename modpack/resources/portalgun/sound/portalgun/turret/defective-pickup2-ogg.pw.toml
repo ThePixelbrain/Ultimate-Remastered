@@ -1,0 +1,8 @@
+name = "defective_pickup2.ogg"
+filename = "defective_pickup2.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_pickup2.ogg"
+hash-format = "sha256"
+hash = "63ee8663e429590f163fb46dd7f509074b3a2cb48958a8189b2b411dc640aaec"

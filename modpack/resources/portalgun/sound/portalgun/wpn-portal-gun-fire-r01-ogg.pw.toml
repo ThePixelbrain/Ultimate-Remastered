@@ -1,0 +1,8 @@
+name = "wpn_portal_gun_fire_r01.ogg"
+filename = "wpn_portal_gun_fire_r01.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/wpn_portal_gun_fire_r01.ogg"
+hash-format = "sha256"
+hash = "9cc057db978373f594de1849c099def6e39ceffeb7e6a0bc594e6b53d6a878a5"

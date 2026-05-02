@@ -1,0 +1,8 @@
+name = "bulletltor1.ogg"
+filename = "bulletltor1.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/bulletltor1.ogg"
+hash-format = "sha256"
+hash = "ef6501ade2ffc4b374f8f4e51c595fa396f6eb89c27faa0debd593004eaf1631"

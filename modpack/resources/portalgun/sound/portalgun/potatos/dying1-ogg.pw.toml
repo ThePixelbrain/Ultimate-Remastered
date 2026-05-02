@@ -1,0 +1,8 @@
+name = "dying1.ogg"
+filename = "dying1.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/dying1.ogg"
+hash-format = "sha256"
+hash = "21ce1bc6b9e3b6ea0f8fdf139a6030988250c8226d47a4bc82131526fe048ba8"

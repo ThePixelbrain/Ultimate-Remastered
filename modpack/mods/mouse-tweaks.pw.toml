@@ -1,0 +1,13 @@
+name = "Mouse Tweaks"
+filename = "MouseTweaks.zip"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "b6bb0658a7499a92b4c0df1c8ba5ce773a023f48cd05ced3e57b5d8b3aaf85a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 713723
+project-id = 60089

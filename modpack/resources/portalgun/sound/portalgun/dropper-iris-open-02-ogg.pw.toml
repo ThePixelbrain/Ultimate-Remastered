@@ -1,0 +1,8 @@
+name = "dropper_iris_open_02.ogg"
+filename = "dropper_iris_open_02.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/dropper_iris_open_02.ogg"
+hash-format = "sha256"
+hash = "86224e70dfee0068f8e5b63bd3a901c237a3586d939c3c45170dbf4274bb9a21"

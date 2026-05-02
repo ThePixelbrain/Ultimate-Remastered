@@ -1,0 +1,8 @@
+name = "slowclap2.ogg"
+filename = "slowclap2.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/slowclap2.ogg"
+hash-format = "sha256"
+hash = "4f976db0ab9ddffc1d017748c3dbaa9f5a47e206b7fabc5c16e76faa5dcd53aa"

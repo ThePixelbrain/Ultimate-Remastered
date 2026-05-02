@@ -1,0 +1,8 @@
+name = "wantyougone.ogg"
+filename = "wantyougone.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/streaming/portalgun/wantyougone.ogg"
+hash-format = "sha256"
+hash = "937595eb0a1af5cb2cdd39470a6825b71995cc8f59d44bd03e116348bae673bd"

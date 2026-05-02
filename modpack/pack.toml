@@ -1,0 +1,13 @@
+name = "Ultimate Remastered"
+author = "Bedcraft"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bfc0855a2beded1a12d22a7327f5f395584d166a8ea14ddc0c998df884096c02"
+
+[versions]
+forge = "6.6.2.534"
+minecraft = "1.4.7"

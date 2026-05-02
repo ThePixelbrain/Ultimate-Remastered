@@ -1,0 +1,8 @@
+name = "portal_invalid_03.ogg"
+filename = "portal_invalid_03.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/portal_invalid_03.ogg"
+hash-format = "sha256"
+hash = "c49a25189adc5d0cffdd5c0075614661db15de4783b538341a3993b149396eb9"

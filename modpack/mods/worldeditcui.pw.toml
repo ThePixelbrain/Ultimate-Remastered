@@ -1,0 +1,13 @@
+name = "WorldEditCUI"
+filename = "mod_worldeditcui_1.4.6_00_lite_mc1.4.6.litemod"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "99c687f50c1aaa901649d3a2ab246a1f8929fe4d7889325ce8e685000fa60407"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2352902
+project-id = 254692

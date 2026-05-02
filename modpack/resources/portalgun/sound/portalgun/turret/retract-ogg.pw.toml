@@ -1,0 +1,8 @@
+name = "retract.ogg"
+filename = "retract.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/retract.ogg"
+hash-format = "sha256"
+hash = "8ced1c08b2e37748cbaf0fb00ef5bebbd1fa5c043ec6c0c632fabd249c0dd061"

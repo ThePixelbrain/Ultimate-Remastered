@@ -1,0 +1,8 @@
+name = "turret_autosearch4.ogg"
+filename = "turret_autosearch4.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_autosearch4.ogg"
+hash-format = "sha256"
+hash = "658cebdf3577df8e10c190827e2c9ca79f6c5812ba25cbc746773fab4cc604a9"

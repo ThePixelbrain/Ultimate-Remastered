@@ -1,0 +1,8 @@
+name = "phys_bouncy_cube_lg_02.ogg"
+filename = "phys_bouncy_cube_lg_02.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/phys_bouncy_cube_lg_02.ogg"
+hash-format = "sha256"
+hash = "0487dd5082ae3cc2ba65f49020a7cfe8c9f2c8062ca6a4d2b1478d7d5c15399b"

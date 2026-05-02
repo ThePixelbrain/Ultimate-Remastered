@@ -1,0 +1,13 @@
+name = "Applied Energistics 1"
+filename = "appeng-rv9-i.zip"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "33c0376e3b88b844629fb37c1a046d4e378314c809ef7329756d620546393e02"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2212860
+project-id = 223793

@@ -1,0 +1,8 @@
+name = "wakeup2.ogg"
+filename = "wakeup2.ogg"
+side = "client"
+
+[download]
+url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/wakeup2.ogg"
+hash-format = "sha256"
+hash = "f322dff35652b9e5845a116c16dd69c00281f8b632efdaa6f8bb75f0ed8039b2"
