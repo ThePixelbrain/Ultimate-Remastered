@@ -3,6 +3,6 @@ filename = "InvTweaks.zip"
 side = "client"
 
 [download]
-url = "https://github.com/ThePixelbrain/Ultimate-Remastered/raw/refs/heads/main/modpack/mods/InvTweaks.zip"
+url = "https://ultrem.bedcraft.uk/modpack/mods/InvTweaks.zip"
 hash-format = "sha256"
 hash = "38d245c9bfc659f7dd0905e2c55c0ebb0b62e0f50d6b027a5913b1c0076d3f69"

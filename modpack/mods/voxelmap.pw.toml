@@ -3,6 +3,6 @@ filename = "VoxelMap.litemod"
 side = "client"
 
 [download]
-url = "https://github.com/ThePixelbrain/Ultimate-Remastered/raw/refs/heads/main/modpack/mods/VoxelMap.litemod"
+url = "https://ultrem.bedcraft.uk/modpack/mods/VoxelMap.litemod"
 hash-format = "sha256"
 hash = "99364942c9b37b1159d55483cabdf8f5544690e0230aa4087ff1a42aa34f74ff"

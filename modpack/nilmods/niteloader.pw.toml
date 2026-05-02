@@ -3,6 +3,6 @@ filename = "NiteLoader.jar"
 side = "client"
 
 [download]
-url = "https://github.com/ThePixelbrain/Ultimate-Remastered/raw/refs/heads/main/modpack/nilmods/NiteLoader.jar"
+url = "https://ultrem.bedcraft.uk/modpack/nilmods/NiteLoader.jar"
 hash-format = "sha256"
 hash = "fc6d02a8b7290f0f4043b3d5f92289df7e84c38f81be7137595fae542ebb892e"

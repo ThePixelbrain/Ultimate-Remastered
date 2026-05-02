@@ -244,17 +244,17 @@ metafile = true
 
 [[files]]
 file = "mods/invtweaks.pw.toml"
-hash = "ed63f674d627751e8b5ec76f67843087899dbb1be42d7bc0d9f0bfa2d9f08401"
+hash = "df779ef66d21df8f367c413f262c963b691fa321fb42a3f4bff490910929655e"
 metafile = true
 
 [[files]]
 file = "mods/macro-keybind-mod.pw.toml"
-hash = "738e9b4f5cc5945d62e9310f71c0544d6d73835f9680ca37d85c95dec5407ac2"
+hash = "b51ba59de376e89e90f147821613542bdda80a27b57c3cf4d00a879b6c251d7a"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "846dc5978da946707bf3d016b82b586062d45423d25b97f09642fdbdcb06bd3b"
+hash = "1aa0c9bbfe52864ec913586ba81e89b5ae06a67add41cfdb11940149555c7a1e"
 metafile = true
 
 [[files]]
@@ -2715,7 +2715,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxelmap.pw.toml"
-hash = "5fb28f4138353f14d87e1c8e4e232e8ee1a57e2c52de34928d27fdfc950b0448"
+hash = "0b737e65949d0f49e561fa9cb3b00872e8e2f990fd872bf42aa591320134c6df"
 metafile = true
 
 [[files]]
@@ -2744,7 +2744,7 @@ hash = "18a76b1bab061930a27da56fc160f6ec93f24741bca21da8db90caa200156e5b"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
-hash = "dcc7a0a161a9acd247a12be337417053d11704c8f8fa09541f5faf4620dd6ba9"
+hash = "c96557289cc4f15f9d548306c98c17cfc136482fb4cffaf94a1e8b114b7df330"
 metafile = true
 
 [[files]]
