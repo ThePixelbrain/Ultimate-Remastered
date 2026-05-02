@@ -1,6 +1,334 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/AdvancedMachines.cfg"
+hash = "1663e3ec17a2709d43d815f1b4a7f921513fe9dae23f3d6c6fcedc6efe70a843"
+
+[[files]]
+file = "config/AdvancedSolarPanel.cfg"
+hash = "cefb0fe3897c42ed5f8712bbeb5f94a5757310d8630b3dbf7abe5fae9756e7d7"
+
+[[files]]
+file = "config/AppliedEnergistics.cfg"
+hash = "b96b3ca23eca8e1c713d304f0108f9bf33dc9e3d7388fd17e06483ea9633160f"
+
+[[files]]
+file = "config/BiblioCraft.cfg"
+hash = "84cc2d992139c9c8aa57b4d4bcab1b7955a064a87b9e5e0764343156ae29f156"
+
+[[files]]
+file = "config/BlockHelper.cfg"
+hash = "9fb772970a498793275a052a8c7db0593c6022accfe9705f1228dc2498191d8e"
+
+[[files]]
+file = "config/CCTurtle.cfg"
+hash = "ecc7057d76076a2201f4a59b6c4eb0bf40c2c25e5f44708ae1d4a52f5a919c53"
+
+[[files]]
+file = "config/ChargePads.cfg"
+hash = "ef63a5383e8de17b99de5b41f5b51050feb9ce0245d54f7889deec3cf2e4f6ec"
+
+[[files]]
+file = "config/ChickenChunks.cfg"
+hash = "e48190ba7a2717c083f0f9fd881b9fcdc601d6897bfe9de5f31c59eb9108d6d7"
+
+[[files]]
+file = "config/Chisel.cfg"
+hash = "d0d40e033b86d7cf202daf8f2979a51fd6948fb61a68be7cf53f379f4ab87304"
+
+[[files]]
+file = "config/CodeChickenCore.cfg"
+hash = "9a9c50c88639b46ad0f0d46829aa3b56fe9764e4d055ca31312bf6c3c2884df5"
+
+[[files]]
+file = "config/ComputerCraft.cfg"
+hash = "2253533a40dfbcd7df9dad6ba902bbd7937fee52520489dcbc134b7cd99f5d36"
+
+[[files]]
+file = "config/EE3.cfg"
+hash = "1fadc0b01ef14c3950fb34c32eea964555a333a58fab0c8763d12967ca9c5a4a"
+
+[[files]]
+file = "config/EnderStorage.cfg"
+hash = "248ba7cb586f6e9eb700e380b98ce163e48d8bf03a596ff4d8cb350ba9f213d8"
+
+[[files]]
+file = "config/GraviGun.cfg"
+hash = "b9844adca1925fff2428c84eb74615d4afb05ef0deab5077af6046e3c456fa99"
+
+[[files]]
+file = "config/GraviSuite.cfg"
+hash = "d68c3309096776b488f6c83e6c1243b0768f257d6b1a73c327136f28d61f0b3a"
+
+[[files]]
+file = "config/GregTech/BlockItemIDs.cfg"
+hash = "8e2e5b90639d98076a8a3f82ff1a08e10549aa7ad6054d879760b725213ab331"
+
+[[files]]
+file = "config/GregTech/GregTech.cfg"
+hash = "248a0d0ea26f1044bf04c02f107bd6a387c3ae878fbe9f0c10390b03f33fab72"
+
+[[files]]
+file = "config/GregTech/GregTech.lang"
+hash = "f10f3beb6b08741bda79cf8848d77d7bc317ef175b292f4195f7552892650eae"
+
+[[files]]
+file = "config/GregTech/Recipes.cfg"
+hash = "8fe46b4c1ab9e65d650901c310aa474fc9ce08f85e2c6e8760622fba0f4b6e66"
+
+[[files]]
+file = "config/GregTech/RecipesAdvancedConfig.cfg"
+hash = "d132a75f2dfe0cf76a3cf2e9d6617753b549ea8ecdbda7adfc8e7bcab47dee70"
+
+[[files]]
+file = "config/IC2.cfg"
+hash = "0edbf3cc6e0f8d207a6c21cccd65656a79b4918c273eee52242324e88ec68e10"
+
+[[files]]
+file = "config/IC2.lang"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/IC2NuclearControl.cfg"
+hash = "a573fe3a826e4e5ada1f9569e989913235de18e0cee6ac21ef5fb09766f0fc4a"
+
+[[files]]
+file = "config/IC2NuclearControl.lang"
+hash = "1afcdaea23124ad94dedc53e9f25e872de4f7e62d84660a602f977c4d193e170"
+
+[[files]]
+file = "config/InvTweaks.cfg"
+hash = "cd996efef65e57a5d916800aeea9d7324e3a7e1109466ad2a8472bf0328c187b"
+
+[[files]]
+file = "config/InvTweaksRules.txt"
+hash = "a87f3cd1bc42ecb4c0f7f1507e32a3b318d6572473f94d0edb87774fb4445e8e"
+
+[[files]]
+file = "config/InvTweaksTree.txt"
+hash = "dffd5fdc76033a987ebae22799b636d77d857c1663abcb250a349b480b108e75"
+
+[[files]]
+file = "config/IronChest.cfg"
+hash = "36e45e7aeea1541b342a489d9899087ebe655e82be7cfe05d1cc9c99a9cefc47"
+
+[[files]]
+file = "config/LogisticsPipes.cfg"
+hash = "7e2a2f8af7b65faebfd86877c2bf58d72969e35eb9ff76720804ebaaecabc896"
+
+[[files]]
+file = "config/MFReloaded.cfg"
+hash = "125d9e88a506d5d9fcb3e5678538f30f45d1e89931793bbefa2e20b225ab63e3"
+
+[[files]]
+file = "config/MiscPeripherals.cfg"
+hash = "7ddb0da97f0ca551748bb92a266f3b71c0c5119a1471569756534d24a91004fb"
+
+[[files]]
+file = "config/ModularForceFieldSystem.cfg"
+hash = "144f32b928bd98c3a83a7329e11cc28141cde7d7746788869f1c7502654c65ea"
+
+[[files]]
+file = "config/NEI.cfg"
+hash = "0c5c2fdcde0e88b7b2602f087adb41d99a30cc21343619fd1d6e1f64cb922266"
+
+[[files]]
+file = "config/NEIAddons.cfg"
+hash = "404fecf6114ddd42b4a3600d36d770da90be53f31268e2a6a2a3ccab19c93a1c"
+
+[[files]]
+file = "config/NEIServer.cfg"
+hash = "b43615ac349d709b67e3c5302654cee80a96c4e9b7d75970a3390e4d34348a98"
+
+[[files]]
+file = "config/NEISubset.cfg"
+hash = "a1f0f8a371670443b0f5cb28106bd4f56bcb108e230a560c095cba1bb56efa73"
+
+[[files]]
+file = "config/NetherOres.cfg"
+hash = "bdd6e041ff5c3d3c3e7278c366626e694bab987b968d71f556573ecac1f7c9d8"
+
+[[files]]
+file = "config/OCS.cfg"
+hash = "4bc41f79bf000286221a074b75385c6d9fba5a34f48da7af7098f4c646d29213"
+
+[[files]]
+file = "config/ObsidiPlates.cfg"
+hash = "692b503ea6e6b3e0c42d7dae6719722801461ba3b9dddb782517e1343d1b75ba"
+
+[[files]]
+file = "config/PortalGun.cfg"
+hash = "55ea973da4f6d29e6245aeec6a41da41ab53b56dccd903b696e25edd0f71292f"
+
+[[files]]
+file = "config/PowerConverters.cfg"
+hash = "142591e0884a77e76486ced1928572a9c2ae5fc7736cba0f84dea74665df8c58"
+
+[[files]]
+file = "config/PowerCrystalsCore.cfg"
+hash = "70a8d031215ce520daf9868634d420b2897e28dbd7c0123149ee2b5bf325ed4d"
+
+[[files]]
+file = "config/SecretRoomsMod.cfg"
+hash = "63c41ec994038d24f434f9c51414f53926e69ef060353bbf6ee4f3ca46b15efb"
+
+[[files]]
+file = "config/SoulShards.cfg"
+hash = "2f3c136dad2ff261d6ab6043ec0258a6f4b953632e22ffbe444cb63f2b38fabd"
+
+[[files]]
+file = "config/StevesCarts.cfg"
+hash = "d7aa40dcf5821277e1bd010e4bfe2c2e1a35be8d021c003e3e7cba45aeecdaee"
+
+[[files]]
+file = "config/Thaumcraft.cfg"
+hash = "0b382b263789082a9ebe68d2a1810f3d7763a10c4cc31be4c30b75383aae7fdb"
+
+[[files]]
+file = "config/ThaumicBees.cfg"
+hash = "1da3846739129f6d86094db71c6f69d4bee011e5cbddb8f1cd9f98c593814867"
+
+[[files]]
+file = "config/TwilightForest.cfg"
+hash = "d775237e9a4989f3388901502854016cb7945efdce64a9af2dc474032fa2b907"
+
+[[files]]
+file = "config/WirelessRedstone.cfg"
+hash = "3b4382f6c26dc73bbb388f92f494cad4d76297e0f7422cb6906e64ca88e3d28a"
+
+[[files]]
+file = "config/XReliquary.cfg"
+hash = "d4ad0e8db1ad74619ceb923cb0b2734372086940066e2c1ca6507b18bbbea7bf"
+
+[[files]]
+file = "config/XyCraft.cfg"
+hash = "e054800cd760a1c0b3e8c38ee8dfd06fb0cb778c0c5438491e51ed7d432aaa5b"
+
+[[files]]
+file = "config/buildcraft/main.conf"
+hash = "67a0cc3a2effdf62c88c582274320d2d0568006cb9f6918f855e249c205765b2"
+
+[[files]]
+file = "config/cofh/lexicon.whitelist"
+hash = "7c30df7c59290d198bfdb42c28e1166c5f3f7649dd00db71671602d672747cdf"
+
+[[files]]
+file = "config/cofh/omnitools.cfg"
+hash = "dc7b530d79ed7f3b506a792874d56ab2ac4007dbdb6aac0ab197c80745d386db"
+
+[[files]]
+file = "config/cofh/thermalexpansion.cfg"
+hash = "d03e639cf83cf9290f43bcd2dc3293681fcd8d578e0c2d7d3d1e72178e1070d3"
+
+[[files]]
+file = "config/dartcraft.cfg"
+hash = "be736bbfae497e077e409360568ac5ba47a6f59fca91d50f2f79e8bccee3c40b"
+
+[[files]]
+file = "config/drceph.petrogen.cfg"
+hash = "41498d583698f669bde685438b37d2a9455de69ea7365379861ae785457c94c4"
+
+[[files]]
+file = "config/extrabiomes/extrabiomes.cfg"
+hash = "f808ec5163eddd2266a360daf3723a3ed2ba63da85559310a8b545c1f0fabac8"
+
+[[files]]
+file = "config/factorization.cfg"
+hash = "241b6d74f59ce9862056ca86143b33a0a346180ec650ff9b50693d2b0af86866"
+
+[[files]]
+file = "config/forestry/apiculture.conf"
+hash = "68679c1dc96b3f7e568f13775447b133337e47865eb0bf4272ccb87bea2de28c"
+
+[[files]]
+file = "config/forestry/backpacks.conf"
+hash = "07832b3a0e58c5bc17b69833cc8dfa248316ea0669d44c5b29f3f197b31fcefb"
+
+[[files]]
+file = "config/forestry/base.conf"
+hash = "692dc9085860c2b769565f81456b54652ff0878a5585a3a462e1d36f582ac996"
+
+[[files]]
+file = "config/forestry/common.conf"
+hash = "4f36da288266fac5beebdf8ba380de520424ed851eec13cc1b50b861e17babf9"
+
+[[files]]
+file = "config/forestry/extrabees/machines.conf"
+hash = "f7564594901ca229c3bacad2190668f4c2a0f84c356958cfdb0517e300893598"
+
+[[files]]
+file = "config/forestry/extrabees/main.conf"
+hash = "24621720850aa674c26f9f56103c8dad64c2982ee3d4e05acf6a7ea7c9ddfc82"
+
+[[files]]
+file = "config/forestry/gamemodes/EASY.conf"
+hash = "c054363fda402651957fdd27826e5665c9f6c011ce53a93543e606c446e2fef1"
+
+[[files]]
+file = "config/forestry/gamemodes/HARD.conf"
+hash = "7b1707a8d79b920468e1ea57569e4d110c66f50f5929f962c64258ae829fda31"
+
+[[files]]
+file = "config/forestry/gamemodes/NORMAL.conf"
+hash = "fd38b8e0d0113f2990aa88979dd083d3deedcd6ac233cad8b753736e43b83c86"
+
+[[files]]
+file = "config/forestry/pipes.conf"
+hash = "f6487eef8063e1ad46f9a04dc3f0fde030604a7436efe608f65c8f1e618373a6"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "d856f79e0b24b6c4481cef8d2db32327d529c162a79de23af09d1042b3cd2b84"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "c0e7e4d739b50a8ad635b71bf227d88a5832ee129af0c841d0028cca8b2fe2dc"
+
+[[files]]
+file = "config/immibis.cfg"
+hash = "e54286c826cad4ad087199f72ad2f33528285f593548887344e0cedd61c083f8"
+
+[[files]]
+file = "config/mmmPowersuits.cfg"
+hash = "c71e9aff0b16a900d769d201802d4ec651e9b6aafc359261671fd16fbd493a8e"
+
+[[files]]
+file = "config/mod_MouseTweaks.cfg"
+hash = "af3d44834d361b2d7446ff24b0e857f9ccd9e8c49bed378e4d18b2f9711e960a"
+
+[[files]]
+file = "config/modstats.cfg"
+hash = "e9c8de1b013e0926499042501d9046001a07a8447f424b3ed5d42859ab8a923e"
+
+[[files]]
+file = "config/mystcraft_config.txt"
+hash = "330e7a93e5108bf6393b91755d1ec55c2676c31d2dc2b08bd183af34e0b0aaf7"
+
+[[files]]
+file = "config/railcraft/modules.cfg"
+hash = "8009f1a123cf9d854a2cbad48f3b449b7fa2219bce54a53bab4b20f1d7f97376"
+
+[[files]]
+file = "config/railcraft/railcraft.cfg"
+hash = "3a21c914f7f0cb45b233a8f1de413545ef5cf0566cb57e488697837a4076fcfe"
+
+[[files]]
+file = "config/redpower/redpower.cfg"
+hash = "4ecd4516c4970dd34797078a42c06bbcfe4992154789ed275e92b396be35b3e3"
+
+[[files]]
+file = "config/redpower/redpower.lang"
+hash = "99ee83a616d0184b7b20c9fe98bdb622062f201c90e1f4052a6746df745af731"
+
+[[files]]
+file = "config/rpcdrive.cfg"
+hash = "74a5941f7f5a48774dbabf502197752712d8db820ea2e858ce87dc83814d16dd"
+
+[[files]]
+file = "config/upsilonfixes/patches.css"
+hash = "b9131d975f538c2e8ae315e5c1be6f86f7acdfa29a3e7eeb96352a0db9fe96e2"
+
+[[files]]
 file = "coremods/PowerCrystalsCore.jar"
 hash = "56a0ec4f8d18025539269a750fdc0b1ac86b93ba1a93d7ba229c32d9e76038b2"
 

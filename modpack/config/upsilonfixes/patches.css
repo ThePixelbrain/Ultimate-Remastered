@@ -1,0 +1,424 @@
+/*
+ * UpsilonFixes configuration file
+ * Any unrecognized keys or comments you add will be lost!
+ */
+
+backports {
+	/*
+	 * Allows pressing the drop key over a slot in an inventory to drop the contents of
+	 * the slot on the ground. 1.5 backport.
+	 */
+	drop-key-in-inventories: on;
+
+	/*
+	 * Use a more legible hue-based gradient for the durability bar, rather than raw
+	 * RGB. 1.11 backport.
+	 */
+	vanilla-modern-durability-color: on;
+
+	/*
+	 * Replace the "Performance" option with an FPS slider. 1.7 backport.
+	 */
+	vanilla-modern-fps-slider: on;
+
+	/*
+	 * Replaces GUI Scale with a slider, instead of just Auto/Small/Normal/Large. 1.13
+	 * backport, sort of. Vanilla still uses a cycling button in 1.21.5, the usage of a
+	 * slider is a Sodium thing.
+	 */
+	vanilla-modern-gui-scale: on;
+
+	/*
+	 * Allows individually rebinding every hotbar key, instead of always using number
+	 * keys. 1.7 backport.
+	 */
+	vanilla-modern-hotbar-binds: on;
+
+	/*
+	 * Allows holding left/right click and dragging with an item on your cursor to
+	 * spread it between all the passed slots. 1.5 backport.
+	 */
+	vanilla-smearing: off;
+
+	/*
+	 * Fixes a typo in the water propagation code that prevents water sources from
+	 * forming above existing water sources, resulting in "whirlpools" when buckets are
+	 * used in lakes and such. 1.5 backport.
+	 */
+	vanilla-whirlpool-fix: on;
+}
+
+features {
+	/*
+	 * If on, dumps json files containing each mods' localizations to a
+	 * "langdumps"directory.
+	 */
+	dump-lang: off;
+
+	/*
+	 * If on, loads lang files in a similar format to dump-lang
+	 * (lang/modid/language.json)into the FML LanguageRegistry.
+	 */
+	load-lang: on;
+
+	/*
+	 * Patch FML and various mods to be compatible with newer versions of the JVM.
+	 * 
+	 * "auto" acts as "off" on Java 8, and "on" otherwise.
+	 */
+	modern-java-support: auto;
+
+	/*
+	 * Redesign the main menu, pause menu, etc in a way very similar to VoxelMenu.
+	 */
+	redesign-menus: off;
+
+	/*
+	 * Add support for BuildCraft pipes to RedPower2.
+	 */
+	rp2-buildcraft-integration: on;
+
+	/*
+	 * Overloads the IC2 boost key to also work like the modern vanilla sprint key.
+	 */
+	sprint-key-over-ic2-boost-key: on;
+
+	/*
+	 * Stores the configuration of a dismantled Tesseract in the resulting item, and
+	 * restores it on place.
+	 */
+	thermal-keep-tesseract-config-on-dismantle: on;
+
+	/*
+	 * Adds Tubestuff's Automatic Crafting Table MkII as an importable tile entity in
+	 * crafting logistics pipes.
+	 */
+	tubestuff-autocrafter-mk2-logisticspipes-import: on;
+
+	/*
+	 * Enables the Rewind Upsilon modpack branding.
+	 */
+	upsilon-branding: off;
+
+	/*
+	 * Allows using multiple texture packs at once if they're marked as layerable.
+	 */
+	vanilla-layered-texture-packs: on;
+
+	/*
+	 * Adds XyCraft's Fabricator as an importable tile entity in crafting logistics
+	 * pipes.
+	 */
+	xycraft-fabricator-logisticspipes-import: on;
+}
+
+fixes {
+	/*
+	 * Prevents a crash when connecting a storage bus to GregTech machines, caused by
+	 * AppEng calling an API that no longer exists.
+	 */
+	appeng-qchest: on;
+
+	/*
+	 * Fixes ChickenChunks awayTimeout feature. If enabled in the config it should keep
+	 * chunkloaders running for a specified time after the player logged off. This
+	 * never worked, deactivating all chunk loaders of offline players instantly.
+	 */
+	chickenchunks-away-timeout: on;
+
+	/*
+	 * Prevents CodeChickenCore from allocating a stencil buffer. May cause rendering
+	 * issues. Fixes the game not rendering at all on macOS.
+	 * 
+	 * "auto" acts as "on" on macOS, and "off" otherwise.
+	 */
+	codechicken-disable-stencil: auto;
+
+	/*
+	 * Prevents CodeChickenCore from exploding when prematurely reading classes.
+	 */
+	codechickencore-hierarchy-check: on;
+
+	/*
+	 * Removes DartCraft forcefully undoing GregTech's recipe tweaks. This is misguided
+	 * in the first place as GregTech lets you disable its changes in its config.
+	 */
+	dartcraft-force-disabling-gregtech-tweaks: on;
+
+	/*
+	 * Fixes the DartCraft Force Engine being effectively limited to 10MJ/t due to an
+	 * oversight. This is fixed in the 1.6 version of DartCraft.
+	 */
+	dartcraft-force-engine-limit: on;
+
+	/*
+	 * Fixes the DartCraft Force Infuser only working in the overworld.
+	 */
+	dartcraft-force-infuser-dimension: on;
+
+	/*
+	 * Prevents DartCraft mobs from spawning in wrong biomes. Moves the registration
+	 * from post init to init and prevents spawn in Mushroom Island biomes.
+	 */
+	dartcraft-mobspawn-registration: on;
+
+	/*
+	 * Transforms many recipes that accept vanilla dyes to also accept modded dyes.
+	 * Recipes that use certain dyes as their actual item (Lapis, Cocoa Beans, etc.)
+	 * are left as is.
+	 */
+	dye-ore-dictionary: on;
+
+	/*
+	 * Fixes transmutation crafting recipes in EE3 only working once, and being broken
+	 * by NEI.
+	 */
+	ee-transmute-recipes: on;
+
+	/*
+	 * Prevents the inner end portal animation in Ender Chests from rendering when
+	 * closed. Majorly improves performance.
+	 */
+	enderstorage-unconditional-render: on;
+
+	/*
+	 * Prevents registering null-fluid recipes in the Forestry fermenter.
+	 */
+	forestry-fermenter-npe: on;
+
+	/*
+	 * Optimizes some cases of mods (especially Forge item rendering) accessing slow
+	 * OpenGL state by caching it CPU-side.
+	 */
+	forge-optimize-state-access: on;
+
+	/*
+	 * Fixes lighting on Factorization barrels.
+	 */
+	fz-barrel-lighting: on;
+
+	/*
+	 * Fixes an infinite loop with the Factorization mixer caused by a minor oversight.
+	 */
+	fz-mixer-infinite-loop: on;
+
+	/*
+	 * Ultimate/Hybrid Solar Helmets will eat filled tin cans just like the quantum
+	 * helmet normally would.
+	 */
+	gravisuite-quantum-solar-helm-feeding: on;
+
+	/*
+	 * Configures remainder items for GregTech cells. May break more than it fixes,
+	 * needs more research and work.
+	 */
+	gregtech-cell-remainder: on;
+
+	/*
+	 * Adds a missing lang entry for the Trade-O-Mat's stock.
+	 */
+	ic2-localize-tradeomat-stock: on;
+
+	/*
+	 * Fixes a crash when IC2 tries to apply seasonal easter eggs to certain entities.
+	 */
+	ic2-seasonal-crash: on;
+
+	/*
+	 * Fixes the MiscPeripherals anvil being able to repair with insufficient XP and
+	 * sometimes voiding items in the first slot.
+	 */
+	miscperipherals-anvil: on;
+
+	/*
+	 * Fixes misuse of the ASM API by MiscPeripherals. Allows running with newer ASM
+	 * libraries that have stricter checking.
+	 */
+	miscperipherals-asm-misuse: on;
+
+	/*
+	 * Fixes sounds and music for Portal Gun by replacing the asset index.
+	 */
+	portalgun-resources: off;
+
+	/*
+	 * Fixes RedPower2 non-full-block hitboxes frequently glitching out, causing
+	 * players to jitter and/or get stuck inside blocks. Makes lamp fixtures less scary
+	 * to exist near.
+	 */
+	rp2-hitboxes: on;
+
+	/*
+	 * Fixes RedPower2 managers getting permanently backstuffed in complex networks
+	 * that use multiple priorities.
+	 */
+	rp2-manager-permanent-backstuff: on;
+
+	/*
+	 * Fixes a NullPointerException crash caused by some cases of stale Inventory
+	 * references in RedPower2, primarily caused by Managers
+	 */
+	rp2-missing-inventory-npe: on;
+
+	/*
+	 * Adds a missing lang entry for the Rejuvenating bee's effect.
+	 */
+	thaumicbees-localize-rejuvenating-effect: on;
+
+	/*
+	 * Fixes Thermal Expansion tesseract ClassCastException crashes when tile entity
+	 * types are desynced - can be caused by frame machines, turtles, etc.
+	 */
+	thermal-tesseract-cast: on;
+
+	/*
+	 * Fixes Twilight Forest uncrafting exploits.
+	 */
+	twifor-uncrafting-exploits: on;
+
+	/*
+	 * Fixes the attacker yaw not syncing from server to client, to restore the proper
+	 * camera tilt animation when damaged.
+	 */
+	vanilla-attacker-yaw-syncing: on;
+
+	/*
+	 * Allow texture packs to override the font.
+	 */
+	vanilla-fonts-in-texture-packs: on;
+
+	/*
+	 * Allows opening GUIs in Nether portals. This was a fix for a dupe bug in Beta
+	 * that is long gone.
+	 */
+	vanilla-guis-in-portals: on;
+
+	/*
+	 * Fixes XyCraft ore items messing up the light state, making all items rendered
+	 * after them in the GUI draw with wrong lighting.
+	 */
+	xycraft-item-lighting: on;
+
+	/*
+	 * Fixes XyCraft ore textures to actually use the correct parts of the block atlas,
+	 * instead of just recoloring the white one.
+	 */
+	xycraft-ore-textures: on;
+}
+
+hacks {
+	/*
+	 * Makes ASM 4.0 pretend to be able to understand Java 8 class files. Necessary
+	 * when using NilLoader via hijacking. Breaks on newer Java, as it causes Forge to
+	 * strip all interface hints on invokes.
+	 * 
+	 * "auto" acts as "on" on Java 8, and "off" otherwise.
+	 */
+	asm-workaround: auto;
+
+	/*
+	 * Linux-only. Disables buggy XRandR support in LWJGL2. Causes various weird issues
+	 * like monitor flickering when closing the game or >60Hz getting messed up.
+	 */
+	disable-xrandr: on;
+
+	/*
+	 * Swap the red and blue channels in the main framebuffer. Fixes the game rendering
+	 * with incorrect colors on Apple Silicon Macs.
+	 * 
+	 * "auto" acts as "on" on macOS, and "off" otherwise.
+	 */
+	swap-red-blue: auto;
+}
+
+remove {
+	/*
+	 * Even remove update checkers that still work. Allows a fully-offline game launch.
+	 */
+	all-version-checkers: on;
+
+	/*
+	 * Prevent various mods from contacting dead servers for cosmetic features, such as
+	 * capes.
+	 */
+	dead-cosmetics: on;
+
+	/*
+	 * Removes attempts to contact dead version servers by mods that no longer receive
+	 * updates. (As such, does not disable BlockHelper or BuildCraft.)
+	 */
+	dead-version-checkers: on;
+
+	/*
+	 * Prevent Portal Gun from attempting to download resources. Alternative to
+	 * fixes.portalgun-resources that prevents server connections, but is incapable of
+	 * bootstrapping. Used in Rewind Upsilon as that distributes the Portal Gun
+	 * resources via unsup.
+	 */
+	portalgun-resource-downloader: on;
+
+	/*
+	 * Prevent vanilla from attempting to contact a dead S3 bucket on launch to check
+	 * for resources to download. This is handled by launchers nowadays, and sounds are
+	 * prevented from playing until a response is received from the server.
+	 */
+	vanilla-resource-downloader: on;
+
+	/*
+	 * Removes the vanilla snooper. The server is gone anyway.
+	 */
+	vanilla-snooper: on;
+}
+
+tweaks {
+	/*
+	 * Buffs Factorization Wrath Forge construction by allowing the fire to last
+	 * forever.
+	 */
+	fz-buff-wrath-forge: on;
+
+	/*
+	 * Makes GregTech Jack Hammers a lot better, making them competitive with other
+	 * forms of bulk block mining even into endgame, but only for the typical "natural"
+	 * stone blocks.
+	 */
+	gregtech-buff-jackhammers: on;
+
+	/*
+	 * Adds additional methods to the MiscPeripherals Bee Analyzer to allow reading
+	 * both primary and secondary alleles. Previously, only primary traits would be
+	 * read.
+	 */
+	miscperipherals-bee-analyzer: on;
+
+	/*
+	 * Replaces the NEI overlay handler for shift-clicking recipes in Project Tables to
+	 * allow the insertion from its inventory. Previously only items in your inventory
+	 * were used, not the ProjectTable inventory.
+	 */
+	rp2-better-projecttable-nei-overlay: on;
+
+	/*
+	 * Allows the Flux bee from Thaumic Bees to provide Aer-type flux. The Aer effect
+	 * is often thought to be unused, but there are some obscure ways to get it in
+	 * Thaumcraft, so the Flux bee should be able to provide it.
+	 */
+	thaumicbees-aer-from-flux-bee: on;
+
+	/*
+	 * Increase the chat length limit to match modern versions.
+	 */
+	vanilla-increase-chat-limit: on;
+
+	/*
+	 * Improves the item pickup mechanic from XReliquary's Coin of Fortune. Prevents a
+	 * bug where items would be floating at your feet but you can't pick them up.
+	 */
+	xreliquary-coin-pickup: on;
+
+	/*
+	 * Prevents XyCraft's quartz crystals from generating. They're a huge performance
+	 * hit and nobody likes them.
+	 */
+	xycraft-disable-quartz-crystal-worldgen: off;
+}
