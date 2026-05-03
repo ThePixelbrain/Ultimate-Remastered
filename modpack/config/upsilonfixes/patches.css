@@ -71,7 +71,7 @@ features {
 	/*
 	 * Redesign the main menu, pause menu, etc in a way very similar to VoxelMenu.
 	 */
-	redesign-menus: off;
+	redesign-menus: on;
 
 	/*
 	 * Add support for BuildCraft pipes to RedPower2.

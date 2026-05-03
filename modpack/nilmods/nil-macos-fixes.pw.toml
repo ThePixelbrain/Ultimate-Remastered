@@ -1,0 +1,8 @@
+name = "NilMacosFixes"
+filename = "NilMacosFixes.jar"
+side = "client"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/nilmods/NilMacosFixes.jar"
+hash-format = "sha256"
+hash = "a8a2267e0afedfe4e6417a2d7b3d95c4d814fcf7925faf64234b34ad610211ca"

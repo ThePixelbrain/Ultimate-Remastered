@@ -326,7 +326,7 @@ hash = "74a5941f7f5a48774dbabf502197752712d8db820ea2e858ce87dc83814d16dd"
 
 [[files]]
 file = "config/upsilonfixes/patches.css"
-hash = "b9131d975f538c2e8ae315e5c1be6f86f7acdfa29a3e7eeb96352a0db9fe96e2"
+hash = "0c3049c7affd82b45e1f0a437f9e673e848118cb0fdc9a32f629066541a454d3"
 
 [[files]]
 file = "coremods/PowerCrystalsCore.jar"
@@ -3068,7 +3068,12 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "18a76b1bab061930a27da56fc160f6ec93f24741bca21da8db90caa200156e5b"
+hash = "31b01cb57f317e8aadc87b08ab2d26935b6794ca60ad9ced44c11176755dc9c5"
+
+[[files]]
+file = "nilmods/nil-macos-fixes.pw.toml"
+hash = "274bbf4507d1d077290c5bd177bf97b9951031ae4dac764b5b169a0f27d3bb52"
+metafile = true
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
