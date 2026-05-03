@@ -19,7 +19,7 @@ backports {
 	/*
 	 * Replace the "Performance" option with an FPS slider. 1.7 backport.
 	 */
-	vanilla-modern-fps-slider: on;
+	vanilla-modern-fps-slider: off;
 
 	/*
 	 * Replaces GUI Scale with a slider, instead of just Auto/Small/Normal/Large. 1.13
@@ -285,7 +285,7 @@ fixes {
 	/*
 	 * Allow texture packs to override the font.
 	 */
-	vanilla-fonts-in-texture-packs: on;
+	vanilla-fonts-in-texture-packs: off;
 
 	/*
 	 * Allows opening GUIs in Nether portals. This was a fix for a dupe bug in Beta

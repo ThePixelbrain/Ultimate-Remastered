@@ -326,7 +326,7 @@ hash = "74a5941f7f5a48774dbabf502197752712d8db820ea2e858ce87dc83814d16dd"
 
 [[files]]
 file = "config/upsilonfixes/patches.css"
-hash = "0c3049c7affd82b45e1f0a437f9e673e848118cb0fdc9a32f629066541a454d3"
+hash = "05107fcf51b3c3fc7b3e8ee4fc6a09ec36bf4cbf8f90516d813c7dbf1f4bc203"
 
 [[files]]
 file = "coremods/PowerCrystalsCore.jar"
