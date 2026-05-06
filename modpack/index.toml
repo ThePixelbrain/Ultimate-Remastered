@@ -325,6 +325,10 @@ file = "config/rpcdrive.cfg"
 hash = "74a5941f7f5a48774dbabf502197752712d8db820ea2e858ce87dc83814d16dd"
 
 [[files]]
+file = "config/upsilonfixes/enabled-layers.txt"
+hash = "7dbd2827a8efb3694733974a0a60d1076c795f393a2e5ccb1614c7c64c1f1fe8"
+
+[[files]]
 file = "config/upsilonfixes/patches.css"
 hash = "05107fcf51b3c3fc7b3e8ee4fc6a09ec36bf4cbf8f90516d813c7dbf1f4bc203"
 
@@ -3085,6 +3089,10 @@ file = "nilmods/sha1redemption.jar"
 hash = "23d8f1dcc622f9ab229e243e1852e1950165150bc0299e0a3712c4049377fb80"
 
 [[files]]
+file = "options.txt"
+hash = "798ed3b422b1e91434ab709bff6c18a8380b1ae3e519e95ec1f97c22da288cbc"
+
+[[files]]
 file = "resources/portalgun/sound/portalgun/afp-launch-ogg.pw.toml"
 hash = "3b37857b74bd01e65aa4e28b3cd6973978c52671459c4c81cc02c8bc2655be88"
 metafile = true
@@ -4648,3 +4656,39 @@ metafile = true
 file = "resources/portalgun/streaming/portalgun/wantyougone-ogg.pw.toml"
 hash = "3aa98ef8cd4a928234b7fed0687913cb691e2f08991eaa5edd897fa263c2be32"
 metafile = true
+
+[[files]]
+file = "texturepacks/Bedcraft/pack.png"
+hash = "bc258296cfc5f312d22a1c174333c857aad3577afd41abe3096bd8713b005895"
+
+[[files]]
+file = "texturepacks/Bedcraft/pack.txt"
+hash = "19daf70c76f2947c69daebf221d65d3ce2762688d4f561536569ae534b508c80"
+
+[[files]]
+file = "texturepacks/Bedcraft/title/bg/panorama0.png"
+hash = "21cf70cdfe4ff2cbcabc2f469afdf322929abe69a6a07e0946820c246b4ffc23"
+
+[[files]]
+file = "texturepacks/Bedcraft/title/bg/panorama1.png"
+hash = "f1beba45a3c9c9053767521f8cb9b4562b7fd2bd00978722c023c3da48416fdc"
+
+[[files]]
+file = "texturepacks/Bedcraft/title/bg/panorama2.png"
+hash = "783aa35e4ecfcc81bdb754eaf16c3d7037e417041191dea8b49863e92ab95563"
+
+[[files]]
+file = "texturepacks/Bedcraft/title/bg/panorama3.png"
+hash = "e4b4ce4d496f8fc63198a86a1a8cd677a0d7bcd62a06d875b5e57d062704242d"
+
+[[files]]
+file = "texturepacks/Bedcraft/title/bg/panorama4.png"
+hash = "fbbde43b0a3c2bb86edbd9650097f52a2a2b1f33d2f9af9f5944d5d3810cb07e"
+
+[[files]]
+file = "texturepacks/Bedcraft/title/bg/panorama5.png"
+hash = "4d1481cf5ddd26b8947181dfe0f943f668fd7f298190ff09544988c4f231aa77"
+
+[[files]]
+file = "texturepacks/Bedcraft/upsilon-layerable"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
