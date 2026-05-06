@@ -4654,6 +4654,30 @@ hash = "3aa98ef8cd4a928234b7fed0687913cb691e2f08991eaa5edd897fa263c2be32"
 metafile = true
 
 [[files]]
+file = "scripts/charge-station.zs"
+hash = "de763c24f05da7249bad44899368837a3574a8ed8de54d0282bb7472527899a1"
+
+[[files]]
+file = "scripts/dartcraft.zs"
+hash = "7ce4599a9df9d7e61d716cf5500855ac89308cce607f802ae682c270b61e1a3d"
+
+[[files]]
+file = "scripts/logistics-pipes.zs"
+hash = "2754175ef1cbc61e051d0836c953e4409973bc24ee371796a650f3d4950e22e1"
+
+[[files]]
+file = "scripts/oredict-info-panel.zs"
+hash = "1a0650b1f136f47b81b967c3bbcf97f3e9a567d91200aa4ad51415d5ceea3095"
+
+[[files]]
+file = "scripts/sulfur-oredict.zs"
+hash = "b00e96cafc3daf1292f29e3565a9519c50b04d511ae26caedee9e6d9c9d1661d"
+
+[[files]]
+file = "scripts/thaumicbees.zs"
+hash = "3a25110fd2be2b8c6f00815db64d85480c8ce528256cceabd3959f92a3765b9b"
+
+[[files]]
 file = "texturepacks/Bedcraft/pack.png"
 hash = "bc258296cfc5f312d22a1c174333c857aad3577afd41abe3096bd8713b005895"
 
