@@ -1,0 +1,13 @@
+# This is a bizarre spurious ASM 4.0 release unique to Forge and some random other applications.
+# It has a different manifest; claiming to be built with Java 21 (???) and a slightly older version of Ant.
+# All class files are identical. Modification times are slightly older; Oct 2011 instead of Dec 2011.
+# So, let's grab it from the Prism file server instead of Maven Central.
+
+name = "asm-all-4.0"
+filename = "asm-all-4.0.jar"
+side = "both"
+
+[download]
+url = "https://files.prismlauncher.org/fmllibs/asm-all-4.0.jar"
+hash-format = "sha256"
+hash = "3a927e615f0b521ea10e051d38030cc50a7cd2bc8f716b959050c178792b6e82"

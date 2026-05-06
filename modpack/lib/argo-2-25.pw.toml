@@ -1,0 +1,8 @@
+name = "argo-2.25"
+filename = "argo-2.25.jar"
+side = "both"
+
+[download]
+url = "https://repo1.maven.org/maven2/net/sourceforge/argo/argo/2.25/argo-2.25.jar"
+hash-format = "sha256"
+hash = "23c0d36b2a2fb96e4ade1f5f9773a3a4995b72de730a40519b5b85f4139e4f20"

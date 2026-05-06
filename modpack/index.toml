@@ -370,6 +370,41 @@ hash = "84b6660d2f03aef486c3245fe745189d4f8941b29054e76dbf9eaa572df43ff8"
 metafile = true
 
 [[files]]
+file = "forge.pw.toml"
+hash = "14a818eb83bd64d9dedb374a341f854919d27ded1d05d9299cb0b70706aa7c2b"
+metafile = true
+
+[[files]]
+file = "lib/argo-2-25.pw.toml"
+hash = "1c86d2b62749bebfbd6d972ddb0e4a2e286e75ceb45cec8f276dd69cd56138f2"
+metafile = true
+
+[[files]]
+file = "lib/asm-all-4-0.pw.toml"
+hash = "e70230608b2eaf841ea2c27540341ec46f9d51c8040eaaef2f37dea76fc6d9b6"
+metafile = true
+
+[[files]]
+file = "lib/bcprov-jdk15on-147-jar.pw.toml"
+hash = "ccead9f3655e248173264f0c5583574db76553cfda769f00485433cc40d4a2a7"
+metafile = true
+
+[[files]]
+file = "lib/guava-12-0-1-jar.pw.toml"
+hash = "0ee5637c2d25f718e702c55594198a7878782e1ca9238ac455b9e6060569e69c"
+metafile = true
+
+[[files]]
+file = "mcpc-plus.pw.toml"
+hash = "44633289824398e9947610cceec9f546cef646658c2d2cbfffa90ab60d28650c"
+metafile = true
+
+[[files]]
+file = "minecraft-server.pw.toml"
+hash = "b9009c12d1269af6f8ce8cee444179e4bc60de334c2be4ac01a9b08fd3c436f7"
+metafile = true
+
+[[files]]
 file = "mods/AdvancedMachines.zip"
 hash = "0ccd2e0177f77053f4c2b03b384c6fa7e6846dc151ede71629bea4a779b4d229"
 
@@ -3037,6 +3072,11 @@ hash = "f6a9fe54d3990ef65fd0b65ef743a540a192d45db78b53394d7dac436d4e1995"
 metafile = true
 
 [[files]]
+file = "mods/tickthreading.pw.toml"
+hash = "2729346e65c1b209fbabb3bd0c4972e6db262afd917bdb608c9a18529f49c48d"
+metafile = true
+
+[[files]]
 file = "mods/tubestuff.pw.toml"
 hash = "c37a56b7a53a01dc4ef7a63264a1afd7a5f0182012fba0bdd4e670e40586e7af"
 metafile = true
@@ -3064,6 +3104,11 @@ metafile = true
 [[files]]
 file = "mods/wr-cbe-redpower.pw.toml"
 hash = "0bebb5f56680953e7a19bf0301fe37beb7b7b102644ab11e521a69be595334b9"
+metafile = true
+
+[[files]]
+file = "nilloader.pw.toml"
+hash = "a3b51ee8f15d599a9a53caa94220952d78c454377ef000b90b2cfee474ae0aad"
 metafile = true
 
 [[files]]
@@ -4712,3 +4757,7 @@ hash = "4d1481cf5ddd26b8947181dfe0f943f668fd7f298190ff09544988c4f231aa77"
 [[files]]
 file = "texturepacks/Bedcraft/upsilon-layerable"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "unsup.toml"
+hash = "cdeb1db4e172eed2c46da038558cb23e69394aa04645e0dff4e3a6109d97891e"

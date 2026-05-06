@@ -1,0 +1,8 @@
+name = "mcpc-plus"
+filename = "mcpc-plus.jar"
+side = "server"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/mcpc-plus.jar"
+hash-format = "sha256"
+hash = "5082a8a9f7431f404e488e830b92432100d34be08f2771a2027c337e92dc73c8"

@@ -1,0 +1,14 @@
+[flavor_groups.server_software]
+name = "Server Software"
+description = "Choose between a pure Forge server or MCPC+, a Bukkit and Forge hybrid to install plugins alongside of mods"
+side = "server"
+choices = ["forge", "mcpc-plus"]
+
+[metafile.forge]
+flavors = "forge"
+
+[metafile.minecraft-server]
+flavors = "forge"
+
+[metafile.mcpc-plus]
+flavors = "mcpc-plus"

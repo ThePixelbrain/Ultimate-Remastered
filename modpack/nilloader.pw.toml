@@ -1,0 +1,8 @@
+name = "NilLoader"
+filename = "NilLoader-1.3.6.jar"
+side = "server"
+
+[download]
+url = "https://git.sleeping.town/Nil/NilLoader/releases/download/1.3.6/NilLoader-1.3.6.jar"
+hash-format = "sha256"
+hash = "3a10bea5fccb72a08a875145b93cb5399ad2886b1d76b1a7ba5f04a89250f103"

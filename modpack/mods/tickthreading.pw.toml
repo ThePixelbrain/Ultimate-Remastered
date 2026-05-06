@@ -1,0 +1,13 @@
+name = "TickThreading"
+filename = "TickThreading.jar"
+side = "server"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/mods/TickThreading.jar"
+hash-format = "sha256"
+hash = "4d35277f07a6d083c1621373a26212b974cf11308a1e5f585a3af1d433911efb"
+
+[option]
+optional = true
+description = "Multithreads (tile) entity ticking. Brings massive performance improvements, but also causes bugs."
+
