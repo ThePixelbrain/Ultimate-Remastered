@@ -2427,14 +2427,6 @@ file = "mods/resources/ruins/ocean/Archway.tml"
 hash = "10cdebf7d644fa14c6b3a0354a0b1b3abf64f99ac34c30a054ab038433a14ae2"
 
 [[files]]
-file = "mods/resources/ruins/ocean/BaloonHigh.tml"
-hash = "cf540214ba9f465a0dd8461635e778886077a941e0b563738fec8102fcbdf16b"
-
-[[files]]
-file = "mods/resources/ruins/ocean/BaloonLow.tml"
-hash = "3425006de07121c73aad2797c25a09890599869845a70877bfd7592e950067f3"
-
-[[files]]
 file = "mods/resources/ruins/ocean/BlockHenge.tml"
 hash = "48a3cb500b11d091d0db63f99a611996174dac6b330405a3c4b8141eba0343fc"
 
@@ -3034,6 +3026,10 @@ hash = "a305011aae3e262f9727f25c5194af4b7510efa73fd889d3b9170983afd11cd8"
 file = "mods/rpcdrive.pw.toml"
 hash = "cf6a5d33092af13932597a8109d63b4c9fee24101a2a67115f0fa5b5e8726bce"
 metafile = true
+
+[[files]]
+file = "mods/ruins.txt"
+hash = "623d507b856e0f253ad20b7abf1a017a2fd3e1b6919d74f4da0b5cdf4ef1731f"
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
