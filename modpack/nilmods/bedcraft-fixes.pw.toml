@@ -1,0 +1,9 @@
+name = "BedcraftFixes"
+filename = "BedcraftFixes.jar"
+side = "server"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/nilmods/BedcraftFixes.jar"
+hash-format = "sha256"
+hash = "fc0a38ca0011ea76213dd44f5bdb5076785ed8ebe79e0732f13ffdcb79466b21"
+

@@ -12,3 +12,6 @@ flavors = "forge"
 
 [metafile.mcpc-plus]
 flavors = "mcpc-plus"
+
+[metafile.bedcraft-fixes]
+flavors = ["mcpc-plus", "tickthreading_on"]

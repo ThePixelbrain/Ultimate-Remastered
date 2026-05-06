@@ -205,6 +205,10 @@ file = "config/XyCraft.cfg"
 hash = "e054800cd760a1c0b3e8c38ee8dfd06fb0cb778c0c5438491e51ed7d432aaa5b"
 
 [[files]]
+file = "config/bedcraftfixes.css"
+hash = "b58127bd271ca64b9790cdfbb5f17f1a415511d5373edbef65e7eef7381ed57d"
+
+[[files]]
 file = "config/buildcraft/main.conf"
 hash = "67a0cc3a2effdf62c88c582274320d2d0568006cb9f6918f855e249c205765b2"
 
@@ -627,11 +631,6 @@ metafile = true
 [[files]]
 file = "mods/mystcraft.pw.toml"
 hash = "308b2b11f384fcb2874c54ae20a6e353b94d23deb0329be4de9d531624ba2921"
-metafile = true
-
-[[files]]
-file = "mods/nei-mystcraft-plugin.pw.toml"
-hash = "f83a5b2340f94ec37dad360bd384e0511f22fe4fdcf35097721e0e561d20207d"
 metafile = true
 
 [[files]]
@@ -3108,12 +3107,17 @@ metafile = true
 
 [[files]]
 file = "nilloader.pw.toml"
-hash = "a3b51ee8f15d599a9a53caa94220952d78c454377ef000b90b2cfee474ae0aad"
+hash = "55f75e79133b8e99137bea76b38e34bcddc9ce2f554e4426f34b04b70231f3ec"
 metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
 hash = "31b01cb57f317e8aadc87b08ab2d26935b6794ca60ad9ced44c11176755dc9c5"
+
+[[files]]
+file = "nilmods/bedcraft-fixes.pw.toml"
+hash = "939fe5ed254f3a8bd02eec9043e26a02297ae4f305642fdf2cd55eb8d9ddc3c3"
+metafile = true
 
 [[files]]
 file = "nilmods/nil-macos-fixes.pw.toml"
@@ -4760,4 +4764,4 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "unsup.toml"
-hash = "cdeb1db4e172eed2c46da038558cb23e69394aa04645e0dff4e3a6109d97891e"
+hash = "5477e92d5592460716879e0055c7bbc13e0f912c9ab7db53c598f9418b68f7d2"
