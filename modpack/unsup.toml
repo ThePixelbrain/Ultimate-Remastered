@@ -41,12 +41,6 @@ flavors = "normal"
 [metafile.mfr-config-expert]
 flavors = "expert"
 
-[metafile.mmmpowersuits-config-normal]
-flavors = "normal"
-
-[metafile.mmmpowersuits-config-expert]
-flavors = "expert"
-
 [metafile.powersuits-scripts-expert]
 flavors = "expert"
 
@@ -55,6 +49,9 @@ flavors = "normal"
 
 [metafile.mystcraft-config-expert]
 flavors = "expert"
+
+[metafile.dartcraft]
+flavors = "normal"
 
 [metafile.power-converters]
 flavors = "normal"

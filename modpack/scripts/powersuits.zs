@@ -71,6 +71,31 @@ val myofiberGel = <25031:15>;
 val artificialMuscle = <25031:16>;
 val solarPanel = <25031:17>;
 
+recipes.remove(<tile.tinkerTable>);
+recipes.remove(<item.powerArmorHead>);
+recipes.remove(<item.powerArmorTorso>);
+recipes.remove(<item.powerArmorLegs>);
+recipes.remove(<item.powerArmorFeet>);
+recipes.remove(<item.powerTool>);
+recipes.remove(wiring);
+recipes.remove(solenoid);
+recipes.remove(servoMotor);
+recipes.remove(gliderWing);
+recipes.remove(ionThruster);
+recipes.remove(lvCapacitor);
+recipes.remove(mvCapacitor);
+recipes.remove(hvCapacitor);
+recipes.remove(parachute);
+recipes.remove(basicPlating);
+recipes.remove(advancedPlating);
+recipes.remove(fieldEmitter);
+recipes.remove(laserHologram);
+recipes.remove(carbonMyofiber);
+recipes.remove(controlCircuit);
+recipes.remove(myofiberGel);
+recipes.remove(artificialMuscle);
+recipes.remove(solarPanel);
+
 recipes.addShaped(controlCircuit, [
 	[wiring, advancedCircuit, electrum],
 	[dataStorageCircuit, energyFlowCircuit, advancedCircuit],

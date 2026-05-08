@@ -1,0 +1,8 @@
+name = "dartcraft"
+filename = "DartCraft.jar"
+side = "both"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/mods/DartCraft.jar"
+hash-format = "sha256"
+hash = "66a37e9f8d4a7001166633f3e46d273cbca660b7ae6b67c5465d6e37e0214fe6"

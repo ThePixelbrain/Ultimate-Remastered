@@ -318,14 +318,8 @@ hash = "23b694d836ba8aba35ea87653013e1dcb210c2ff46acb95e895d4ac04f978cda"
 metafile = true
 
 [[files]]
-file = "config/mmmpowersuits-config-expert.pw.toml"
-hash = "948b287f155013687f6d53493022182bb95cfb6cd10bcffd69478a3e1f2e65fb"
-metafile = true
-
-[[files]]
-file = "config/mmmpowersuits-config-normal.pw.toml"
-hash = "2ff201c01d9d3868809de9883ac3216476da77ddcf34c6f25531becbbcc3cf03"
-metafile = true
+file = "config/mmmPowersuits.cfg"
+hash = "c71e9aff0b16a900d769d201802d4ec651e9b6aafc359261671fd16fbd493a8e"
 
 [[files]]
 file = "config/mod_MouseTweaks.cfg"
@@ -460,10 +454,6 @@ hash = "91403722fbdca3899db41a8c521fd8753bdc21ed6ce8cacc964da29a59dd71ab"
 [[files]]
 file = "mods/CoFHCore.zip"
 hash = "a45cecc8bb559a6bd536bb7d66893caa2b9eb82ef8e3fc6676c7ed38063c99ce"
-
-[[files]]
-file = "mods/DartCraft.jar"
-hash = "66a37e9f8d4a7001166633f3e46d273cbca660b7ae6b67c5465d6e37e0214fe6"
 
 [[files]]
 file = "mods/EE3.jar"
@@ -614,6 +604,11 @@ metafile = true
 [[files]]
 file = "mods/computercraft.pw.toml"
 hash = "18a4bda8d2dd1f26c75eea809227fb9bdb17b1483a2d5d11b1a355313cc789de"
+metafile = true
+
+[[files]]
+file = "mods/dartcraft.pw.toml"
+hash = "00cf14e9b40a66a9e165eb8a03a7c45cdacff84f46f19b0dbbb47f3ad9f76b3e"
 metafile = true
 
 [[files]]
@@ -4758,7 +4753,7 @@ hash = "1a0650b1f136f47b81b967c3bbcf97f3e9a567d91200aa4ad51415d5ceea3095"
 
 [[files]]
 file = "scripts/powersuits-scripts-expert.pw.toml"
-hash = "c06abfbffb32b3860842b40b65b23624410f0e355b8700b0f15ad46f0d344972"
+hash = "a0f16482b9ea803f1f88237ba11d3d303032aeb23739ccaa0c8abfebf59781d6"
 metafile = true
 
 [[files]]
@@ -4807,4 +4802,4 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "unsup.toml"
-hash = "8ccd26771a421f135c7e12493ec324158630e31f5d49cc0e039738704ce728e9"
+hash = "356b85065b4e4e41119542c327c1dde5d55978df2caa6247b299f80bff58443e"

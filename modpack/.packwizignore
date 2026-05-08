@@ -12,6 +12,7 @@ config/mmmPowersuits-normal.cfg
 config/mystcraft_config-expert.txt
 config/mystcraft_config-normal.txt
 mcpc-plus.jar
+mods/DartCraft.jar
 mods/InvTweaks.zip
 mods/MacroKeybindMod.litemod
 mods/PowerConverters.jar
