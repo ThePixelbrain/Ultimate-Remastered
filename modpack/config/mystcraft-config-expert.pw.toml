@@ -1,0 +1,8 @@
+name = "mystcraft-config-expert"
+filename = "mystcraft_config.txt"
+side = "both"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/config/mystcraft_config-expert.txt"
+hash-format = "sha256"
+hash = "527d32761c1966b7249c90bd05c6ef113b764f3e29b3efec853b6028de2b75e0"

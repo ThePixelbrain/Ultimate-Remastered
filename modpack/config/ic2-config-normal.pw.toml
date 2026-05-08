@@ -1,0 +1,8 @@
+name = "ic2-config-normal"
+filename = "IC2.cfg"
+side = "both"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/config/IC2-normal.cfg"
+hash-format = "sha256"
+hash = "8d2982950f37b6bd39943c8f12cadaeaddaff325e5b4cc1be16f7f5bfaf095f4"

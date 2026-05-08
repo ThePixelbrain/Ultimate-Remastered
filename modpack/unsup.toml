@@ -1,8 +1,63 @@
+[flavor_groups.pack_mode]
+name = "Pack mode"
+description = "<b>ALWAYS CHOOSE NORMAL IF YOU WANT TO PLAY ON THE BEDCRAFT SERVER.</b><br/>Choosing Expert will disable certain features and prevent you from joining our normal server!"
+side = "both"
+[[flavor_groups.pack_mode.choices]]
+id = "normal"
+name = "Normal Mode"
+description = "The default way to play, similar to the original FTB Ultimate."
+[[flavor_groups.pack_mode.choices]]
+id = "expert"
+name = "Expert mode"
+description = "A custom expert mode designed to be played on Bedcraft's expert mode server, created by DeSNinja"
+
 [flavor_groups.server_software]
 name = "Server Software"
 description = "Choose between a pure Forge server or MCPC+, a Bukkit and Forge hybrid to install plugins alongside of mods"
 side = "server"
 choices = ["forge", "mcpc-plus"]
+
+[metafile.extrabiomes-config-normal]
+flavors = "normal"
+
+[metafile.extrabiomes-config-expert]
+flavors = "expert"
+
+[metafile.gregtech-config-normal]
+flavors = "normal"
+
+[metafile.gregtech-config-expert]
+flavors = "expert"
+
+[metafile.ic2-config-normal]
+flavors = "normal"
+
+[metafile.ic2-config-expert]
+flavors = "expert"
+
+[metafile.mfr-config-normal]
+flavors = "normal"
+
+[metafile.mfr-config-expert]
+flavors = "expert"
+
+[metafile.mmmpowersuits-config-normal]
+flavors = "normal"
+
+[metafile.mmmpowersuits-config-expert]
+flavors = "expert"
+
+[metafile.powersuits-scripts-expert]
+flavors = "expert"
+
+[metafile.mystcraft-config-normal]
+flavors = "normal"
+
+[metafile.mystcraft-config-expert]
+flavors = "expert"
+
+[metafile.power-converters]
+flavors = "normal"
 
 [metafile.forge]
 flavors = "forge"
@@ -14,4 +69,7 @@ flavors = "forge"
 flavors = "mcpc-plus"
 
 [metafile.bedcraft-fixes]
+flavors = ["mcpc-plus", "tickthreading_on"]
+
+[metafile.bedcraftfixes-config]
 flavors = ["mcpc-plus", "tickthreading_on"]

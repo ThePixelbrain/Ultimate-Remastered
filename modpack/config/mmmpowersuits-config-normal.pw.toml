@@ -1,0 +1,8 @@
+name = "mmmpowersuits-config-normal"
+filename = "mmmPowersuits.cfg"
+side = "both"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/config/mmmPowersuits-normal.cfg"
+hash-format = "sha256"
+hash = "c71e9aff0b16a900d769d201802d4ec651e9b6aafc359261671fd16fbd493a8e"

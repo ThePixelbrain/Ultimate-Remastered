@@ -1,0 +1,8 @@
+name = "ic2-config-expert"
+filename = "IC2.cfg"
+side = "both"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/config/IC2-expert.cfg"
+hash-format = "sha256"
+hash = "1454264ba601818b5dca4d235a2a81518962bee004c29c87fa18a1cf4134bba9"

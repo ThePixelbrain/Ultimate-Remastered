@@ -1,0 +1,8 @@
+name = "mfr-config-expert"
+filename = "MFReloaded.cfg"
+side = "both"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/config/MFReloaded-expert.cfg"
+hash-format = "sha256"
+hash = "74695100276c9fd3dc8b84e2b51e9c078041f65f5a423a6772f71e2cb5abe8ad"

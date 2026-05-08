@@ -1,0 +1,8 @@
+name = "mmmpowersuits-config-expert"
+filename = "mmmPowersuits.cfg"
+side = "both"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/config/mmmPowersuits-expert.cfg"
+hash-format = "sha256"
+hash = "6ec2e6c7bbdbfb97c225cd9ce5d4c9918dace84dbe4a0b5c1d6d38758c8fc02a"

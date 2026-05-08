@@ -1,0 +1,8 @@
+name = "mfr-config-normal"
+filename = "MFReloaded.cfg"
+side = "both"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/config/MFReloaded-normal.cfg"
+hash-format = "sha256"
+hash = "125d9e88a506d5d9fcb3e5678538f30f45d1e89931793bbefa2e20b225ab63e3"

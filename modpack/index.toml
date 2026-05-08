@@ -30,7 +30,7 @@ hash = "ef63a5383e8de17b99de5b41f5b51050feb9ce0245d54f7889deec3cf2e4f6ec"
 
 [[files]]
 file = "config/ChickenChunks.cfg"
-hash = "e48190ba7a2717c083f0f9fd881b9fcdc601d6897bfe9de5f31c59eb9108d6d7"
+hash = "4ee6c779e46ba04c58d9fbea636c3b34121614610e3e3c5c5478b93e006bbb1b"
 
 [[files]]
 file = "config/Chisel.cfg"
@@ -38,7 +38,7 @@ hash = "d0d40e033b86d7cf202daf8f2979a51fd6948fb61a68be7cf53f379f4ab87304"
 
 [[files]]
 file = "config/CodeChickenCore.cfg"
-hash = "9a9c50c88639b46ad0f0d46829aa3b56fe9764e4d055ca31312bf6c3c2884df5"
+hash = "10f3f96c428e99b86e984e32ede2973c204c13bd1663be05892d365ef6fed3da"
 
 [[files]]
 file = "config/ComputerCraft.cfg"
@@ -54,7 +54,7 @@ hash = "248ba7cb586f6e9eb700e380b98ce163e48d8bf03a596ff4d8cb350ba9f213d8"
 
 [[files]]
 file = "config/GraviGun.cfg"
-hash = "b9844adca1925fff2428c84eb74615d4afb05ef0deab5077af6046e3c456fa99"
+hash = "3f58b2d784402720a7fddf896904ba40a1e398ba8aab10f3e5568265070c41a2"
 
 [[files]]
 file = "config/GraviSuite.cfg"
@@ -63,10 +63,6 @@ hash = "d68c3309096776b488f6c83e6c1243b0768f257d6b1a73c327136f28d61f0b3a"
 [[files]]
 file = "config/GregTech/BlockItemIDs.cfg"
 hash = "8e2e5b90639d98076a8a3f82ff1a08e10549aa7ad6054d879760b725213ab331"
-
-[[files]]
-file = "config/GregTech/GregTech.cfg"
-hash = "248a0d0ea26f1044bf04c02f107bd6a387c3ae878fbe9f0c10390b03f33fab72"
 
 [[files]]
 file = "config/GregTech/GregTech.lang"
@@ -81,8 +77,14 @@ file = "config/GregTech/RecipesAdvancedConfig.cfg"
 hash = "d132a75f2dfe0cf76a3cf2e9d6617753b549ea8ecdbda7adfc8e7bcab47dee70"
 
 [[files]]
-file = "config/IC2.cfg"
-hash = "0edbf3cc6e0f8d207a6c21cccd65656a79b4918c273eee52242324e88ec68e10"
+file = "config/GregTech/gregtech-config-expert.pw.toml"
+hash = "97f9cb474a0f4aef01e8ebf5aa9a2c6b98e6657f571c86181d24633f977c5924"
+metafile = true
+
+[[files]]
+file = "config/GregTech/gregtech-config-normal.pw.toml"
+hash = "5f2303fd1cc7546ee7c96604c137a5770fbc9d15965565befc392514c9b4a4cd"
+metafile = true
 
 [[files]]
 file = "config/IC2.lang"
@@ -117,12 +119,8 @@ file = "config/LogisticsPipes.cfg"
 hash = "7e2a2f8af7b65faebfd86877c2bf58d72969e35eb9ff76720804ebaaecabc896"
 
 [[files]]
-file = "config/MFReloaded.cfg"
-hash = "125d9e88a506d5d9fcb3e5678538f30f45d1e89931793bbefa2e20b225ab63e3"
-
-[[files]]
 file = "config/MiscPeripherals.cfg"
-hash = "7ddb0da97f0ca551748bb92a266f3b71c0c5119a1471569756534d24a91004fb"
+hash = "bad7d390e5753ae6218082d803ffcfa0ad877087ba5f425da4e464c4b7b51660"
 
 [[files]]
 file = "config/ModularForceFieldSystem.cfg"
@@ -174,11 +172,11 @@ hash = "63c41ec994038d24f434f9c51414f53926e69ef060353bbf6ee4f3ca46b15efb"
 
 [[files]]
 file = "config/SoulShards.cfg"
-hash = "2f3c136dad2ff261d6ab6043ec0258a6f4b953632e22ffbe444cb63f2b38fabd"
+hash = "f71efdb0cf2fcc35b540a0f63f3ab7ec4b0e8efc4ef51441b763b752451dc557"
 
 [[files]]
 file = "config/StevesCarts.cfg"
-hash = "d7aa40dcf5821277e1bd010e4bfe2c2e1a35be8d021c003e3e7cba45aeecdaee"
+hash = "2d0560e4fda206d5ee59bc95766fecc05c572341b30a1df143c43bd381d48ab6"
 
 [[files]]
 file = "config/Thaumcraft.cfg"
@@ -205,8 +203,9 @@ file = "config/XyCraft.cfg"
 hash = "e054800cd760a1c0b3e8c38ee8dfd06fb0cb778c0c5438491e51ed7d432aaa5b"
 
 [[files]]
-file = "config/bedcraftfixes.css"
-hash = "b58127bd271ca64b9790cdfbb5f17f1a415511d5373edbef65e7eef7381ed57d"
+file = "config/bedcraftfixes-config.pw.toml"
+hash = "e44dc079496431a8a5ca7d2e263b9fc48ba407c8883829e8fc1fd179f0950d32"
+metafile = true
 
 [[files]]
 file = "config/buildcraft/main.conf"
@@ -222,7 +221,7 @@ hash = "dc7b530d79ed7f3b506a792874d56ab2ac4007dbdb6aac0ab197c80745d386db"
 
 [[files]]
 file = "config/cofh/thermalexpansion.cfg"
-hash = "d03e639cf83cf9290f43bcd2dc3293681fcd8d578e0c2d7d3d1e72178e1070d3"
+hash = "3745e9e56a7cb1acfc41a492b112310a1b717f96e2e9906dc156dfafbbfdd34f"
 
 [[files]]
 file = "config/dartcraft.cfg"
@@ -233,8 +232,14 @@ file = "config/drceph.petrogen.cfg"
 hash = "41498d583698f669bde685438b37d2a9455de69ea7365379861ae785457c94c4"
 
 [[files]]
-file = "config/extrabiomes/extrabiomes.cfg"
-hash = "f808ec5163eddd2266a360daf3723a3ed2ba63da85559310a8b545c1f0fabac8"
+file = "config/extrabiomes/extrabiomes-config-expert.pw.toml"
+hash = "9a6c4e82d96190da6ac61ee92d1902f19ac8a18f8bcefa7306ab7fc0c687127a"
+metafile = true
+
+[[files]]
+file = "config/extrabiomes/extrabiomes-config-normal.pw.toml"
+hash = "a118b65bf9ea2eb81caa1081606b7d89453b928140f1c106bb0aa446da3be8ea"
+metafile = true
 
 [[files]]
 file = "config/factorization.cfg"
@@ -286,15 +291,41 @@ hash = "d856f79e0b24b6c4481cef8d2db32327d529c162a79de23af09d1042b3cd2b84"
 
 [[files]]
 file = "config/forgeChunkLoading.cfg"
-hash = "c0e7e4d739b50a8ad635b71bf227d88a5832ee129af0c841d0028cca8b2fe2dc"
+hash = "7d1091fa9dc3dbb8baba52f5160bd17cdb39d8d739c887cb7b8b609eaa8db467"
+
+[[files]]
+file = "config/ic2-config-expert.pw.toml"
+hash = "cd2c1da48e918e649654e60dd11caa7b5b5dba05cc2edbe729b455fc5128b2dc"
+metafile = true
+
+[[files]]
+file = "config/ic2-config-normal.pw.toml"
+hash = "f8925b293bec8a6c58f6f13776dcb3e7405fdb28bbe16b3d099609fce87a3185"
+metafile = true
 
 [[files]]
 file = "config/immibis.cfg"
 hash = "e54286c826cad4ad087199f72ad2f33528285f593548887344e0cedd61c083f8"
 
 [[files]]
-file = "config/mmmPowersuits.cfg"
-hash = "c71e9aff0b16a900d769d201802d4ec651e9b6aafc359261671fd16fbd493a8e"
+file = "config/mfr-config-expert.pw.toml"
+hash = "d6bf5a608fd567472fcd4d86bf216b4d7b33b0a1bd57bdf80d333a92bfcc307d"
+metafile = true
+
+[[files]]
+file = "config/mfr-config-normal.pw.toml"
+hash = "23b694d836ba8aba35ea87653013e1dcb210c2ff46acb95e895d4ac04f978cda"
+metafile = true
+
+[[files]]
+file = "config/mmmpowersuits-config-expert.pw.toml"
+hash = "948b287f155013687f6d53493022182bb95cfb6cd10bcffd69478a3e1f2e65fb"
+metafile = true
+
+[[files]]
+file = "config/mmmpowersuits-config-normal.pw.toml"
+hash = "2ff201c01d9d3868809de9883ac3216476da77ddcf34c6f25531becbbcc3cf03"
+metafile = true
 
 [[files]]
 file = "config/mod_MouseTweaks.cfg"
@@ -305,8 +336,14 @@ file = "config/modstats.cfg"
 hash = "e9c8de1b013e0926499042501d9046001a07a8447f424b3ed5d42859ab8a923e"
 
 [[files]]
-file = "config/mystcraft_config.txt"
-hash = "330e7a93e5108bf6393b91755d1ec55c2676c31d2dc2b08bd183af34e0b0aaf7"
+file = "config/mystcraft-config-expert.pw.toml"
+hash = "2810d19e9a7ef6a9ae9c35b47d0c4b7de383a4f7a013ea9704040670c7bb1cbd"
+metafile = true
+
+[[files]]
+file = "config/mystcraft-config-normal.pw.toml"
+hash = "2e52b170e349fc0065ce15a37e9bfce2fc4808072950037105afc5864b87c42a"
+metafile = true
 
 [[files]]
 file = "config/railcraft/modules.cfg"
@@ -314,7 +351,7 @@ hash = "8009f1a123cf9d854a2cbad48f3b449b7fa2219bce54a53bab4b20f1d7f97376"
 
 [[files]]
 file = "config/railcraft/railcraft.cfg"
-hash = "3a21c914f7f0cb45b233a8f1de413545ef5cf0566cb57e488697837a4076fcfe"
+hash = "88c496900d7fb8fa26e8b8db5c82dc4600d260d345c12ca41584aa23da00e567"
 
 [[files]]
 file = "config/redpower/redpower.cfg"
@@ -497,10 +534,6 @@ file = "mods/PetroGen.zip"
 hash = "453772af8b3419fd436c8efaed7709bb36a1b13ddfcd00153f78947dc1f04541"
 
 [[files]]
-file = "mods/PowerConverters.jar"
-hash = "dc257b7108c4bc58fc469b40f20ca3e80e45f1efd2e149435743c1a78d577e2b"
-
-[[files]]
 file = "mods/Railcraft.zip"
 hash = "d1cfae23b2a56599bff5212695cc31253f529ded3e6d79e10acff7895e469c18"
 
@@ -646,6 +679,11 @@ metafile = true
 [[files]]
 file = "mods/portal-gun.pw.toml"
 hash = "e9fc3d19ef753729f4aab33cb216bd44a371f01a5c37d7ccd22e470e765183ac"
+metafile = true
+
+[[files]]
+file = "mods/power-converters.pw.toml"
+hash = "135015c08d31dd30f5bdc242bfdd41e3af4f32776780924cccc39de9ac2e3869"
 metafile = true
 
 [[files]]
@@ -4719,6 +4757,11 @@ file = "scripts/oredict-info-panel.zs"
 hash = "1a0650b1f136f47b81b967c3bbcf97f3e9a567d91200aa4ad51415d5ceea3095"
 
 [[files]]
+file = "scripts/powersuits-scripts-expert.pw.toml"
+hash = "c06abfbffb32b3860842b40b65b23624410f0e355b8700b0f15ad46f0d344972"
+metafile = true
+
+[[files]]
 file = "scripts/sulfur-oredict.zs"
 hash = "b00e96cafc3daf1292f29e3565a9519c50b04d511ae26caedee9e6d9c9d1661d"
 
@@ -4764,4 +4807,4 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "unsup.toml"
-hash = "5477e92d5592460716879e0055c7bbc13e0f912c9ab7db53c598f9418b68f7d2"
+hash = "8ccd26771a421f135c7e12493ec324158630e31f5d49cc0e039738704ce728e9"

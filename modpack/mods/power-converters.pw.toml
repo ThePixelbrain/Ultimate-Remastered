@@ -1,0 +1,8 @@
+name = "PowerConverters"
+filename = "PowerConverters.jar"
+side = "both"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/mods/PowerConverters.jar"
+hash-format = "sha256"
+hash = "dc257b7108c4bc58fc469b40f20ca3e80e45f1efd2e149435743c1a78d577e2b"

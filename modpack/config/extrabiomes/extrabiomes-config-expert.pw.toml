@@ -1,0 +1,8 @@
+name = "extrabiomes-normal"
+filename = "extrabiomes.cfg"
+side = "both"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/config/extrabiomes/extrabiomes-expert.cfg"
+hash-format = "sha256"
+hash = "02147867ed95895716d13582dd635af7771c1dfd6ad97ec7b2249f61eb643283"

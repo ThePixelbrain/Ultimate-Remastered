@@ -1,0 +1,8 @@
+name = "powersuits-scripts-expert"
+filename = "powersuits.zs"
+side = "both"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/scripts/powersuits.zs"
+hash-format = "sha256"
+hash = "a0392ceeae7d91c74320cb520910fce796155caca8eab2f5e9435036cd5d4f1e"

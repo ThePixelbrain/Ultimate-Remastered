@@ -1,0 +1,8 @@
+name = "gregtech-config-normal"
+filename = "GregTech.cfg"
+side = "both"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/config/GregTech/GregTech-normal.cfg"
+hash-format = "sha256"
+hash = "248a0d0ea26f1044bf04c02f107bd6a387c3ae878fbe9f0c10390b03f33fab72"
