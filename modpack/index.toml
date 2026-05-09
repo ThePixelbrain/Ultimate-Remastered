@@ -532,10 +532,6 @@ file = "mods/RetroTweaker.jar"
 hash = "e1bd4901e53e740c7728e77e592042d634633d9971509c570ade394754202765"
 
 [[files]]
-file = "mods/Ruins_1.4.6.zip"
-hash = "47ef0c2ede5abf934add0fc48662c274bc80e0d012b828d88dbda28592137fc1"
-
-[[files]]
 file = "mods/SecretRoomsMod.zip"
 hash = "1bb6b95939178e2e69845ce7bc4607fe29cf75a986f532a4518bfe8c093c03ff"
 
@@ -3095,6 +3091,11 @@ hash = "cf6a5d33092af13932597a8109d63b4c9fee24101a2a67115f0fa5b5e8726bce"
 metafile = true
 
 [[files]]
+file = "mods/ruins.pw.toml"
+hash = "b38c89ce43f6c7d330275afb9b952010c3cd2a784637f11e7c811e469708b4d3"
+metafile = true
+
+[[files]]
 file = "mods/ruins.txt"
 hash = "623d507b856e0f253ad20b7abf1a017a2fd3e1b6919d74f4da0b5cdf4ef1731f"
 
@@ -3149,7 +3150,7 @@ hash = "31b01cb57f317e8aadc87b08ab2d26935b6794ca60ad9ced44c11176755dc9c5"
 
 [[files]]
 file = "nilmods/bedcraft-fixes.pw.toml"
-hash = "939fe5ed254f3a8bd02eec9043e26a02297ae4f305642fdf2cd55eb8d9ddc3c3"
+hash = "1926b02470cc74ec7bfaa4741e0ce10507eb9d7c774e8b4a11d4e2d6ec3012e5"
 metafile = true
 
 [[files]]
@@ -4802,4 +4803,4 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "unsup.toml"
-hash = "356b85065b4e4e41119542c327c1dde5d55978df2caa6247b299f80bff58443e"
+hash = "c085572cef3ce97afcaf96421f929f12cc8d035dbe4a5d8e0c89c06c68b1bd84"

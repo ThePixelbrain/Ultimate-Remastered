@@ -19,4 +19,4 @@ echo 'hash-format = "sha256"' >> "$METAFILE"
 echo "hash = \"$(sha256sum "$2" | awk '{print $1}')\"" >> "$METAFILE"
 
 echo "$LOCALFILE" >> "$BASEDIR/modpack/.packwizignore"
-sort -uo "$BASEDIR/modpack/.packwizignore" "$BASEDIR/modpack/.packwizignore"
+sort -fuo "$BASEDIR/modpack/.packwizignore" "$BASEDIR/modpack/.packwizignore"
