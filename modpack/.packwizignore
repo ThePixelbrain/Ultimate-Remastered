@@ -22,4 +22,6 @@ mods/VoxelMap.litemod
 nilmods/BedcraftFixes.jar
 nilmods/NilMacosFixes.jar
 nilmods/NiteLoader.jar
+options.txt
 scripts/powersuits.zs
+servers.dat

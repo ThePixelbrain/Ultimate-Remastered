@@ -1,0 +1,8 @@
+name = "options"
+filename = "options.txt"
+side = "client"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/options.txt"
+hash-format = "sha256"
+hash = "798ed3b422b1e91434ab709bff6c18a8380b1ae3e519e95ec1f97c22da288cbc"

@@ -3168,8 +3168,9 @@ file = "nilmods/sha1redemption.jar"
 hash = "23d8f1dcc622f9ab229e243e1852e1950165150bc0299e0a3712c4049377fb80"
 
 [[files]]
-file = "options.txt"
-hash = "798ed3b422b1e91434ab709bff6c18a8380b1ae3e519e95ec1f97c22da288cbc"
+file = "options.pw.toml"
+hash = "4620ab93aae6d9057da714f050dfebc76e25ef9bbac5ca46d43493e97b8740cb"
+metafile = true
 
 [[files]]
 file = "resources/portalgun/sound/portalgun/afp-launch-ogg.pw.toml"
@@ -4764,6 +4765,11 @@ hash = "b00e96cafc3daf1292f29e3565a9519c50b04d511ae26caedee9e6d9c9d1661d"
 [[files]]
 file = "scripts/thaumicbees.zs"
 hash = "3a25110fd2be2b8c6f00815db64d85480c8ce528256cceabd3959f92a3765b9b"
+
+[[files]]
+file = "servers.pw.toml"
+hash = "a85dd2f395c2cac264d8a166b003002dc4e758444f38e395a59a2822bd50e306"
+metafile = true
 
 [[files]]
 file = "texturepacks/Bedcraft/pack.png"

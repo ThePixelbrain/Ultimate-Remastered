@@ -1,0 +1,8 @@
+name = "servers"
+filename = "servers.dat"
+side = "client"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/servers.dat"
+hash-format = "sha256"
+hash = "e3173eb37fa612cd6b98f2469297b1e28164a08e7ff25b9190ede38049aae1ed"
