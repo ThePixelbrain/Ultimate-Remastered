@@ -360,6 +360,10 @@ file = "config/rpcdrive.cfg"
 hash = "74a5941f7f5a48774dbabf502197752712d8db820ea2e858ce87dc83814d16dd"
 
 [[files]]
+file = "config/rptweaks.conf"
+hash = "b3b91dff201796cd623c9391083e0670ae2e2f960abdc2fbfa4c2b65adf89b5b"
+
+[[files]]
 file = "config/upsilonfixes/enabled-layers.txt"
 hash = "7dbd2827a8efb3694733974a0a60d1076c795f393a2e5ccb1614c7c64c1f1fe8"
 
