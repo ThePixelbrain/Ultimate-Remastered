@@ -30,7 +30,7 @@ hash = "ef63a5383e8de17b99de5b41f5b51050feb9ce0245d54f7889deec3cf2e4f6ec"
 
 [[files]]
 file = "config/ChickenChunks.cfg"
-hash = "4ee6c779e46ba04c58d9fbea636c3b34121614610e3e3c5c5478b93e006bbb1b"
+hash = "301bf732e63a5ce1a6393f95ccdf8c354d8b5adf1b16ee478558602d599177e6"
 
 [[files]]
 file = "config/Chisel.cfg"
@@ -291,7 +291,7 @@ hash = "d856f79e0b24b6c4481cef8d2db32327d529c162a79de23af09d1042b3cd2b84"
 
 [[files]]
 file = "config/forgeChunkLoading.cfg"
-hash = "7d1091fa9dc3dbb8baba52f5160bd17cdb39d8d739c887cb7b8b609eaa8db467"
+hash = "9f3885f8fa2a0cc55065b08bf844842afcdae7346216ebc2cb63b0a683f76de9"
 
 [[files]]
 file = "config/ic2-config-expert.pw.toml"
@@ -362,6 +362,11 @@ hash = "74a5941f7f5a48774dbabf502197752712d8db820ea2e858ce87dc83814d16dd"
 [[files]]
 file = "config/rptweaks.conf"
 hash = "b3b91dff201796cd623c9391083e0670ae2e2f960abdc2fbfa4c2b65adf89b5b"
+
+[[files]]
+file = "config/tickthreading-config.pw.toml"
+hash = "39bc6d1a2b80fd67b2c287f6d3b6d41f1289edc1f0619a2bcf9596a66feeeb74"
+metafile = true
 
 [[files]]
 file = "config/upsilonfixes/enabled-layers.txt"
@@ -4813,4 +4818,4 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "unsup.toml"
-hash = "c085572cef3ce97afcaf96421f929f12cc8d035dbe4a5d8e0c89c06c68b1bd84"
+hash = "1a3bd3e4545e5c5341b0d31b7132864a700d39aa23383e7719eb4f75bfcb7a82"

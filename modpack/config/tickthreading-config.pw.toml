@@ -1,0 +1,8 @@
+name = "tickthreading-config"
+filename = "TickThreading.cfg"
+side = "server"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/config/TickThreading.cfg"
+hash-format = "sha256"
+hash = "ad3e2a0c669bbe55aa07629e93b416661f150c53a167bb6be385beba69b4a37b"

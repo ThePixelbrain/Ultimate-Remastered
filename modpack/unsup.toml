@@ -73,3 +73,6 @@ flavors = ["mcpc-plus", "tickthreading_on"]
 
 [metafile.bedcraftfixes-config]
 flavors = ["mcpc-plus", "tickthreading_on"]
+
+[metafile.tickthreading-config]
+flavors = "tickthreading_on"

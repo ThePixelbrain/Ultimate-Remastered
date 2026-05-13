@@ -11,6 +11,7 @@ config/mmmPowersuits-expert.cfg
 config/mmmPowersuits-normal.cfg
 config/mystcraft_config-expert.txt
 config/mystcraft_config-normal.txt
+config/TickThreading.cfg
 mcpc-plus.jar
 mods/DartCraft.jar
 mods/InvTweaks.zip
