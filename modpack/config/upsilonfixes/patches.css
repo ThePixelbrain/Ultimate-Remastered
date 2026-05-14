@@ -212,7 +212,7 @@ fixes {
 	 * Configures remainder items for GregTech cells. May break more than it fixes,
 	 * needs more research and work.
 	 */
-	gregtech-cell-remainder: on;
+	gregtech-cell-remainder: off;
 
 	/*
 	 * Adds a missing lang entry for the Trade-O-Mat's stock.
