@@ -1,0 +1,8 @@
+name = "bukkit-config"
+filename = "bukkit.yml"
+side = "server"
+
+[download]
+url = "https://ultrem.bedcraft.uk/modpack/bukkit.yml"
+hash-format = "sha256"
+hash = "0a80252b1d56d20cff595e75e6c58a85aafb8c7c8038ef16219a410f95d241a4"

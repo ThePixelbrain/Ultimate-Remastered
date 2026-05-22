@@ -73,3 +73,6 @@ flavors = ["mcpc-plus", "tickthreading_on"]
 
 [metafile.tickthreading-config]
 flavors = "tickthreading_on"
+
+[metafile.bukkit-config]
+flavors = "mcpc-plus"

@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "bukkit-config.pw.toml"
+hash = "f66fd05109888c934ac94c2d94df345e0376c5eb69f27751b09561913e1073ac"
+metafile = true
+
+[[files]]
 file = "config/AdvancedMachines.cfg"
 hash = "1663e3ec17a2709d43d815f1b4a7f921513fe9dae23f3d6c6fcedc6efe70a843"
 
@@ -2421,4 +2426,4 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "unsup.toml"
-hash = "093e299ea41b8a0d34d76e869de6ac8d08dfd71ce237b193446c09a414376d56"
+hash = "fc56f419e0b10419c5428ba40d7bf1fde68a8c3c02a0e6e7d5df24fc667a97dd"
