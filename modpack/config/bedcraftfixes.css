@@ -10,54 +10,72 @@ features {
 	mcpc-java-8: on;
 
 	/*
+	 * Prevents the move of Chunk Loaders and World Anchors with RedPower frames.
+	 * Bedcraft limits the amount of chunk loaders you can place and moving them with frames could abuse this.
+	 */
+	prevent-frame-chunkloader-move: on;
+
+	/*
 	 * TT's deadlock recovery is broken on Java 8.
 	 * Due to an oversight, the automatic restart on deadlock is broken without this patch.
 	 * Will only activate with TickThreading installed if set to AUTO.
 	 */
-	tickthreading-no-deadlock-recovery: auto;
+	tickthreading-no-deadlock-recovery: on;
 
 	/*
 	 * Fixes ClassCastException for special ChunkProviders
 	 * This fixes the anvil and shield peripheral from MiscPeripherals
 	 * Will only activate with TickThreading installed if set to AUTO.
 	 */
-	fix-tt-ChunkProvider-assumptions: auto;
+	fix-tt-ChunkProvider-assumptions: on;
 
 	/*
 	 * Send a bukkit event when a GraviGun interacts with blocks.
-	 * Will only activate on Bukkit Servers if set to AUTO.
+	 * Will only activate on Bukkit servers if set to AUTO.
 	 */
 	bukkit-event-gravigun: auto;
 
 	/*
 	 * Send a bukkit event when an IC2 explosion breaks blocks.
-	 * Will only activate on Bukkit Servers if set to AUTO.
+	 * Will only activate on Bukkit servers if set to AUTO.
 	 */
 	bukkit-event-ic2-explosion: auto;
 
 	/*
 	 * Send a bukkit event when an IC2 mining laser breaks blocks.
-	 * Will only activate on Bukkit Servers if set to AUTO.
+	 * Will only activate on Bukkit servers if set to AUTO.
 	 */
 	bukkit-event-ic2-mining-laser: auto;
 
 	/*
 	 * Send a bukkit event when a PortalGun interacts with blocks.
-	 * Will only activate on Bukkit Servers if set to AUTO.
+	 * Will only activate on Bukkit servers if set to AUTO.
 	 */
 	bukkit-event-portalgun: auto;
 
 	/*
 	 * Send a bukkit event when a ComputerCraft Turtle interacts with blocks.
 	 * A fake player will be created for every turtle with the name [Computercraft<ID>].
-	 * Will only activate on Bukkit Servers if set to AUTO.
+	 * Will only activate on Bukkit servers if set to AUTO.
 	 */
 	bukkit-event-computercraft: auto;
 
 	/*
 	 * Send a bukkit event when a RedPower Frame moves.
-	 * Will only activate on Bukkit Servers if set to AUTO.
+	 * Will only activate on Bukkit servers if set to AUTO.
 	 */
 	bukkit-event-redpower: auto;
+
+	/*
+	 * A faster IC2 Energy Net implementation that is able to handle larger nets better and more performant
+	 * Explosions will be disabled. The implementation was originally created by UXELDUXEL.
+	 */
+	ic2-uxel-energy-net: on;
+
+	/*
+	 * Allows input of 8192 EU/t (IV) per packet for the IC2 Mass Fabricator.
+	 * By default it will only accept 512 EU/t per packet (HV)
+	 */
+	ic2-massfab-iv-input: on;
 
 }

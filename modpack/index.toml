@@ -209,7 +209,7 @@ hash = "e054800cd760a1c0b3e8c38ee8dfd06fb0cb778c0c5438491e51ed7d432aaa5b"
 
 [[files]]
 file = "config/bedcraftfixes-config.pw.toml"
-hash = "e44dc079496431a8a5ca7d2e263b9fc48ba407c8883829e8fc1fd179f0950d32"
+hash = "aedc78e83d7ab8e8d87a903693c1404e010b48578bfcc59ba323269dd774c836"
 metafile = true
 
 [[files]]
@@ -767,7 +767,7 @@ hash = "31b01cb57f317e8aadc87b08ab2d26935b6794ca60ad9ced44c11176755dc9c5"
 
 [[files]]
 file = "nilmods/bedcraft-fixes.pw.toml"
-hash = "1926b02470cc74ec7bfaa4741e0ce10507eb9d7c774e8b4a11d4e2d6ec3012e5"
+hash = "ca9e05e19cfa6d50d222ab8a88b6968f717d51625f9fd514796ffebfd2f9fe0b"
 metafile = true
 
 [[files]]
@@ -2426,4 +2426,4 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "unsup.toml"
-hash = "fc56f419e0b10419c5428ba40d7bf1fde68a8c3c02a0e6e7d5df24fc667a97dd"
+hash = "930b2f70f70c2db7cb71f9a0c5aa1fd086dd37d095b67c511612019bbad0da97"
