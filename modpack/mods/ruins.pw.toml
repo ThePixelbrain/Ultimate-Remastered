@@ -1,8 +1,0 @@
-name = "ruins"
-filename = "Ruins_1.4.6.zip"
-side = "both"
-
-[download]
-url = "https://ultrem.bedcraft.uk/modpack/mods/Ruins_1.4.6.zip"
-hash-format = "sha256"
-hash = "47ef0c2ede5abf934add0fc48662c274bc80e0d012b828d88dbda28592137fc1"

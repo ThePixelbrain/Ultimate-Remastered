@@ -56,9 +56,6 @@ flavors = "normal"
 [metafile.power-converters]
 flavors = "normal"
 
-[metafile.ruins]
-flavors = "normal"
-
 [metafile.forge]
 flavors = "forge"
 

@@ -39,7 +39,6 @@ If you want to host your own server, download the [server zip](https://ultrem.be
 - **LogisticsPipes**: Automation addon for BuildCraft pipes
 - **[rpcDrive](https://modrinth.com/mod/rpcdrive)**: ComputerCraft / RedPower2 computer interoperability
 - **[OpenCCSensors](https://web.archive.org/web/20240706020601/http://computercraft.info/wiki/OpenCCSensors)**: Additional peripherals for ComputerCraft
-- **Ruins**: Worldgen structures that contain loot and traps
 
 ### Fixes, Backports, QoL changes
 
