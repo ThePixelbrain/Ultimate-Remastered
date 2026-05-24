@@ -209,7 +209,7 @@ hash = "e054800cd760a1c0b3e8c38ee8dfd06fb0cb778c0c5438491e51ed7d432aaa5b"
 
 [[files]]
 file = "config/bedcraftfixes-config.pw.toml"
-hash = "aedc78e83d7ab8e8d87a903693c1404e010b48578bfcc59ba323269dd774c836"
+hash = "e7a49876e3a11b2c72259426b4eb4e3851de0d9f0ea3e1d3bda404aca745293e"
 metafile = true
 
 [[files]]
@@ -767,7 +767,7 @@ hash = "31b01cb57f317e8aadc87b08ab2d26935b6794ca60ad9ced44c11176755dc9c5"
 
 [[files]]
 file = "nilmods/bedcraft-fixes.pw.toml"
-hash = "ca9e05e19cfa6d50d222ab8a88b6968f717d51625f9fd514796ffebfd2f9fe0b"
+hash = "fedd64b6e5d8d1e514f64b93dc13d55bf5ff59577812730cd7d9844f1ff5f5b7"
 metafile = true
 
 [[files]]

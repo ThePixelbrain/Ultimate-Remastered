@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://ultrem.bedcraft.uk/modpack/config/bedcraftfixes.css"
 hash-format = "sha256"
-hash = "68f03858558e71f935f9e91ba1520a202db0e52556e02a005aa15a9d1d10541e"
+hash = "e5c15195242c10566bc9a85bd80a88b435237f97113f957b5c93d68ed5e106df"

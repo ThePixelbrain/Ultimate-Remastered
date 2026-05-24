@@ -30,6 +30,14 @@ features {
 	fix-tt-ChunkProvider-assumptions: on;
 
 	/*
+	 * Fixes a race condition in the RedPower Deployer under TickThreading.
+	 * Multiple Deployers activated simultaneously share a static fake player instance,
+	 * causing their inventories to corrupt each other.
+	 * Will only activate with TickThreading installed if set to AUTO.
+	 */
+	fix-tt-redpower-deployer: on;
+
+	/*
 	 * Send a bukkit event when a GraviGun interacts with blocks.
 	 * Will only activate on Bukkit servers if set to AUTO.
 	 */
