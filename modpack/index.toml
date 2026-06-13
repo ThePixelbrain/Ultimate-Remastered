@@ -379,7 +379,7 @@ hash = "7dbd2827a8efb3694733974a0a60d1076c795f393a2e5ccb1614c7c64c1f1fe8"
 
 [[files]]
 file = "config/upsilonfixes/patches.css"
-hash = "894472c4cbc51703948f9ed76e1e5dc28f6ce4274a6d67f3fcc3fa15406c40b1"
+hash = "94eac63497d1b14fbebc596b3880d06ac18573b7ff15a173aad764ce377a965d"
 
 [[files]]
 file = "coremods/PowerCrystalsCore.jar"
@@ -499,7 +499,7 @@ hash = "4214d83460fdf40ff192677fd2ecc353e6ff4d71b34d49e5a95b03292d458b21"
 
 [[files]]
 file = "mods/LogisticsPipes.jar"
-hash = "5f0c4f53566cdeceb2493cdfcd0a4564755a57c7f5e6ac1c49fb7c8acacedbad"
+hash = "37a9afd83b4c537aeff48b90d15b0e9034a7c697a13921a22ef1ddc0896fba05"
 
 [[files]]
 file = "mods/MineFactoryReloaded.jar"
@@ -763,7 +763,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "31b01cb57f317e8aadc87b08ab2d26935b6794ca60ad9ced44c11176755dc9c5"
+hash = "41675966d38752a46bb5c612300606449c4a18c21f932634fecc0c9f8e122330"
 
 [[files]]
 file = "nilmods/bedcraft-fixes.pw.toml"

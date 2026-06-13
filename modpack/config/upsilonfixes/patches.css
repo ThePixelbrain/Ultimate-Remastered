@@ -84,6 +84,12 @@ features {
 	sprint-key-over-ic2-boost-key: on;
 
 	/*
+	 * If on, prints errors to the log whenever the world is accessed from a thread
+	 * other than the game thread.
+	 */
+	tattle-thread-safety: off;
+
+	/*
 	 * Stores the configuration of a dismantled Tesseract in the resulting item, and
 	 * restores it on place.
 	 */
@@ -209,15 +215,15 @@ fixes {
 	gravisuite-quantum-solar-helm-feeding: on;
 
 	/*
-	 * Configures remainder items for GregTech cells. May break more than it fixes,
-	 * needs more research and work.
-	 */
-	gregtech-cell-remainder: off;
-
-	/*
 	 * Adds a missing lang entry for the Trade-O-Mat's stock.
 	 */
 	ic2-localize-tradeomat-stock: on;
+
+	/*
+	 * Fixes a crash and console spam when large amounts of IC2 tile entity updates are
+	 * send.
+	 */
+	ic2-network-crash: on;
 
 	/*
 	 * Fixes a crash when IC2 tries to apply seasonal easter eggs to certain entities.
@@ -235,6 +241,11 @@ fixes {
 	 * libraries that have stricter checking.
 	 */
 	miscperipherals-asm-misuse: on;
+
+	/*
+	 * Flips the NEI tooltip to the left when it would go off-screen.
+	 */
+	nei-tooltip-offscreen: on;
 
 	/*
 	 * Fixes sounds and music for Portal Gun by replacing the asset index.
@@ -261,6 +272,11 @@ fixes {
 	rp2-missing-inventory-npe: on;
 
 	/*
+	 * Prevents addition of null aspects to Thaumcraft flux and item data.
+	 */
+	thaumcraft-tag-npe: on;
+
+	/*
 	 * Adds a missing lang entry for the Rejuvenating bee's effect.
 	 */
 	thaumicbees-localize-rejuvenating-effect: on;
@@ -270,6 +286,12 @@ fixes {
 	 * types are desynced - can be caused by frame machines, turtles, etc.
 	 */
 	thermal-tesseract-cast: on;
+
+	/*
+	 * Fixes random crashes caused by various mods accessing the world from the wrong
+	 * thread.
+	 */
+	thread-safety: off;
 
 	/*
 	 * Fixes Twilight Forest uncrafting exploits.
@@ -321,6 +343,12 @@ hacks {
 	 * like monitor flickering when closing the game or >60Hz getting messed up.
 	 */
 	disable-xrandr: on;
+
+	/*
+	 * Prevents crashes when the dimensions of an improperly-registered TextureFX are
+	 * queried.
+	 */
+	forge-texturefx-workaround: on;
 
 	/*
 	 * Swap the red and blue channels in the main framebuffer. Fixes the game rendering
