@@ -763,11 +763,11 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "41675966d38752a46bb5c612300606449c4a18c21f932634fecc0c9f8e122330"
+hash = "8372ea4dac57890b145240ee19a0b886bc3bf26c554849b6335ee1d4e75e752d"
 
 [[files]]
 file = "nilmods/bedcraft-fixes.pw.toml"
-hash = "fedd64b6e5d8d1e514f64b93dc13d55bf5ff59577812730cd7d9844f1ff5f5b7"
+hash = "ad1e4a3bcbc0e115c4c56d1f75393182a2a2bc0b5b1ee312321e4d08636c8f56"
 metafile = true
 
 [[files]]
