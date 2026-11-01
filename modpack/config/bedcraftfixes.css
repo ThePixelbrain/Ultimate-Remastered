@@ -20,14 +20,14 @@ features {
 	 * Due to an oversight, the automatic restart on deadlock is broken without this patch.
 	 * Will only activate with TickThreading installed if set to AUTO.
 	 */
-	tickthreading-no-deadlock-recovery: on;
+	tickthreading-no-deadlock-recovery: auto;
 
 	/*
 	 * Fixes ClassCastException for special ChunkProviders
 	 * This fixes the anvil and shield peripheral from MiscPeripherals
 	 * Will only activate with TickThreading installed if set to AUTO.
 	 */
-	fix-tt-ChunkProvider-assumptions: on;
+	fix-tt-ChunkProvider-assumptions: auto;
 
 	/*
 	 * Fixes a race condition in the RedPower Deployer under TickThreading.
@@ -35,7 +35,22 @@ features {
 	 * causing their inventories to corrupt each other.
 	 * Will only activate with TickThreading installed if set to AUTO.
 	 */
-	fix-tt-redpower-deployer: on;
+	fix-tt-redpower-deployer: auto;
+
+	/*
+	 * Fixes a deadlock between AE subnetworks under TickThreading.
+	 * A controller could update a terminal belonging to another network while holding its own lock.
+	 * Will only activate with TickThreading installed if set to AUTO.
+	 */
+	fix-tt-appeng-stale-viewers: auto;
+
+	/*
+	 * Fixes ME Level Emitters getting stuck under TickThreading.
+	 * Redstone read on another thread could see the output briefly switch while the network was being counted,
+	 * and neighbors could miss a state change while another thread was updating redstone.
+	 * Will only activate with TickThreading installed if set to AUTO.
+	 */
+	fix-tt-appeng-level-emitter: auto;
 
 	/*
 	 * Send a bukkit event when a GraviGun interacts with blocks.

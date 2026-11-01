@@ -209,7 +209,7 @@ hash = "e054800cd760a1c0b3e8c38ee8dfd06fb0cb778c0c5438491e51ed7d432aaa5b"
 
 [[files]]
 file = "config/bedcraftfixes-config.pw.toml"
-hash = "e7a49876e3a11b2c72259426b4eb4e3851de0d9f0ea3e1d3bda404aca745293e"
+hash = "d43abd589254178dab2d892c804056e5c8884fa71d668ff2df4822791e8c930e"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "config/mmmPowersuits.cfg"
-hash = "c71e9aff0b16a900d769d201802d4ec651e9b6aafc359261671fd16fbd493a8e"
+hash = "aac20c7915dc080302b3d9f19651cfbef6805d0d6fe4de57caa6faaac26d25dc"
 
 [[files]]
 file = "config/mod_MouseTweaks.cfg"
@@ -511,7 +511,7 @@ hash = "f3b00376f67f0a2313fe4ecf7de13cb3495510eafde969912f04dac1e4318a69"
 
 [[files]]
 file = "mods/ModularPowersuits.jar"
-hash = "1a0b7a4ccfa2fc76a9704798d429a36a70ab413a8e99d92bc3860d467922dfe0"
+hash = "560c775ed05676347900c2e0b64f12dbf27ce78759fb994dbd11b3c1e3e53ddb"
 
 [[files]]
 file = "mods/NEIAddons.jar"
@@ -758,7 +758,7 @@ metafile = true
 
 [[files]]
 file = "nilloader.pw.toml"
-hash = "55f75e79133b8e99137bea76b38e34bcddc9ce2f554e4426f34b04b70231f3ec"
+hash = "0639d39188a6382ceb6d64229bcaaa9aa9db31ea9d14ea45beb6f4247465a73f"
 metafile = true
 
 [[files]]
@@ -767,7 +767,7 @@ hash = "8372ea4dac57890b145240ee19a0b886bc3bf26c554849b6335ee1d4e75e752d"
 
 [[files]]
 file = "nilmods/bedcraft-fixes.pw.toml"
-hash = "ad1e4a3bcbc0e115c4c56d1f75393182a2a2bc0b5b1ee312321e4d08636c8f56"
+hash = "216431d22ed192637e2d8a388bcb2f8cdb11842a6639bfb3fa32442ca2990dea"
 metafile = true
 
 [[files]]

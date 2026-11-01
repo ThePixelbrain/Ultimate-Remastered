@@ -5,5 +5,5 @@ side = "server"
 [download]
 url = "https://ultrem.bedcraft.uk/modpack/nilmods/BedcraftFixes.jar"
 hash-format = "sha256"
-hash = "c5e485dc3e3ae5d383d44d2fbc7dc368588fceb3f0d3cbce95b9a495aace7e7b"
+hash = "a81080550b61b71b23936628c747b56fa12e1e365d5631476d2c072cbdc1d10c"
 
