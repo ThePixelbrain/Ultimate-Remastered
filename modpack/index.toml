@@ -677,6 +677,10 @@ hash = "73b0b4a78d9afc77913d7578bc141a4fa1d141da8d05e00e7d605e09f5625770"
 metafile = true
 
 [[files]]
+file = "mods/neiae.jar"
+hash = "717cd8293e8719756687913a85a043de2be9af852c16c0fd4faa4938df89b5c1"
+
+[[files]]
 file = "mods/obsidiplates.pw.toml"
 hash = "ecaad0bcfddbcfdcd879aaa2ab3a156ab891251ac19b9a323b10cf5567d85a46"
 metafile = true
